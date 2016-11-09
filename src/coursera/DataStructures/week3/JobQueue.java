@@ -1,13 +1,3 @@
-/*
- * Copyright (c) 2016. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
- * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
- * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
- * Vestibulum commodo. Ut rhoncus gravida arcu.
- */
-
-package coursera.DataStructures.week3;
-
 import java.io.*;
 import java.util.StringTokenizer;
 
@@ -22,7 +12,7 @@ public class JobQueue {
     private PrintWriter out;
 
     public static void main(String[] args) throws IOException {
-        new JobQueue().solve();
+        new JobQueue().solve(new InputStreamReader(System.in), System.out);
     }
 
     private void readData() throws IOException {
@@ -40,27 +30,75 @@ public class JobQueue {
         }
     }
 
+    class Thread {
+
+        private int id;
+        public long nextFreeTime;
+
+        public Thread(int id, long nextFreeTime) {
+            this.id = id;
+            this.nextFreeTime = nextFreeTime;
+        }
+
+    }
+
     private void assignJobs() {
-        // TODO: replace this code with a faster algorithm.
         assignedWorker = new int[jobs.length];
         startTime = new long[jobs.length];
-        long[] nextFreeTime = new long[numWorkers];
+
+        Thread[] workers = new Thread[numWorkers];
+        for (int i = 0; i < numWorkers; i++) {
+            workers[i] = new Thread(i, 0);
+        }
+
+        int size = workers.length;
+
         for (int i = 0; i < jobs.length; i++) {
             int duration = jobs[i];
-            int bestWorker = 0;
-            for (int j = 0; j < numWorkers; ++j) {
-                if (nextFreeTime[j] < nextFreeTime[bestWorker])
-                    bestWorker = j;
-            }
-            assignedWorker[i] = bestWorker;
-            startTime[i] = nextFreeTime[bestWorker];
-            nextFreeTime[bestWorker] += duration;
+            assignedWorker[i] = workers[0].id;
+            startTime[i] = workers[0].nextFreeTime;
+            workers[0].nextFreeTime += duration;
+            siftDown(workers, size, 0);
         }
     }
 
-    public void solve() throws IOException {
-        in = new FastScanner();
-        out = new PrintWriter(new BufferedOutputStream(System.out));
+    private void siftDown(Thread[] workers, int size, int i) {
+        int maxIndex = i;
+        int left = leftChild(i);
+        if (left < size && workers[left].nextFreeTime <= workers[maxIndex].nextFreeTime) {
+            if (workers[left].nextFreeTime < workers[maxIndex].nextFreeTime) {
+                maxIndex = left;
+            } else if (workers[left].nextFreeTime == workers[maxIndex].nextFreeTime && workers[left].id < workers[maxIndex].id) {
+                maxIndex = left;
+            }
+        }
+        int right = rightChild(i);
+        if (right < size && workers[right].nextFreeTime <= workers[maxIndex].nextFreeTime) {
+            if (workers[right].nextFreeTime < workers[maxIndex].nextFreeTime) {
+                maxIndex = right;
+            } else if (workers[right].nextFreeTime == workers[maxIndex].nextFreeTime && workers[right].id < workers[maxIndex].id) {
+                maxIndex = right;
+            }
+        }
+        if (i != maxIndex) {
+            Thread tmp = workers[i];
+            workers[i] = workers[maxIndex];
+            workers[maxIndex] = tmp;
+            siftDown(workers, size, maxIndex);
+        }
+    }
+
+    private int leftChild(int i) {
+        return 2 * i + 1;
+    }
+
+    private int rightChild(int i) {
+        return (2 * i) + 2;
+    }
+
+    public void solve(InputStreamReader input, PrintStream output) throws IOException {
+        in = new FastScanner(input);
+        out = new PrintWriter(new BufferedOutputStream(output));
         readData();
         assignJobs();
         writeResponse();
@@ -71,8 +109,8 @@ public class JobQueue {
         private BufferedReader reader;
         private StringTokenizer tokenizer;
 
-        public FastScanner() {
-            reader = new BufferedReader(new InputStreamReader(System.in));
+        public FastScanner(InputStreamReader input) {
+            reader = new BufferedReader(input);
             tokenizer = null;
         }
 

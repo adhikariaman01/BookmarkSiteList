@@ -13,6 +13,7 @@ package com.javaprep.multithreading;
  */
 public class SleepTest extends Thread{
     public void run(){
+        System.out.println("Current Thread Name : "+Thread.currentThread());
         for (int i=0;i<=10;i++){
             try {
                 Thread.sleep(500);

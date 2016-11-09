@@ -1,16 +1,12 @@
-/*
- * Copyright (c) 2016. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
- * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
- * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
- * Vestibulum commodo. Ut rhoncus gravida arcu.
- */
-
-package coursera.DataStructures.week3;
-
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+import java.io.OutputStream;
+import java.io.PrintWriter;
 import java.util.Locale;
 import java.util.StringTokenizer;
+
 
 public class MergingTables {
     private final InputReader reader;
@@ -28,9 +24,13 @@ public class MergingTables {
         writer.writer.flush();
     }
 
+
     class Table {
+
         Table parent;
+
         int rank;
+
         int numberOfRows;
 
         Table(int numberOfRows) {
@@ -38,9 +38,19 @@ public class MergingTables {
             rank = 0;
             parent = this;
         }
+
         Table getParent() {
-            // find super parent and compress path
-            return parent;
+
+            Table superRoot = this, i = this;
+            while (superRoot != superRoot.parent) {
+                superRoot = superRoot.parent;
+            }
+            while (i != superRoot) {
+                Table oldParent = i.parent;
+                i.parent = superRoot;
+                i = oldParent;
+            }
+            return superRoot;
         }
     }
 
@@ -48,13 +58,29 @@ public class MergingTables {
 
     void merge(Table destination, Table source) {
         Table realDestination = destination.getParent();
+
         Table realSource = source.getParent();
+
         if (realDestination == realSource) {
             return;
         }
-        // merge two components here
-        // use rank heuristic
-        // update maximumNumberOfRows
+
+        if (realSource.rank <= realDestination.rank) {
+
+            realSource.parent = realDestination;
+            realDestination.numberOfRows += realSource.numberOfRows;
+            realSource.numberOfRows = 0;
+        }
+        else {
+            realDestination.parent = realSource;
+            realSource.numberOfRows += realDestination.numberOfRows;
+            realDestination.numberOfRows = 0;
+        }
+        if (realSource.rank == realDestination.rank)
+            realDestination.rank++;  // since S is now under D
+        maximumNumberOfRows = Math.max(
+                Math.max(maximumNumberOfRows, realSource.numberOfRows),
+                realDestination.numberOfRows);
     }
 
     public void run() {
@@ -64,6 +90,7 @@ public class MergingTables {
         for (int i = 0; i < n; i++) {
             int numberOfRows = reader.nextInt();
             tables[i] = new Table(numberOfRows);
+            // Maintain the global max during initialization
             maximumNumberOfRows = Math.max(maximumNumberOfRows, numberOfRows);
         }
         for (int i = 0; i < m; i++) {
