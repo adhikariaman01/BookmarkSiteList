@@ -1,20 +1,57 @@
-/*
- * Copyright (c) 2016. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- * Morbi non lorem porttitor neque feugiat blandit. Ut vitae ipsum eget quam lacinia accumsan.
- * Etiam sed turpis ac ipsum condimentum fringilla. Maecenas magna.
- * Proin dapibus sapien vel ante. Aliquam erat volutpat. Pellentesque sagittis ligula eget metus.
- * Vestibulum commodo. Ut rhoncus gravida arcu.
- */
-
-package coursera.graphs.week4;
-
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class NegativeCycle {
+    final static long INF = Integer.MAX_VALUE;
+
     private static int negativeCycle(ArrayList<Integer>[] adj, ArrayList<Integer>[] cost) {
         // write your code here
+
+        // initialization
+        long[] dist = new long[adj.length];
+        for (int i = 1; i < adj.length; i++) {
+            dist[i] = INF;
+        }
+        dist[0] = 0;
+
+        // repeat adj.length-1 times
+        for (int i = 0; i < adj.length - 1; i++) {
+            // iterate through every vertex
+            for (int u = 0; u < adj.length; u++) {
+                ArrayList<Integer> u_adj = adj[u];
+                // relax every edge
+                for (Integer v : u_adj) {
+                    // here we assume the vertex indexes in the elements of adj and cost are in sync
+                    int v_index = adj[u].indexOf(v);
+
+                    relax(u, v, v_index, dist, cost);
+                }
+            }
+        }
+
+        // do one more iteration through every vertex
+        for (int u = 0; u < adj.length; u++) {
+            ArrayList<Integer> u_adj = adj[u];
+            // check if any edge can be relaxed
+            for (Integer v : u_adj) {
+                // here we assume the vertex indexes in the elements of adj and cost are in sync
+                int v_index = adj[u].indexOf(v);
+
+                if (dist[v] > dist[u] + cost[u].get(v_index)) {
+                    // if any edge can be relaxed,
+                    // it means there is a negative cycle in a graph
+                    return 1;
+                }
+            }
+        }
+
         return 0;
+    }
+
+    private static void relax(int u, Integer v, int v_index, long[] dist, ArrayList<Integer>[] cost) {
+        if (dist[v] > dist[u] + cost[u].get(v_index)) {
+            dist[v] = dist[u] + cost[u].get(v_index);
+        }
     }
 
     public static void main(String[] args) {
@@ -38,4 +75,3 @@ public class NegativeCycle {
         System.out.println(negativeCycle(adj, cost));
     }
 }
-
