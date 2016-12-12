@@ -1,2 +1,0 @@
-Write a Program to create Deck of Card & distribute card to 5 players.
-http://flexaired.blogspot.com/2013/09/shuffle-deck-of-52-cards-and-shuffle.html 
