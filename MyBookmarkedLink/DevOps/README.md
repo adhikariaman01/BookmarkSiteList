@@ -9,5 +9,7 @@
 
 * http://www.freeos.com/guides/lsst/
 
+# :mortar_board: [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
+# :mortar_board: [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
 
 
