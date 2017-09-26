@@ -9,7 +9,11 @@
 
 * [JavaTPoint - Shell Scripting](https://www.javatpoint.com/shell-scripting-tutorial)
 
+* [Learn Unix - Tutorial Point](https://www.tutorialspoint.com/unix/index.htm)
+
 * [FreeOS Guides](http://www.freeos.com/guides/lsst/)
+* [Linux MAN Page](http://man.he.net/)
+
 
 # Curated List for DevOps
 
