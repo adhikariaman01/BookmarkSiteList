@@ -11,5 +11,7 @@
 
 # :mortar_board: [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 # :mortar_board: [Awesome Docker](https://github.com/veggiemonk/awesome-docker)
+# :mortar_board: [Github Course DevOps](https://github.com/CSC-DevOps/Course)
+
 
 
