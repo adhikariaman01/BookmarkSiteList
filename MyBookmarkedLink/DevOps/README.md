@@ -1,7 +1,9 @@
 # Bookmarked Link for DevOps
 
 
-* # :muscle: [Learn Shell](http://www.learnshell.org/)
+* ## :muscle: [Scripting Tutorial List](http://wiki.bash-hackers.org/scripting/tutoriallist)
+
+* ### [Learn Shell](http://www.learnshell.org/)
 
 * ### [Docker Labs](https://github.com/docker/labs)
 
