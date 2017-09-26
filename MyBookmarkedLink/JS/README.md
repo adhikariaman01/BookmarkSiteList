@@ -1,6 +1,5 @@
 # Javascript Bookmarks :
 
-## Best Sites to look for JS
 ### [JS Info](https://javascript.info/)
 ### [JS is Sexy](http://javascriptissexy.com/)
 
