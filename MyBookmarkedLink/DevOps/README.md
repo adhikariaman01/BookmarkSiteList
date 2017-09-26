@@ -1,15 +1,15 @@
 # Bookmarked Link for DevOps
 
 
-* # :muscle: http://www.learnshell.org/
+* # :muscle: [Learn Shell](http://www.learnshell.org/)
 
-### [Docker Labs](https://github.com/docker/labs)
+* ### [Docker Labs](https://github.com/docker/labs)
 
-* https://www.shellscript.sh/
+* [ShellScript.sh](https://www.shellscript.sh/)
 
-* https://www.javatpoint.com/shell-scripting-tutorial
+* [JavaTPoint - Shell Scripting](https://www.javatpoint.com/shell-scripting-tutorial)
 
-* http://www.freeos.com/guides/lsst/
+* [FreeOS Guides](http://www.freeos.com/guides/lsst/)
 
 # Curated List for DevOps
 
