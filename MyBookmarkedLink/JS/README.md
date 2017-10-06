@@ -9,11 +9,17 @@
 #### [Promises - Zellwk](https://zellwk.com/blog/js-promises/)
 #### [Callback - Zellwk](https://zellwk.com/blog/callbacks/)
 
+
+---
+
+### [FrontEnd Interview Questions](https://github.com/khan4019/front-end-Interview-Questions)
+
 ---
 
 ### JS Interview Problems Link :
 
 * [10 Common JS Mistake - Toptal](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
+* [10 JS Inteview Questions - Upwork](https://www.upwork.com/i/interview-questions/javascript/)
 * [JS Hiring Guide - Toptal](https://www.toptal.com/javascript#hiring-guide)
 * [JS Interview Questions - Toptal](https://www.toptal.com/javascript/interview-questions)
 * [Codementor - 21 Tricky JS Interview Questions](https://www.codementor.io/nihantanu/21-essential-javascript-tech-interview-practice-questions-answers-du107p62z)
@@ -24,6 +30,8 @@
 * [JS DOm Related Interview Questions](http://khan4019.github.io/front-end-Interview-Questions/dom.html)
 * ### [JS Basic & Tricky Questions](http://khan4019.github.io/front-end-Interview-Questions/js2.html)
 
+
+* [JS Scope Quiz](http://madebyknight.com/javascript-scope/)
 ---
 
 * [JS Interview Algorithm](http://khan4019.github.io/front-end-Interview-Questions/js1.html)
