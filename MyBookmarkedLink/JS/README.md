@@ -21,7 +21,18 @@
 * [Tut Point JS Interview Questions](https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 * [30 JS Interview Questions](http://www.techbeamers.com/javascript-interview-questions-answers/)
 * [JS Interview I bombed](https://nathanleclaire.com/blog/2013/11/16/the-javascript-question-i-bombed-in-an-interview-with-a-y-combinator-startup/)
-* ()
+* [JS DOm Related Interview Questions](http://khan4019.github.io/front-end-Interview-Questions/dom.html)
+* ### [JS Basic & Tricky Questions](http://khan4019.github.io/front-end-Interview-Questions/js2.html)
+
+---
+
+* [JS Interview Algorithm](http://khan4019.github.io/front-end-Interview-Questions/js1.html)
+* []
+
+
+
+---
+
 
 ### jQuery Interview Problems :
 
