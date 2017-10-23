@@ -6,3 +6,6 @@
 
 # My Bookmarks :
 * [Machine Learning - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/)
+
+# Blogs 
+* [Prod ML Infrastructure](https://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/)
