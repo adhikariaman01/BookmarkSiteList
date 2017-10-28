@@ -1,5 +1,5 @@
 # Oracle
-
+* [Oracle JavaTPoint](https://www.javatpoint.com/oracle-tutorial)
 
 ---
 # VIDEOS :
