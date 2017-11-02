@@ -9,3 +9,6 @@
 #### [Learn C++](http://www.learncpp.com/)
 
 #### [TutPoint C++](https://www.tutorialspoint.com/cplusplus/)
+
+---
+* [C++ Book Recommendation - Stackoverflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
