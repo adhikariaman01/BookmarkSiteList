@@ -4,3 +4,4 @@
 * [Cloud Messaging using Kafka - Spring Cloud](https://www.jcore.com/2017/05/23/spring-cloud-messaging-using-kafka/)
 * [Stream Processing With Spring, Kafka, Spark and Cassandra](http://msvaljek.blogspot.hr/2015/12/stream-processing-with-spring-kafka_80.html)
 * [Spring Kafka - Example based Blogs](https://www.codenotfound.com/spring-kafka/)
+* [Microservices With AngularJS, Spring Boot, and Kafka](https://dzone.com/articles/developing-async-microservices-architecture-using)
