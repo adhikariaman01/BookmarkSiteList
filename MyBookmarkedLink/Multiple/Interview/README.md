@@ -1,6 +1,7 @@
 * :books: :book: [DSA revision for Interview](http://www.columbia.edu/~jxz2101/#12) :books:
 ---
 # Problem Solving Links
+* :boom::boom::boom:[Topcoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/):boom::boom::boom:
 * [Algorithm Problem Set Analysis](https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis)
 * [Topcoder Cookbook](https://apps.topcoder.com/forums/?module=Category&categoryID=4532)
 * :zap::zap::zap:[Topcoder Problem Archive](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Search&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=):zap::zap::zap:
