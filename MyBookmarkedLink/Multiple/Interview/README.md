@@ -13,3 +13,6 @@
 * [Programming Interview videos](https://www.youtube.com/user/mycodeschool/videos)
 * [Coding Interview Questions](https://www.youtube.com/playlist?list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj)
 #### [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)
+
+---
+* [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
