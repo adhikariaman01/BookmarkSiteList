@@ -2,6 +2,7 @@
 
 ---
 # VIDEOS :video_camera: :camera: :tv: 
+* :bookmark: :book: [Algorithm Design Manual - Steven Skiena](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 * :cop: :metal: [DSA TOPIC](https://www.youtube.com/channel/UCmY63R8Xn20c6uIzcGgmI9A)
 * [Interview Related Videos](https://www.youtube.com/channel/UCZSfwNcYIpqO8B9wnBg4HWA)
 * [Programming Interview Question](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
