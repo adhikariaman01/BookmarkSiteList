@@ -12,3 +12,4 @@
 #### :hearts: [Geek for Geek Videos](https://www.youtube.com/watch?v=il_t1WVLNxk&list=PLqM7alHXFySGqCvcwfqqMrteqWukz9ZoE)
 * [Programming Interview videos](https://www.youtube.com/user/mycodeschool/videos)
 * [Coding Interview Questions](https://www.youtube.com/playlist?list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj)
+#### [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)
