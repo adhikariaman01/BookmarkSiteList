@@ -1,4 +1,9 @@
 * :books: :book: [DSA revision for Interview](http://www.columbia.edu/~jxz2101/#12) :books:
+---
+# Problem Solving Links
+* [Algorithm Problem Set Analysis](https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis)
+* [Topcoder Cookbook](https://apps.topcoder.com/forums/?module=Category&categoryID=4532)
+* [Topcoder Problem Archive](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Search&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=)
 
 ---
 # VIDEOS :video_camera: :camera: :tv: 
