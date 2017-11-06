@@ -2,6 +2,7 @@
 
 ---
 # VIDEOS :video_camera: :camera: :tv: 
+* :cop: :metal: [DSA TOPIC](https://www.youtube.com/channel/UCmY63R8Xn20c6uIzcGgmI9A)
 * [Interview Related Videos](https://www.youtube.com/channel/UCZSfwNcYIpqO8B9wnBg4HWA)
 * [Programming Interview Question](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
 * [Interview Preparation for Data Structure and Algorithm Round - Tree Part 1](https://www.youtube.com/watch?v=TpMmcEwW524&t=1793s)
