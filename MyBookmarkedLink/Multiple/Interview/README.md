@@ -17,3 +17,6 @@
 ---
 * [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
 ## :v: :v: [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :v::v:
+* [Problem Solving Screencast](https://www.youtube.com/user/Endagorion/videos)
+* [Problem Solving Videos](https://www.youtube.com/channel/UC5sUXTFSRkZSCcGGxE7LQDQ/videos)
+
