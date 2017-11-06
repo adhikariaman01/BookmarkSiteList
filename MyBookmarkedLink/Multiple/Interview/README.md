@@ -5,6 +5,7 @@
 * [Topcoder Cookbook](https://apps.topcoder.com/forums/?module=Category&categoryID=4532)
 * :zap::zap::zap:[Topcoder Problem Archive](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Search&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=):zap::zap::zap:
 * :zap::zap::zap:[TopCoder Stats](https://community.topcoder.com/stat?c=last_match):zap::zap::zap:
+* [Archive of Topcoder Solution and Explanation](http://web.eecs.utk.edu/~plank/topcoder-writeups/)
 
 ---
 # VIDEOS :video_camera: :camera: :tv: 
