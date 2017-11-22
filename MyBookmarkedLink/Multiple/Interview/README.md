@@ -7,6 +7,7 @@
 * :zap::zap::zap:[Topcoder Problem Archive](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Search&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=):zap::zap::zap:
 * :zap::zap::zap:[TopCoder Stats](https://community.topcoder.com/stat?c=last_match):zap::zap::zap:
 * [Archive of Topcoder Solution and Explanation](http://web.eecs.utk.edu/~plank/topcoder-writeups/)
+* [700 Problems to understand Algorithm](http://praveendhinwacoding.blogspot.in/2013/06/700-problems-to-understand-you-complete.html)
 
 ---
 # VIDEOS :video_camera: :camera: :tv: 
