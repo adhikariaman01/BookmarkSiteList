@@ -11,3 +11,4 @@
 * [Project Ideas](http://www.ics.uci.edu/~lopes/teaching/cs221W12/slides/CS%20221%20Information%20Retrieval%20Projects.pdf)
 #### Videos
 * [Information Retrieval Course](https://www.youtube.com/playlist?list=PL0ZVw5-GryEkGAQT7lX7oIHqyDPeUyOMQ)
+* [NLP Coursera - 18th Contains InformationRetrieval](https://www.youtube.com/watch?v=nfoudtpBV68&list=PL6397E4B26D00A269)
