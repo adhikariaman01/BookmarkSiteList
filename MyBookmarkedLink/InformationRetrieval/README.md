@@ -4,4 +4,6 @@
 * [Inforamtion Retrieval and Web Search ](https://web.stanford.edu/class/cs276/course_schedule.html)
 
 
+#### Information Retrieval Projects
+* [Projects List](http://sifaka.cs.uiuc.edu/~wang296/Course/IR_Fall/project.html)
 
