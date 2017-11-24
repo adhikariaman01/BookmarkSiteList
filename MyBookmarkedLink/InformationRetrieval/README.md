@@ -9,3 +9,5 @@
 * [Projects List](http://sifaka.cs.uiuc.edu/~wang296/Course/IR_Fall/project.html)
 * [Project Ideas](http://projects.ict.usc.edu/nld/ir-class/content/project-ideas)
 * [Project Ideas](http://www.ics.uci.edu/~lopes/teaching/cs221W12/slides/CS%20221%20Information%20Retrieval%20Projects.pdf)
+#### Videos
+* [Information Retrieval Course](https://www.youtube.com/playlist?list=PL0ZVw5-GryEkGAQT7lX7oIHqyDPeUyOMQ)
