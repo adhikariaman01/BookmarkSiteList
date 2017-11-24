@@ -6,4 +6,5 @@
 
 #### Information Retrieval Projects
 * [Projects List](http://sifaka.cs.uiuc.edu/~wang296/Course/IR_Fall/project.html)
+* [Project Ideas](http://projects.ict.usc.edu/nld/ir-class/content/project-ideas)
 
