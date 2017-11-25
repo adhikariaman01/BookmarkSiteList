@@ -34,6 +34,7 @@ public class StronglyConnected {
                 counter++;
                 // ... continue doing DFS
                 explore(adj_r, v, i);
+                
             }
         }
 
