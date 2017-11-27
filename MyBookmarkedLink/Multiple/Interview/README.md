@@ -1,4 +1,6 @@
 * :books: :book: [DSA revision for Interview](http://www.columbia.edu/~jxz2101/#12) :books:
+
+# :blue_heart::heart::yellow_heart::blue_heart::green_heart::heart:[Google Interview Prep](http://blog.gainlo.co/index.php/category/google-interview-preparation/)
 ---
 # Problem Solving Links
 * :boom::boom::boom:[Topcoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/):boom::boom::boom:
