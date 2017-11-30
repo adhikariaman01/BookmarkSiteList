@@ -12,3 +12,8 @@
 
 
 ##### [React Fibre Desc](https://github.com/acdlite/react-fiber-architecture)
+
+# Videos :
+
+#### [React & Redux videos](https://learnredux.com/)
+
