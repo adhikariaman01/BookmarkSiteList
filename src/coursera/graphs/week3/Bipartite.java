@@ -4,6 +4,7 @@ import java.util.Queue;
 import java.util.Scanner;
 
 
+
 public class Bipartite {
 
     private static int bipartite(ArrayList<Integer>[] adj) {
