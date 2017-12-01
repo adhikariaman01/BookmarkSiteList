@@ -5,7 +5,10 @@
 #### [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 
 ---
-📕 📗 📘 📙[CLRS Solution Manual](http://www.math.ucsd.edu/~mbodnar/CLRS_Solutions_Manual.pdf) 📓 📔 📒 📚
+📕 📗 📘 📙
+[CLRS Solution Manual](http://www.math.ucsd.edu/~mbodnar/CLRS_Solutions_Manual.pdf) 
+[CLRS Selected Solution](https://mitpress.mit.edu/sites/default/files/titles/content/Intro_to_Algo_Selected_Solutions.pdf)
+📓 📔 📒 📚
 
 ---
 
