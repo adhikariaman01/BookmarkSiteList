@@ -6,8 +6,8 @@
 
 ---
 📕 📗 📘 📙
-[CLRS Solution Manual](http://www.math.ucsd.edu/~mbodnar/CLRS_Solutions_Manual.pdf) 
-[CLRS Selected Solution](https://mitpress.mit.edu/sites/default/files/titles/content/Intro_to_Algo_Selected_Solutions.pdf)
+* [CLRS Solution Manual](http://www.math.ucsd.edu/~mbodnar/CLRS_Solutions_Manual.pdf) 
+* [CLRS Selected Solution](https://mitpress.mit.edu/sites/default/files/titles/content/Intro_to_Algo_Selected_Solutions.pdf)
 📓 📔 📒 📚
 
 ---
