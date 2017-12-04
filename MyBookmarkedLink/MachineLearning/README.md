@@ -1,3 +1,7 @@
+# :closed_lock_with_key: Prerequisites
+* 
+
+
 # ML Curation 
 
 :mortar_board: [ML for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
