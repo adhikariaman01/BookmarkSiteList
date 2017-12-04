@@ -25,3 +25,4 @@
 #   :computer: :Videos
 * [Andrew Ng - Stanford - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 
+# :heart::heart:[BEST Resource in ML](https://machinelearningmastery.com/start-here/):blue_heart::blue_heart:
