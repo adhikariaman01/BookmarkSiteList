@@ -1,7 +1,6 @@
 # :closed_lock_with_key: Prerequisites
 * [Linear Algebra](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/LinearAlgebra)
-* Statistics
-* Probability
+* [Statistics & Probability](https://github.com/adhikariaman01/BookmarkSiteList/blob/master/MyBookmarkedLink/Statistics/README.md)
 
 
 # ML Curation 
