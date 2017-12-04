@@ -16,3 +16,11 @@
 # Blogs 
 * [Prod ML Infrastructure](https://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/)
 * [20 Lesson building ML system](https://www.kdnuggets.com/2015/12/xamat-20-lessons-building-machine-learning-systems.html)
+
+# Courses :
+* [Andrew Ng - Coursera ML]()
+
+* [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
+
+#   :computer: :Videos
