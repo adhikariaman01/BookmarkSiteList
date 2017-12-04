@@ -1,6 +1,8 @@
 # Statistics 
 
 # Course :
+* [Into to Probability](https://www.coursera.org/learn/introductiontoprobability)
+
 * [Statistics Specialization- Coursera](https://www.coursera.org/specializations/statistics)
 
 * [Intro to Statistics](https://www.udacity.com/course/intro-to-statistics--st101)
