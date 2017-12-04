@@ -1,5 +1,7 @@
 # :closed_lock_with_key: Prerequisites
-* 
+* Linear Algebra
+* Statistics
+* Probability
 
 
 # ML Curation 
