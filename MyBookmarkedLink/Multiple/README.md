@@ -14,4 +14,6 @@
 ---
 
 ### [Steven Skienna Site](http://www3.cs.stonybrook.edu/~skiena/) & [Youtube channel](https://www.youtube.com/user/StevenSkiena)
+
+### [Erik Demaine](http://erikdemaine.org/)
 ---
