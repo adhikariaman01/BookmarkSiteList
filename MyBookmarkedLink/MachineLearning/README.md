@@ -5,7 +5,7 @@
 
 # ML Curation 
 
-:mortar_board: [ML for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+[ML for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers):mortar_board: 
 
 
 
@@ -24,5 +24,6 @@
 
 #   :computer: :Videos
 * [Andrew Ng - Stanford - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
+* [Understanding ML - University of Waterloo](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO):mortar_board:
 
 # :heart::heart:[BEST Resource in ML](https://machinelearningmastery.com/start-here/):green_heart::green_heart:
