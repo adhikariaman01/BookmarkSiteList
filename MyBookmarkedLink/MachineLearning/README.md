@@ -17,6 +17,7 @@
 * [20 Lesson building ML system](https://www.kdnuggets.com/2015/12/xamat-20-lessons-building-machine-learning-systems.html)
 
 # Courses :
+* [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps)
 * [Andrew Ng - Coursera ML](https://www.coursera.org/learn/machine-learning)
 
 * [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
