@@ -6,7 +6,9 @@
 
 ## [Main Page : Stanford CS106X - Using C++](https://stanford.edu/class/cs106x/lectures.shtml)
 
-## [CS106L - Hardcore C++](http://web.stanford.edu/class/cs106l/)
+## [CS106L - Hardcore C++](http://web.stanford.edu/class/cs106l/) AND [OLD Labs Archieve](http://www.keithschwarz.com/cs106l/)
+
+--- 
 
 #### [Coursera C++ Course](https://www.coursera.org/learn/c-plus-plus-a)
 
