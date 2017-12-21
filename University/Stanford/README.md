@@ -6,5 +6,14 @@
 
 * CS 107 : Previously [Programming Paradigm](https://www.youtube.com/playlist?list=PL9D558D49CA734A02) Now it is [Computer Organization & Systems](https://web.stanford.edu/class/cs107/syllabus.html)
 
+* CS 108 : [Object Oriented System Design](http://web.stanford.edu/class/archive/cs/cs108/cs108.1092/)- uses Java
+* CS 109 : [Probability](http://web.stanford.edu/class/cs109//) for Computer Scientists
 
-* CS 193A :[Android](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/Android) App Development
+* CS156: [The Calculus of Computation](http://web.stanford.edu/class/cs156/)
+* CS157 : [Intro to Logic](http://logic.stanford.edu/classes/cs157/current/)
+
+* CS 193A : [Android](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/Android) App Development
+
+* CS224n : [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) 
+
+* CS231 : [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) with helpful [github](https://github.com/machinelearningnanodegree/stanford-cs231) repo of it
