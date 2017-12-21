@@ -5,7 +5,8 @@
 
 # ML Curation 
 
-[ML for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers):mortar_board: 
+* [ML for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+* [ML Nanodegree Repo](https://github.com/machinelearningnanodegree)
 
 
 
@@ -17,11 +18,11 @@
 * [20 Lesson building ML system](https://www.kdnuggets.com/2015/12/xamat-20-lessons-building-machine-learning-systems.html)
 
 # Courses :
-* [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps)
-* [Andrew Ng - Coursera ML](https://www.coursera.org/learn/machine-learning)
+* [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps):mortar_board: 
+* [Andrew Ng - Coursera ML](https://www.coursera.org/learn/machine-learning):mortar_board: 
 
-* [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-* [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
+* [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120):mortar_board: 
+* [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262):mortar_board: 
 
 #   :computer: :Videos
 * [Andrew Ng - Stanford - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
