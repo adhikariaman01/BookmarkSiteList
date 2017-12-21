@@ -1,3 +1,4 @@
 # New Stuff learned in JS
-```  Same Origin Policy
+```  Javascript
+Same Origin Policy
 ```
