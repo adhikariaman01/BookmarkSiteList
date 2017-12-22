@@ -2,7 +2,7 @@
 # :pushpin: Courses
 * [Linear Algebra ](https://www.youtube.com/user/LAFFutX/playlists) - Foundations to Frontiers : UT - Austin
 * [Linear Algebra Refresher Course - Udacity](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
-* [IIT - Linear Algebra](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7)
+* [IIT - Linear Algebra](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7) from other professor [youtube](https://www.youtube.com/channel/UCuDT05pYSqhtTQ-2ne-NiqA/videos)
 * [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm) also [YouTube Link](https://www.youtube.com/watch?list=PLE7DDD91010BC51F8&v=ZK3O402wf1c)
 * Application of Linear Algebra [Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1) and [Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2) from Edx
  ---
