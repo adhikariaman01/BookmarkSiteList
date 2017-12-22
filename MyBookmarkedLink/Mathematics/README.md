@@ -14,3 +14,6 @@
 * [Discrete Mathematics Course](http://www.aduni.org/courses/discrete/index.php?view=cw)
 * Intro to Mathematical Thinking[ Coursera : Stanford](https://www.coursera.org/learn/mathematical-thinking)
 * Intro to Logic [Coursera](https://www.coursera.org/learn/logic-introduction)
+ ---
+ # Discrete Maths Topics Helpful for Algorithms :
+ * graph theory, combinatorics, probability theory
