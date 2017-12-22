@@ -5,7 +5,8 @@
 ---
 * [Linear ALgebra](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/LinearAlgebra) is prerequisite for everything in CS where mathematics background is needed like Algorithm, ML , DL etc.
 ---
-
+Digital Logic Concept - [GATES](https://www.youtube.com/playlist?list=PLEbnTDJUr_Ica5kK6UypsWpf95Ut2sK3o)
+---
 * Discrete Mathematics[Coursera Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 * Discrete Mathematics [Coursera](https://www.coursera.org/learn/discrete-mathematics)
 
