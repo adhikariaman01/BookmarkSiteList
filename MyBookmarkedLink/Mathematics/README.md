@@ -1,6 +1,6 @@
 # Mathematics
 
-* Single Variable [Calculus MIT](https://www.coursera.org/instructor/robghrist) and from [MIT - 2006](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+* Single Variable Calculus[Coursera](https://www.coursera.org/instructor/robghrist) and from [MIT - 2006](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 * Multivariable Calculus [MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
 * 
 ---
