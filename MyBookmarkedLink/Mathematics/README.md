@@ -1,6 +1,6 @@
 # Mathematics
 
-* Single Variable [Calculus](https://www.coursera.org/instructor/robghrist)
+* Single Variable [Calculus](https://www.coursera.org/instructor/robghrist) and from [MIT - 2006](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 ---
 
 * Discrete Mathematics[Coursera Specialization](https://www.coursera.org/specializations/discrete-mathematics)
