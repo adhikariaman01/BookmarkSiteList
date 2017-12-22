@@ -19,3 +19,6 @@
 * CS224n : [Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/) 
 
 * CS231 : [Convolutional Neural Networks for Visual Recognition](http://vision.stanford.edu/teaching/cs231n/) with helpful [github](https://github.com/machinelearningnanodegree/stanford-cs231) repo of it
+
+---
+For More look at [Class Central](https://www.class-central.com/university/stanford)
