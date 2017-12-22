@@ -1,4 +1,5 @@
 # :closed_lock_with_key: Prerequisites
+* [Medium Article](https://towardsdatascience.com/the-mathematics-of-machine-learning-894f046c568) : Mathematics for Machine Learning
 * [Linear Algebra](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/LinearAlgebra)
 * [Statistics & Probability](https://github.com/adhikariaman01/BookmarkSiteList/blob/master/MyBookmarkedLink/Statistics/README.md)
 
