@@ -11,3 +11,6 @@
 
 * [Stanford Stat Class - Must Take](https://www.class-central.com/mooc/1579/stanford-openedx-statlearning-statistical-learning)
 * [IIT - Probability and Stat](http://nptel.ac.in/courses/111105041/1)
+
+# Must Watch Videos
+* Statistics [KhanAcademy](https://www.khanacademy.org/math/statistics-probability) with its [Youtube](https://www.youtube.com/playlist?list=PL1328115D3D8A2566) videos
