@@ -2,7 +2,8 @@
 
 * Single Variable Calculus[Coursera](https://www.coursera.org/instructor/robghrist) and from [MIT - 2006](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 * Multivariable Calculus [MIT](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
-* 
+---
+* [Linear ALgebra](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/LinearAlgebra) is prerequisite for everything in CS where mathematics background is needed like Algorithm, ML , DL etc.
 ---
 
 * Discrete Mathematics[Coursera Specialization](https://www.coursera.org/specializations/discrete-mathematics)
