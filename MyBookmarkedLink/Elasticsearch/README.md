@@ -7,5 +7,5 @@
 * [ES request structure](http://javasampleapproach.com/elasticsearch/elasticsearch-request-structure-of-a-search-request)
 ---
 ## Presentation 
-### [ES in ~4hrs](https://speakerdeck.com/felipead/elasticsearch-workshop)
+* [ES in ~4hrs](https://speakerdeck.com/felipead/elasticsearch-workshop)
 
