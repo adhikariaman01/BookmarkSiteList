@@ -8,7 +8,7 @@
 
 * [Promises - Zellwk](https://zellwk.com/blog/js-promises/)
 * [Callback - Zellwk](https://zellwk.com/blog/callbacks/)
-* [Best Resource to learn - Promise](https://codeutopia.net/blog/2016/06/29/the-best-resources-to-learn-about-javascript-promises/)
+* [Best Resource to learn - Promise](https://codeutopia.net/blog/2016/06/29/the-best-resources-to-learn-about-javascript-promises/) :bell: 
 
 
 ---
