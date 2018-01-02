@@ -1,22 +1,23 @@
 # Javascript Bookmarks :
 
-### [JS Info](https://javascript.info/)
-### [JS is Sexy](http://javascriptissexy.com/)
+* [JS Info](https://javascript.info/)
+* [JS is Sexy](http://javascriptissexy.com/)
 
 
 ---
 
-#### [Promises - Zellwk](https://zellwk.com/blog/js-promises/)
-#### [Callback - Zellwk](https://zellwk.com/blog/callbacks/)
+* [Promises - Zellwk](https://zellwk.com/blog/js-promises/)
+* [Callback - Zellwk](https://zellwk.com/blog/callbacks/)
+* [Best Resource to learn - Promise](https://codeutopia.net/blog/2016/06/29/the-best-resources-to-learn-about-javascript-promises/)
 
 
 ---
 
-### [FrontEnd Interview Questions](https://github.com/khan4019/front-end-Interview-Questions)
+* [FrontEnd Interview Questions](https://github.com/khan4019/front-end-Interview-Questions)
 
 ---
 
-### JS Interview Problems Link :
+# JS Interview Problems Link :
 
 * [10 Common JS Mistake - Toptal](https://www.toptal.com/javascript/10-most-common-javascript-mistakes)
 * [10 JS Inteview Questions - Upwork](https://www.upwork.com/i/interview-questions/javascript/)
@@ -35,14 +36,11 @@
 ---
 
 * [JS Interview Algorithm](http://khan4019.github.io/front-end-Interview-Questions/js1.html)
-* []
-
-
 
 ---
 
 
-### jQuery Interview Problems :
+# jQuery Interview Problems :
 
 * [jQuery Interview questions - Toptal](https://www.toptal.com/jquery/interview-questions)
 * [jQuery By Example Interview Questions](http://www.jquerybyexample.net/2013/07/latest-jquery-interview-questions-answers.html)
