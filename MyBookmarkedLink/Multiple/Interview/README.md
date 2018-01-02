@@ -21,10 +21,10 @@
 * [Cracking the Coding Interview](https://www.youtube.com/watch?v=4NIb9l3imAo&t=42s)
 * [Prep Videos](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/videos)
 * [System Design - WhatsApp, Twitter, Parkinglot videos](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
-#### [Geek for Geek Videos](https://www.youtube.com/watch?v=il_t1WVLNxk&list=PLqM7alHXFySGqCvcwfqqMrteqWukz9ZoE):hearts: 
+* [Geek for Geek Videos](https://www.youtube.com/watch?v=il_t1WVLNxk&list=PLqM7alHXFySGqCvcwfqqMrteqWukz9ZoE):hearts: 
 * [Programming Interview videos](https://www.youtube.com/user/mycodeschool/videos)
 * [Coding Interview Questions](https://www.youtube.com/playlist?list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj)
-#### [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)
+* [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)  :wave:
 
 ---
 * [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
@@ -45,10 +45,10 @@
 
 ## Site to Practice
 
-#### [HackerRank](https://www.hackerrank.com/)
-#### [Leetcode](https://leetcode.com/)
-#### [Nice Site](http://n00tc0d3r.blogspot.com/)
-
+* [HackerRank](https://www.hackerrank.com/)
+* [Leetcode](https://leetcode.com/)
+* [Nice Site](http://n00tc0d3r.blogspot.com/)
+* [Code Fights](https://codefights.com/)
 
 --- 
 
@@ -56,35 +56,35 @@
 
 ## System Design 
 
-### :pushpin: :paperclip: [System Design Collection Repo](https://github.com/donnemartin/system-design-primer)
-### :pushpin: :paperclip: [System Design Interview Related Repo](https://github.com/checkcheckzz/system-design-interview)
-### :pushpin: :paperclip: [System Design Interview Related Repo](https://github.com/shashank88/system_design)
+* :pushpin: :paperclip: [System Design Collection Repo](https://github.com/donnemartin/system-design-primer)
+* :pushpin: :paperclip: [System Design Interview Related Repo](https://github.com/checkcheckzz/system-design-interview)
+* :pushpin: :paperclip: [System Design Interview Related Repo](https://github.com/shashank88/system_design)
 
-#### [Massive Tech Interview](http://massivetechinterview.blogspot.com/2015/06/algorithm-how-to-count-number-of.html):spades::hearts:
+* [Massive Tech Interview](http://massivetechinterview.blogspot.com/2015/06/algorithm-how-to-count-number-of.html):spades::hearts:
 
-#### [How to Ace Sys Design Interview](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
+* [How to Ace Sys Design Interview](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
 
-#### [Interview Bit](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
+* [Interview Bit](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
 
-#### [Gainloo Blogs](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
+* [Gainloo Blogs](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 
-#### [Leetcode Solution/Explanation](http://www.learn4master.com/data-structures/hashtable/leetcode-lru-cache-solution-in-java)
+* [Leetcode Solution/Explanation](http://www.learn4master.com/data-structures/hashtable/leetcode-lru-cache-solution-in-java)
 
-#### [Design Facebook - prismoskills](http://prismoskills.appspot.com/lessons/System_Design_and_Big_Data/Chapter_08_-_Designing_Facebook.jsp)
+* [Design Facebook - prismoskills](http://prismoskills.appspot.com/lessons/System_Design_and_Big_Data/Chapter_08_-_Designing_Facebook.jsp)
 
-#### [Sys Design for Big Data](http://n00tc0d3r.blogspot.com/2013/09/big-data-consistent-hashing.html)
+* [Sys Design for Big Data](http://n00tc0d3r.blogspot.com/2013/09/big-data-consistent-hashing.html)
 
-#### [Gayle Laakmann McDowell Video](https://www.youtube.com/results?search_query=Gayle+Laakmann+McDowell)
+* [Gayle Laakmann McDowell Video](https://www.youtube.com/results?search_query=Gayle+Laakmann+McDowell)
 
-#### [Google Codejam Paspaper](https://code.google.com/codejam/contests.html)
+* [Google Codejam Paspaper](https://code.google.com/codejam/contests.html)
 
-#### [Google Codejam Pastpaper 1](https://code.google.com/codejam/contest/7234486/dashboard)
+* [Google Codejam Pastpaper 1](https://code.google.com/codejam/contest/7234486/dashboard)
 
-#### [How to do in Java](http://howtodoinjava.com/java-best-practices/)
+* [How to do in Java](http://howtodoinjava.com/java-best-practices/)
 
-#### [Quora Q/A :speech_balloon:](https://www.quora.com/Which-are-the-frequently-asked-interview-questions-for-Java-Engineers)
+* [Quora Q/A :speech_balloon:](https://www.quora.com/Which-are-the-frequently-asked-interview-questions-for-Java-Engineers)
 
-###### [Goole Search](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=system%20design%20interview%20questions)
+* [Goole Search](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=system%20design%20interview%20questions)
 
 
 
@@ -92,11 +92,7 @@
 
 ## Interview prep link on Various topics
 
-#### [StackOverflow Q/A : "Question every Java/EE dev must answer"](http://stackoverflow.com/questions/2114212/questions-every-good-java-java-ee-developer-should-be-able-to-answer)
-#### [Codility Practice Questions](https://codility.com/programmers/lessons/1-iterations/)
+* [StackOverflow Q/A : "Question every Java/EE dev must answer"](http://stackoverflow.com/questions/2114212/questions-every-good-java-java-ee-developer-should-be-able-to-answer)
+* [Codility Practice Questions](https://codility.com/programmers/lessons/1-iterations/)
 
-#### [:angel: :sparkling_heart: Cracking Coding Interview Course- Hackerrank :two_hearts:  :purple_heart:](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
-
-## AWS Prep :
-#### [AWS Tuts - Guru99](http://www.guru99.com/aws-tutorial.html)
-#### [AWS Getting Started](https://aws.amazon.com/getting-started/tutorials/)
+* [:angel: :sparkling_heart: Cracking Coding Interview Course- Hackerrank :two_hearts:  :purple_heart:](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
