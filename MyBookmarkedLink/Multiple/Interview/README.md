@@ -1,6 +1,6 @@
-* :books: :book: [DSA revision for Interview](http://www.columbia.edu/~jxz2101/#12) :books:
-
-# :blue_heart::heart::yellow_heart::blue_heart::green_heart::heart:[Google Interview Prep](http://blog.gainlo.co/index.php/category/google-interview-preparation/)
+* [DSA revision for Interview](http://www.columbia.edu/~jxz2101/#12) :books: :books: :book: 
+* Software Engineer Interview Questions [Gitbook](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/)
+* [Google Interview Prep](http://blog.gainlo.co/index.php/category/google-interview-preparation/):blue_heart::heart::yellow_heart::blue_heart::green_heart::heart:
 ---
 # Problem Solving Links
 * [Topcoder Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/):boom::boom::boom:
@@ -37,10 +37,6 @@
 
 #### [Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0):bulb: :trophy:
 
-
----
----
-
 # :thought_balloon: My Bookmarked List : :thought_balloon:
 
 ## Site to Practice
@@ -51,7 +47,6 @@
 * [Code Fights](https://codefights.com/)
 
 --- 
-
 
 
 ## System Design 
