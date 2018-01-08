@@ -11,3 +11,5 @@
 ## Interview Questions :
 * Java Interview Question in [Udemy](https://blog.udemy.com/java-interview-questions/) blog
 * Codementor Java Interview [Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23)
+## Courses :
+* Course with Nice [Slides](http://www.cs.cmu.edu/~charlie/courses/15-214/2017-fall/index.html) : Objects, Design, and Concurrency
