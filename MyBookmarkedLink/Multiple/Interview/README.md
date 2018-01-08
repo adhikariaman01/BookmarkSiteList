@@ -27,8 +27,8 @@
 * [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)  :wave:
 
 ---
-* [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
 ## [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :v::v:
+* [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
 * [Problem Solving Screencast](https://www.youtube.com/user/Endagorion/videos)
 * [Problem Solving Videos](https://www.youtube.com/channel/UC5sUXTFSRkZSCcGGxE7LQDQ/videos)
 
