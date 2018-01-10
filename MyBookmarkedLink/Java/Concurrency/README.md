@@ -13,6 +13,7 @@ Ch7 - [Concurrent Utils](https://java2blog.com/concurrenthashmap-in-java/) :+1::
 # Topical :
 * Completable Future [Baeldung](http://www.baeldung.com/java-completablefuture)
 * Completable Future [Tutorial](https://www.callicoder.com/java-8-completablefuture-tutorial/)
+* Java8 Completables Future [Tuts](http://codingjunkie.net/completable-futures-part1/)
 
 # Videos :
 * Ram N
