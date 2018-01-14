@@ -1,13 +1,9 @@
 # Bookmarked Link for DevOps
 
 
-* ## :muscle: [Scripting Tutorial List](http://wiki.bash-hackers.org/scripting/tutoriallist)
+* [Scripting Tutorial List](http://wiki.bash-hackers.org/scripting/tutoriallist):muscle: 
 
-* ### [Learn Shell](http://www.learnshell.org/)
-
-* ### [:whale: Docker Labs](https://github.com/docker/labs)
-* ### [:whale: Hacker IO - Docker List](https://hackr.io/tutorials/learn-docker)
-* [:whale: Reddit thread on - 'Best way to learn Docker'](https://www.reddit.com/r/docker/comments/6ej6ic/best_way_to_learn_docker/)
+* [Learn Shell](http://www.learnshell.org/)
 
 * [ShellScript.sh](https://www.shellscript.sh/)
 
