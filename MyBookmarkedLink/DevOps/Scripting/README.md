@@ -1,6 +1,7 @@
 # Scripting
 * Vim [Tutorial](https://linuxconfig.org/vim-tutorial)
 * [Vim Tutorial](https://www.systutorials.com/240159/vim-tutorial-beginners-vimtutor/)
+---
 
 * [Scripting Tutorial List](http://wiki.bash-hackers.org/scripting/tutoriallist):muscle: 
 
