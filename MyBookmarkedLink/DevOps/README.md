@@ -1,21 +1,6 @@
 # Bookmarked Link for DevOps
 
-* Vim [Tutorial](https://linuxconfig.org/vim-tutorial)
-* [Vim Tutorial](https://www.systutorials.com/240159/vim-tutorial-beginners-vimtutor/)
-
-* [Scripting Tutorial List](http://wiki.bash-hackers.org/scripting/tutoriallist):muscle: 
-
-* [Learn Shell](http://www.learnshell.org/)
-
-* [ShellScript.sh](https://www.shellscript.sh/)
-
-* [JavaTPoint - Shell Scripting](https://www.javatpoint.com/shell-scripting-tutorial)
-
-* [Learn Unix - Tutorial Point](https://www.tutorialspoint.com/unix/index.htm)
-
-* [FreeOS Guides](http://www.freeos.com/guides/lsst/)
-* [Linux MAN Page](http://man.he.net/)
-
+* [Scripting]()
 
 # Curated List for DevOps
 
