@@ -1,6 +1,6 @@
 # Bookmarked Link for DevOps
 
-* [Scripting]()
+
 
 # Curated List for DevOps
 
