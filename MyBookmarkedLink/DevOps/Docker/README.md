@@ -2,6 +2,9 @@
 * [Docker Doc](https://docs.docker.com/engine/tutorials/networkingcontainers/#add-containers-to-a-network)
 * [Play with Docker Classroom](http://training.play-with-docker.com/)
 
+* [Docker Labs](https://github.com/docker/labs) :whale: 
+* [Hacker IO - Docker List](https://hackr.io/tutorials/learn-docker) :whale: 
+* [Reddit thread on - 'Best way to learn Docker'](https://www.reddit.com/r/docker/comments/6ej6ic/best_way_to_learn_docker/):whale: 
 
 # Docker Videos :whale: 
 
