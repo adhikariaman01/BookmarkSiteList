@@ -10,5 +10,8 @@
 * RxJava [Medium](https://medium.com/@milenko_52829/understanding-java-rxjava-for-beginners-5eacb8de12ca) Article
 * RxJava by [InfoQ](https://www.infoq.com/search.action?queryString=rxjava&page=1&searchOrder=&sst=r9PuT7Hq73eVTrDW)
 
-* Quick Intro to [RxJava](https://dzone.com/users/2575950/praveer09.html) , Creating [Observable](https://dzone.com/articles/creating-an-observable-in-rxjava) in RxJava 
+* Series : 
+1) Quick Intro to [RxJava](https://praveer09.github.io/technology/2016/02/13/rxjava-part-1-a-quick-introduction/)  
+2) Creating [Observable](https://praveer09.github.io/technology/2016/02/21/rxjava-part-2-creating-an-observable/) in RxJava  
+3) [Multithreading](https://praveer09.github.io/technology/2016/02/29/rxjava-part-3-multithreading/)
 
