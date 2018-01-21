@@ -16,5 +16,4 @@ Ch7 - [Concurrent Utils](https://java2blog.com/concurrenthashmap-in-java/) :+1::
 * Java8 Completables Future [Tuts](http://codingjunkie.net/completable-futures-part1/)
 
 # Videos :
-* Ram N
 * Google Tech Talk : [Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
