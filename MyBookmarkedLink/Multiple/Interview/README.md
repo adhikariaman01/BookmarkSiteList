@@ -31,7 +31,7 @@
 
 * [Imtiaz Amhed](https://www.youtube.com/channel/UCu4mLxrAkMEcjK9N1yJOxyA/videos) Videos, [Algo Everyday](https://www.youtube.com/user/vivekanandkhyade/videos) Videos , [DSA 1](https://www.youtube.com/playlist?list=PLkGAai-LjzyO6ceCuzRP7uJUEFl5oDYrf) , [DSA 2](https://www.youtube.com/playlist?list=PLkGAai-LjzyNg7SsHWA7QzdRSYX1Kt39T) , [DS](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j) Tutorial
 
-* [DSA](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk) in JAVA
+* [DSA](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk) in JAVA :coffee: :coffee: :coffee:
 
 ---
 ## [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :v::v:
