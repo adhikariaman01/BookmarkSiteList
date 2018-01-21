@@ -28,6 +28,11 @@
 * [Coding Interview Questions](https://www.youtube.com/playlist?list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj)
 * [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)  :wave:
 
+
+* [Imtiaz Amhed](https://www.youtube.com/channel/UCu4mLxrAkMEcjK9N1yJOxyA/videos) Videos, [Algo Everyday](https://www.youtube.com/user/vivekanandkhyade/videos) Videos , [DSA 1](https://www.youtube.com/playlist?list=PLkGAai-LjzyO6ceCuzRP7uJUEFl5oDYrf) , [DSA 2](https://www.youtube.com/playlist?list=PLkGAai-LjzyNg7SsHWA7QzdRSYX1Kt39T) , [DS](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j) Tutorial
+
+* [DSA](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk) in JAVA
+
 ---
 ## [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :v::v:
 * [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
