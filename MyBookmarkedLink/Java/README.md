@@ -19,6 +19,9 @@
 
 * [Java Concept of the Day](http://javaconceptoftheday.com/jdk-installation/)
 
+## Videos :
+* [Ram N](https://ramj2ee.blogspot.in/2015/05/java-tutorial.html) Videos :movie_camera:
+
 ## Interview Questions :
 * Java Interview Question in [Udemy](https://blog.udemy.com/java-interview-questions/) blog
 * Codementor Java Interview [Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23)
