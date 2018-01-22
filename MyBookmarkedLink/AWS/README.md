@@ -16,3 +16,4 @@
 * AWS [Video](https://www.youtube.com/playlist?list=PL2E934wazTBgxfwF_bFIPercCCqjz24fm)
 * AWS [S3](https://www.youtube.com/playlist?list=PL9FS718jnHRwXyw27vTrrH2oGoKtsmy9d) Tutorial
 * Amazon [AWS](https://www.youtube.com/playlist?list=PL50mYnndduIHbzf1cU8RWLynotzSiUaLi)
+* AWS Solution Architect [Video](https://www.youtube.com/playlist?list=PL4ePDvEWFtXgD5QgImq1x23sImUL26OjN)
