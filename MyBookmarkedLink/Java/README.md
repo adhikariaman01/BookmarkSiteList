@@ -28,6 +28,7 @@
 * Interview Q/A [site](http://www.javainterview.in/p/core-java-interview-question-are.html), [Q/A](http://codepumpkin.com/category/interview-questions/core-java-interview-questions/) blog , [Q/A](https://gigster.com/java-interview-questions) blog2, [Baeldung](http://www.baeldung.com/java-generics-interview-questions)
 * [Java2Blog](https://java2blog.com/core-java-interview-questions-and-answers/)
 * [GlassDoor](https://www.glassdoor.com/Interview/java-interview-questions-SRCH_KT0,4_SDMC.htm)
+* Java [Interview](https://www.youtube.com/playlist?list=PLfi5oI2EMygPcKLx8d_8Jll9eauAhPj2B)
 
 ## Courses :
 * Course with Nice [Slides](http://www.cs.cmu.edu/~charlie/courses/15-214/2017-fall/index.html) : Objects, Design, and Concurrency
