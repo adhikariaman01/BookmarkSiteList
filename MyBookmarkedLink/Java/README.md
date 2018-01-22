@@ -19,6 +19,9 @@
 
 * [Java Concept of the Day](http://javaconceptoftheday.com/jdk-installation/)
 
+---
+* Advanced [Java](https://www.javacodegeeks.com/2015/09/advanced-java.html) Topics Explanation : JavaCodeGeeks
+
 ## Videos :
 * [Ram N](https://ramj2ee.blogspot.in/2015/05/java-tutorial.html) Videos :movie_camera:
 
