@@ -33,6 +33,10 @@
 
 * [DSA](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk) in JAVA :coffee: :coffee: :coffee:
 * [DS](https://www.youtube.com/playlist?list=PLJNHMXKkK6-iwEPDDt0mayHlNDqIpoS6M) in Java :coffee: :coffee: :coffee:
+* [DSA](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) in Java
+* JAVA [Algorithms](https://www.youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT) :coffee: :coffee: :coffee:
+* [DSA](https://www.youtube.com/playlist?list=PLs8TmeZHJEeF2UMA8KCI6g0BMDrVUgB0r) :coffee: :coffee: :coffee:
+
 
 ---
 ## [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :v::v:
