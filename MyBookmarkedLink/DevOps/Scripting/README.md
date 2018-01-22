@@ -26,3 +26,4 @@
 * Unix/Linux [tutorial](https://www.youtube.com/playlist?list=PLd3UqWTnYXOlHunYTZ9lBHooTMKlLQHcd)
 * Shell Scripting [Course](https://www.youtube.com/playlist?list=PL1Gi57UP2pkwLHkbmAV8XSleFbw6roHyq)
 
+* Linux [Commands](https://www.youtube.com/playlist?list=PL6YwPExkSESqQ69B7B011XOIuoVv3SdDg)
