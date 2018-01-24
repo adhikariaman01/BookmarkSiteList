@@ -1,5 +1,7 @@
 # Bookmarked Link for DevOps
 
+# Devops Stacks :
+* Scripting
 
 
 # Curated List for DevOps
