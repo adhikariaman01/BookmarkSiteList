@@ -1,6 +1,9 @@
 # AWS
 
+# Course : :mortar_board::mortar_board:
+* Edex AWS specialization with 3 [courses](https://www.edx.org/school/aws) 
 
+# Tutorials : 
 * [Awesome AWS Lambda](https://github.com/simplemerchant/awesome-aws-lambda)
 * [Awesome Serverless](https://github.com/JustServerless/awesome-serverless)
 * [EC2]( )
