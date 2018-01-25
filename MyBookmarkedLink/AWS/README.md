@@ -1,5 +1,7 @@
 # AWS
 
+* [AWS Getting Started](https://aws.amazon.com/getting-started/tutorials/) :star: :star:
+
 # Course : :mortar_board::mortar_board:
 * Edex AWS specialization with 3 [courses](https://www.edx.org/school/aws) 
 
@@ -15,7 +17,6 @@
 ---
 ## AWS Prep :
 * [AWS Tuts - Guru99](http://www.guru99.com/aws-tutorial.html)
-* [AWS Getting Started](https://aws.amazon.com/getting-started/tutorials/)
 
 ## Videos :movie_camera:
 * [AWS](https://www.youtube.com/playlist?list=PLfi5oI2EMygMD4xxZxHKwrPsz7g_uraQo) with Java
