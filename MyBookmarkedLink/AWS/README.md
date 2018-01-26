@@ -1,6 +1,8 @@
 # AWS
 
 * [AWS Getting Started](https://aws.amazon.com/getting-started/tutorials/) :star: :star:
+* Free AWS Into [Training](https://www.aws.training/)
+* 
 
 # Course : :mortar_board::mortar_board:
 * Edex AWS specialization with 3 [courses](https://www.edx.org/school/aws) 
