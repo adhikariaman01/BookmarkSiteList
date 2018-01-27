@@ -18,3 +18,7 @@
 * Java and the blockchain : [Slide](https://dzone.com/articles/java-and-the-blockchain)
 ---
 * [BitcoinJ](https://bitcoinj.github.io/#introduction)
+
+# Video :movie_camera:
+* Blockchain [Youtube](https://www.youtube.com/channel/UCbXiy1W_1HSMawmBDfo_TOA/videos) Videos by Matt Thomas
+* Blockchain [Playlist](https://www.youtube.com/playlist?list=PLfi5oI2EMygOKBr0wfTwtlpCecM6Lh9iF)
