@@ -1,4 +1,8 @@
 # Blockchain
+# Article :
+* What is [blockchain](https://blockgeeks.com/guides/what-is-blockchain-technology/) technology ?
+
+# Course
 * Blockchain at [Berekley](https://blockchain.berkeley.edu/)
 * Bitcoin Engineering : [Stanford](http://bitcoin.stanford.edu/)
 
@@ -22,3 +26,4 @@
 # Video :movie_camera:
 * Blockchain [Youtube](https://www.youtube.com/channel/UCbXiy1W_1HSMawmBDfo_TOA/videos) Videos by Matt Thomas
 * Blockchain [Playlist](https://www.youtube.com/playlist?list=PLfi5oI2EMygOKBr0wfTwtlpCecM6Lh9iF)
+
