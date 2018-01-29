@@ -34,3 +34,6 @@
 * DevOps related video playlist including [AWS](https://www.youtube.com/channel/UCI18qgoLBgZlzhW8sbGg58g/playlists)
 
 * Best [AWS](https://www.youtube.com/channel/UCP8SSDsTtyQ5hmlp04UFFvw/playlists) Video Playlist :high_brightness: :high_brightness:
+* AWS [Webinars](https://www.youtube.com/user/AWSwebinars/playlists)
+* Devops related videos including [AWS](https://www.youtube.com/user/intellipaaat/playlists?shelf_id=0&sort=dd&view=1)
+* Edureka [AWS](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3) Playlist 
