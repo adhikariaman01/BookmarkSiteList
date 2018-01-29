@@ -2,6 +2,8 @@
 
 * [AWS Getting Started](https://aws.amazon.com/getting-started/tutorials/) :star: :star:
 * Free AWS Into [Training](https://www.aws.training/)
+* AWS [Whitepapers](https://aws.amazon.com/whitepapers/)
+
 
 
 # Course : :mortar_board::mortar_board:
