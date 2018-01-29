@@ -29,3 +29,4 @@
 * AWS Solution Architect [Video](https://www.youtube.com/playlist?list=PL4ePDvEWFtXgD5QgImq1x23sImUL26OjN)
 
 * Backspace Academy [AWS](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw/videos) videos
+* Cloude Academy AWS [Video Playlists](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/playlists)
