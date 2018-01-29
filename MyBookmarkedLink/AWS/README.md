@@ -33,4 +33,4 @@
 * AWS Tutorial Series [Playlist](https://www.youtube.com/user/awstutorialseries/playlists)
 * DevOps related video playlist including [AWS](https://www.youtube.com/channel/UCI18qgoLBgZlzhW8sbGg58g/playlists)
 
-* Best [AWS](https://www.youtube.com/watch?v=Nj4mrJgh7gU&list=PLJIqXVV4K5LXT8gkTJjHAgzZgW1K3se8U) Video Playlist :high_brightness: :high_brightness:
+* Best [AWS](https://www.youtube.com/channel/UCP8SSDsTtyQ5hmlp04UFFvw/playlists) Video Playlist :high_brightness: :high_brightness:
