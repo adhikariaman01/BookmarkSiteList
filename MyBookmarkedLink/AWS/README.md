@@ -2,7 +2,7 @@
 
 * [AWS Getting Started](https://aws.amazon.com/getting-started/tutorials/) :star: :star:
 * Free AWS Into [Training](https://www.aws.training/)
-* 
+
 
 # Course : :mortar_board::mortar_board:
 * Edex AWS specialization with 3 [courses](https://www.edx.org/school/aws) 
@@ -16,7 +16,7 @@
 * Amazon [S3](https://www.javacodegeeks.com/2017/03/amazon-s3-tutorial.html) Tutorial
 
 
----
+
 ## AWS Prep :
 * [AWS Tuts - Guru99](http://www.guru99.com/aws-tutorial.html)
 
@@ -32,3 +32,5 @@
 * Cloude Academy AWS [Video Playlists](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/playlists)
 * AWS Tutorial Series [Playlist](https://www.youtube.com/user/awstutorialseries/playlists)
 * DevOps related video playlist including [AWS](https://www.youtube.com/channel/UCI18qgoLBgZlzhW8sbGg58g/playlists)
+
+* Best [AWS](https://www.youtube.com/watch?v=Nj4mrJgh7gU&list=PLJIqXVV4K5LXT8gkTJjHAgzZgW1K3se8U) Video Playlist :high_brightness: :high_brightness:
