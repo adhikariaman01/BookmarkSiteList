@@ -30,3 +30,5 @@
 
 * Backspace Academy [AWS](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw/videos) videos
 * Cloude Academy AWS [Video Playlists](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/playlists)
+* AWS Tutorial Series [Playlist](https://www.youtube.com/user/awstutorialseries/playlists)
+* DevOps related video playlist including [AWS](https://www.youtube.com/channel/UCI18qgoLBgZlzhW8sbGg58g/playlists)
