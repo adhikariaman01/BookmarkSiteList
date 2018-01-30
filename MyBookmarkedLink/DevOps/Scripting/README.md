@@ -4,6 +4,15 @@
 * Unix Workbench : [Coursera](https://www.coursera.org/learn/unix?siteID=SAyYsTvLiGQ-1vpZtGlEBg2teyFZN.6knw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
 # Tutorial
+
+* Basic Unix [Note](http://www.cs.umd.edu/~iyoon/teaching/notes/basic_unix.html)
+* Unix [Tutorial](https://www.cs.sfu.ca/~ggbaker/reference/unix/) for Beginners
+* Unix Command Reference [CheatSheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
+* Unix Reference [Card](http://www.cs.umd.edu/~iyoon/teaching/notes/unix_refcard.pdf)
+* Linux Man Page [Project](https://www.kernel.org/doc/man-pages/index.html) Similar ~ [Linux MAN Page](http://man.he.net/)
+* Unix [Tutorial](http://cs.umd.edu/class/fall2017/cmsc106/content/resources/unix-tutorial.pdf)
+* Search linux commands on [this](https://www.explainshell.com/) and get an Explanation
+---
 * Vim [Tutorial](https://linuxconfig.org/vim-tutorial)
 * [Vim Tutorial](https://www.systutorials.com/240159/vim-tutorial-beginners-vimtutor/)
 ---
@@ -19,7 +28,7 @@
 * [Learn Unix - Tutorial Point](https://www.tutorialspoint.com/unix/index.htm)
 
 * [FreeOS Guides](http://www.freeos.com/guides/lsst/)
-* [Linux MAN Page](http://man.he.net/)
+
 
 ---
 # Video 
