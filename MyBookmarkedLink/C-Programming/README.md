@@ -12,3 +12,5 @@
 * [C by JavaTPoint](https://www.javatpoint.com/c-programming-language-tutorial)
 * C programming Tuts by [GeeksForGeeks](https://www.geeksforgeeks.org/c/)
 
+## Debugging
+A Quickstart [Guide](http://teaching.csse.uwa.edu.au/units/CITS2230/resources/gdb-intro.html) to Debugging C Programs with gdb
