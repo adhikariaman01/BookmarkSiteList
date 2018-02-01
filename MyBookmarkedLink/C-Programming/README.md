@@ -7,6 +7,7 @@
 
 ## Book
 * Object Oriented [C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
+* MIT C Lectures [Slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 
 
 ## Tutorials
@@ -31,6 +32,10 @@ A Quickstart [Guide](http://teaching.csse.uwa.edu.au/units/CITS2230/resources/gd
 * C Programming Course - [NPTEL](https://www.youtube.com/playlist?list=PL2UlrhJ_JwyAbzTamaGN7XvEuqTKnTm_f)
 * Real C [Code](https://www.youtube.com/playlist?list=PLNBn-XtJAtdmYHPEPCCg7a8suxC_9GpMa)
 * C programming Course - [Naresh i Tech](https://www.youtube.com/playlist?list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
+* Learn to program with [C](https://www.youtube.com/playlist?list=PLCNJWVn9MJuPtPyljb-hewNfwEGES2oIW)
+* C Programming Video [Playlist](https://www.youtube.com/user/LearningLad/playlists?sort=dd&view=1&shelf_id=0)
+
+* C Programming Lessons - [MyCodeSchools](https://www.youtube.com/user/mycodeschool/playlists)
 
 * C programming [Playlists](https://www.youtube.com/channel/UCnf1w1jAZva7YE9RR3lSxtg/playlists)
 
