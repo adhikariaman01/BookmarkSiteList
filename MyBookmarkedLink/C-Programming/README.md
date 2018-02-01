@@ -5,6 +5,10 @@
 
 * Suggestions of sites for [Effective way to learn C & C++](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 
+## Book
+* Object Oriented [C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
+* 
+
 ## Tutorials
 * Tips to [Compile](https://msdn.microsoft.com/en-us/library/bb384838.aspx) C in Windows 7
 
