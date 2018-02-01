@@ -16,7 +16,7 @@ printf(" Value at that pointer is %d \n",y);
  ```
 
 
-## When to use ampersend & OR Asterik * ?
+## When to use ampersend (&) OR Asterik (*) ?
 ```c
 You have pointers and values:
 
