@@ -12,7 +12,7 @@
 * Object Oriented [C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
 * MIT C Lectures [Slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 
-
+* The standard [C Library](http://read.pudn.com/downloads149/ebook/643972/The%20Standard%20C%20Library.pdf) book
 * The C complete Reference [book](https://github.com/mohitsshetty986/Computer-Engineering-Reference-Books/blob/master/C%20The%20Complete%20Reference%204th%20Ed%20Herbert%20Schildt.pdf) - other [Reference](http://eecs.wsu.edu/~aofallon/cpts122/CLibraryReferenceGuide.pdf) book
 
 * The GNU C Library Reference [Manual](https://www.gnu.org/software/libc/manual/pdf/libc.pdf)
