@@ -8,11 +8,19 @@
 * C standard [Library](https://www.tutorialspoint.com/c_standard_library/index.htm) - [pdf](https://www.tutorialspoint.com/c_standard_library/c_standard_library_tutorial.pdf) Version
 
 ## Book
+* [C Programming Language](http://cs.indstate.edu/~cbasavaraj/cs559/the_c_programming_language_2.pdf)
 * Object Oriented [C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
 * MIT C Lectures [Slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 
 
 * The C complete Reference [book](https://github.com/mohitsshetty986/Computer-Engineering-Reference-Books/blob/master/C%20The%20Complete%20Reference%204th%20Ed%20Herbert%20Schildt.pdf) - other [Reference](http://eecs.wsu.edu/~aofallon/cpts122/CLibraryReferenceGuide.pdf) book
+
+* The GNU C Library Reference [Manual](https://www.gnu.org/software/libc/manual/pdf/libc.pdf)
+* C [Guide](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/)
+
+
+
+* The C [Book](http://publications.gbdirect.co.uk/c_book/thecbook.pdf)
 
 ## Tutorials
 * Tips to [Compile](https://msdn.microsoft.com/en-us/library/bb384838.aspx) C in Windows 7
