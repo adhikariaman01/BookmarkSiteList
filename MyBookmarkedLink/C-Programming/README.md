@@ -5,12 +5,14 @@
 
 * Suggestions of sites for [Effective way to learn C & C++](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 
-* C standard [Library](https://www.tutorialspoint.com/c_standard_library/index.htm)
+* C standard [Library](https://www.tutorialspoint.com/c_standard_library/index.htm) - [pdf](https://www.tutorialspoint.com/c_standard_library/c_standard_library_tutorial.pdf) Version
 
 ## Book
 * Object Oriented [C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
 * MIT C Lectures [Slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
 
+
+* The C complete Reference [book](https://github.com/mohitsshetty986/Computer-Engineering-Reference-Books/blob/master/C%20The%20Complete%20Reference%204th%20Ed%20Herbert%20Schildt.pdf) - other [Reference](http://eecs.wsu.edu/~aofallon/cpts122/CLibraryReferenceGuide.pdf) book
 
 ## Tutorials
 * Tips to [Compile](https://msdn.microsoft.com/en-us/library/bb384838.aspx) C in Windows 7
