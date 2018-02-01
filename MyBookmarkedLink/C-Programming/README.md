@@ -1,13 +1,13 @@
 # C Programming 
 
-## Course
+## Course :mortar_board: :mortar_board:
 * [C Tutorial](http://www.learnvern.com/course/c-tutorials/)
 
 * Suggestions of sites for [Effective way to learn C & C++](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 
 * C standard [Library](https://www.tutorialspoint.com/c_standard_library/index.htm) - [pdf](https://www.tutorialspoint.com/c_standard_library/c_standard_library_tutorial.pdf) Version
 
-## Book
+## Books :books: :books:
 * [C Programming Language](http://cs.indstate.edu/~cbasavaraj/cs559/the_c_programming_language_2.pdf)
 * Object Oriented [C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
 * MIT C Lectures [Slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
@@ -22,7 +22,7 @@
 
 * The C [Book](http://publications.gbdirect.co.uk/c_book/thecbook.pdf)
 
-## Tutorials
+## Tutorials :ledger: :ledger:
 * Tips to [Compile](https://msdn.microsoft.com/en-us/library/bb384838.aspx) C in Windows 7
 
 * [TutorialPoint C](https://www.tutorialspoint.com/cprogramming/)
@@ -34,7 +34,7 @@
 * [Hackr.io](https://hackr.io/tutorials/learn-c) List
 
 
-## Debugging
+## Debugging :mag: :mag:
 A Quickstart [Guide](http://teaching.csse.uwa.edu.au/units/CITS2230/resources/gdb-intro.html) to Debugging C Programs with gdb
 
 ## Videos :movie_camera:
