@@ -8,6 +8,7 @@
 * C standard [Library](https://www.tutorialspoint.com/c_standard_library/index.htm) - [pdf](https://www.tutorialspoint.com/c_standard_library/c_standard_library_tutorial.pdf) Version
 
 ## Books :books: :books:
+* Learning C with Pebble - [Gitbook](https://pebble.gitbooks.io/learning-c-with-pebble/content/) :point_left: :point_left:
 * [C Programming Language](http://cs.indstate.edu/~cbasavaraj/cs559/the_c_programming_language_2.pdf)
 * Object Oriented [C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
 * MIT C Lectures [Slides](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/lecture-notes/)
