@@ -39,8 +39,8 @@
 A Quickstart [Guide](http://teaching.csse.uwa.edu.au/units/CITS2230/resources/gdb-intro.html) to Debugging C Programs with gdb
 
 ## Videos :movie_camera:
-* Bucky C [Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq)
-* C Programming Beginner Tutorial - [Bad Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
+* Bucky C [Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAKIXv8Yr6nhGJ9Vlcjyymq) :white_check_mark:
+* C Programming Beginner Tutorial - [Bad Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P) :white_check_mark:
 * C Programming Tutorials [Playlist](https://www.youtube.com/channel/UCFlzHaNC_YJTIRoXbx6zfrA/playlists)
 * C Programming Course - [NPTEL](https://www.youtube.com/playlist?list=PL2UlrhJ_JwyAbzTamaGN7XvEuqTKnTm_f)
 * Real C [Code](https://www.youtube.com/playlist?list=PLNBn-XtJAtdmYHPEPCCg7a8suxC_9GpMa)
