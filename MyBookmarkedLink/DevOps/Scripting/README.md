@@ -1,9 +1,9 @@
 # Scripting
 
-# Course : 
+# Course : :mortar_board:
 * Unix Workbench : [Coursera](https://www.coursera.org/learn/unix?siteID=SAyYsTvLiGQ-1vpZtGlEBg2teyFZN.6knw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
-# Tutorial
+# Tutorial : :ledger: :ledger:
 
 * Basic Unix [Note](http://www.cs.umd.edu/~iyoon/teaching/notes/basic_unix.html)
 * Unix [Tutorial](https://www.cs.sfu.ca/~ggbaker/reference/unix/) for Beginners
@@ -31,7 +31,7 @@
 
 
 ---
-# Video 
+# Video : :movie_camera: :movie_camera:
 * Shell Scripting [Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
 * Shell Scripting [Course](https://www.youtube.com/playlist?list=PL24DF46D69CD45019)
 * Bash [Scripting](https://www.youtube.com/playlist?list=PL5sclhLfGLRcFBDwzBFJ3pGsa5r8k9HnN)
