@@ -42,3 +42,8 @@ So the [] indexing operator is a special form of the * operator, and it works li
 
 a[i] == *(a + i);  // these two statements are the same thing
  ```
+ 
+ ## Heap
+ ```c
+ Heap is a leftover memory which is not being used currently.
+ ```
