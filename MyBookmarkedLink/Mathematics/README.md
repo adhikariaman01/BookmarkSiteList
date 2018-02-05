@@ -6,7 +6,8 @@
 # MUST Complete This before anything else :trident:
 * :last_quarter_moon_with_face::last_quarter_moon_with_face:[Linear Algebra](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/LinearAlgebra):first_quarter_moon_with_face::first_quarter_moon_with_face: is prerequisite for everything in CS where mathematics background is needed like Algorithm, ML , DL etc.
 ---
-Digital Logic Concept - [GATES](https://www.youtube.com/playlist?list=PLEbnTDJUr_Ica5kK6UypsWpf95Ut2sK3o)
+* Digital Logic Concept - [GATES](https://www.youtube.com/playlist?list=PLEbnTDJUr_Ica5kK6UypsWpf95Ut2sK3o)
+* Discrete Mathematics - [GATES](https://www.youtube.com/playlist?list=PLsFENPUZBqioyqffh3YZ2pKUg4uZFQJUY)
 ---
 * Discrete Mathematics [Coursera Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 * Discrete Mathematics [Coursera](https://www.coursera.org/learn/discrete-mathematics)
