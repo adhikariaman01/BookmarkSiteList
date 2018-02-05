@@ -6,8 +6,6 @@
 * [Grails 3](https://www.djamware.com/post-sub-category/585b3fa380aca73b19a2efd4/groovy-and-grails) Posts - by Djam
 * Mr HAKI [Blog](http://mrhaki.blogspot.com/) on Groovy and Grails.
 
----
-
 * [Groovy Curated - List](http://groovycalamari.com/issues/70)
 
 ---
