@@ -34,6 +34,8 @@
 
 * [Hackr.io](https://hackr.io/tutorials/learn-c) List
 
+* Different [Programs](http://www.c4learn.com/c-programs/) written in C
+
 
 ## Debugging :mag: :mag:
 A Quickstart [Guide](http://teaching.csse.uwa.edu.au/units/CITS2230/resources/gdb-intro.html) to Debugging C Programs with gdb
