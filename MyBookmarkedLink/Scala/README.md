@@ -9,4 +9,3 @@
 * SCALA - [Exercises](https://www.scala-exercises.org/) - Learning
 * Twitter Scala [School](https://twitter.github.io/scala_school/)
 * Developing Modern app with Scala : [Dzone Series](https://www.javacodegeeks.com/2016/11/scala-tutorial-developing-modern-applications.html)
-
