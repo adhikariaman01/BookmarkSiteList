@@ -3,7 +3,7 @@
 
 * List of [Scala](https://scala.libhunt.com/) Framework, Libraries and Software
 
-* [SCALA - Exercises - Learning](https://www.scala-exercises.org/)
+* SCALA - [Exercises](https://www.scala-exercises.org/) - Learning
 * Twitter Scala [School](https://twitter.github.io/scala_school/)
 
 * Developing Modern app with Scala : [Dzone Series](https://www.javacodegeeks.com/2016/11/scala-tutorial-developing-modern-applications.html)
