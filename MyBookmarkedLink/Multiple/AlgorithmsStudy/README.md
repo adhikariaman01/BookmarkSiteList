@@ -3,4 +3,5 @@
 * Algorithms tutorial by [ProgrammingAlgorithms.net](https://www.programming-algorithms.net/)
 * [Stanford](https://web.stanford.edu/class/cs97si/) : Intro to Programming Contest
 * [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
-* 
+---
+* DSA - [GATES](https://www.youtube.com/playlist?list=PLsFENPUZBqipuTJXgm7xAOR0UnY_8OY07)
