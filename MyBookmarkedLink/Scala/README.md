@@ -12,3 +12,5 @@
 
 # Video 
 * [Scala](https://www.youtube.com/playlist?list=PLFhNzVKP1pVozy2fbIWMAeq0Ka-VEnHr4) Programming Tutorial
+* Learn [Scala](https://www.youtube.com/playlist?list=PLf0swTFhTI8rv85gSUEyBxN6fdv5D2E0C) for Spark
+* 
