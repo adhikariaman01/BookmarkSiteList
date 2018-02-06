@@ -1,4 +1,4 @@
-* [DSA revision for Interview](http://www.columbia.edu/~jxz2101/#12) :books: :books: :book: 
+* [DSA revision for Interview](http://www.columbia.edu/~jxz2101/) :books: :books: :book: 
 * Software Engineer Interview Questions [Gitbook](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/) based on this nice [BLOG](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/)
 * [Google Interview Prep](http://blog.gainlo.co/index.php/category/google-interview-preparation/):blue_heart::heart::yellow_heart::blue_heart::green_heart::heart:
 ---
