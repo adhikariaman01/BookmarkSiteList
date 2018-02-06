@@ -13,7 +13,6 @@
 * Algorithms Problem Solving [tutorial](http://algorithms.tutorialhorizon.com/) on various topics
 * 10 Algorithms for Coding Interview - [ProgramCreek](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
----
 # VIDEOS :video_camera: :camera: :tv: 
 * [Algorithm Design Manual - Steven Skiena](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b):bookmark: :book: 
 * [DSA TOPIC](https://www.youtube.com/channel/UCmY63R8Xn20c6uIzcGgmI9A):cop: :metal: 
@@ -38,17 +37,12 @@
 * [DSA](https://www.youtube.com/playlist?list=PLs8TmeZHJEeF2UMA8KCI6g0BMDrVUgB0r) :coffee: :coffee: :coffee:
 * Java [Algorithms](https://www.youtube.com/playlist?list=PLfi5oI2EMygMPYRQf-UD4BOWrU4UJ_-2I) :coffee: :coffee: :coffee:
 
-
----
-## [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :v::v:
+## [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :movie_camera:
 * [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
 * [Problem Solving Screencast](https://www.youtube.com/user/Endagorion/videos)
 * [Problem Solving Videos](https://www.youtube.com/channel/UC5sUXTFSRkZSCcGGxE7LQDQ/videos)
 
-
----
-
-#### [Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0):bulb: :trophy:
+* [Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0):bulb: :trophy:
 
 # :thought_balloon: My Bookmarked List : :thought_balloon:
 
