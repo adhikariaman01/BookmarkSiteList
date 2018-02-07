@@ -8,18 +8,17 @@
 
 ## [CS106L - Hardcore C++](http://web.stanford.edu/class/cs106l/) AND [OLD Labs Archieve](http://www.keithschwarz.com/cs106l/)
 
---- 
-
 #### [Coursera C++ Course](https://www.coursera.org/learn/c-plus-plus-a)
+--- 
+* [OOP C++ 4th Ed](http://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf)
 
+* [C++ Intro](https://www.codesdope.com/cpp-introduction/)
 
-#### [OOP C++ 4th Ed](http://fac.ksu.edu.sa/sites/default/files/ObjectOrientedProgramminginC4thEdition.pdf)
+* [Learn C++](http://www.learncpp.com/)
 
-#### [C++ Intro](https://www.codesdope.com/cpp-introduction/)
+* [TutPoint C++](https://www.tutorialspoint.com/cplusplus/)
 
-#### [Learn C++](http://www.learncpp.com/)
-
-#### [TutPoint C++](https://www.tutorialspoint.com/cplusplus/)
+* C++ Language [Reference](https://msdn.microsoft.com/en-us/library/3bstk3k5.aspx) - Microsoft 
 
 ---
 * [C++ Book Recommendation - Stackoverflow](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
