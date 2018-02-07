@@ -4,7 +4,7 @@
 * [HackerEarth](https://www.hackerearth.com/practice/) multiple subject to practice. & learn
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 
-# [GOOGLE TEch Dev Guide](https://techdevguide.withgoogle.com/)
+# :round_pushpin: [GOOGLE Tech Dev Guide](https://techdevguide.withgoogle.com/) 
 
 ---
 * [CLRS Solution Manual](http://www.math.ucsd.edu/~mbodnar/CLRS_Solutions_Manual.pdf) 
