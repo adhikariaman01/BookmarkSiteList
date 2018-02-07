@@ -1,12 +1,12 @@
 # Java
 * [Java SE Learning](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
----
+
 * [blog](https://medium.com/@biratkirat/being-an-effective-java-developer-ab183f2b6c25) which can be learned parallel to Effective Java book
 ---
 ## Sites to checkout Java and Problem Solving usig Java
 * [Java Revisited](http://javarevisited.blogspot.in/)
 * [Java 67](http://www.java67.com/)
----
+
 * [How to do it in Java](https://howtodoinjava.com/)
 * [Java2s](http://www.java2s.com/)
 * [Java In Use](http://www.javainuse.com/java)
@@ -19,7 +19,7 @@
 
 * [Java Concept of the Day](http://javaconceptoftheday.com/jdk-installation/)
 
----
+
 * Advanced [Java](https://www.javacodegeeks.com/2015/09/advanced-java.html) Topics Explanation : JavaCodeGeeks
 
 ## Videos :
@@ -40,3 +40,5 @@
 
 ## Courses :
 * Course with Nice [Slides](http://www.cs.cmu.edu/~charlie/courses/15-214/2017-fall/index.html) : Objects, Design, and Concurrency
+
+## Most Upvotes Stackoverflow [Questions](https://stackoverflow.com/questions/tagged/java?sort=votes) :+1:
