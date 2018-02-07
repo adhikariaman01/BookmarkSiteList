@@ -8,3 +8,22 @@
 -- If the OS forcibly terminates the JVM process; e.g. "kill -9 " on UNIX.
 -- If the host system dies; e.g. power failure, hardware error, OS panic, etc
 ```
+```Java
+public static void main(String[] args) {
+    System.out.println(Test.test());
+}
+
+public static int test() {
+    try {
+        return 0;
+    }
+    finally {
+        System.out.println("finally trumps return.");
+    }
+}
+```
+> Output :
+```java
+finally trumps return. 
+ 0
+```
