@@ -1,5 +1,7 @@
 # Garbage Collection :
-Oracle [Garbage Collection](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html#t1) Tutorial
+* Oracle [Garbage Collection](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html#t1) Tutorial
+* Best tutorial on JVM troubleshooting, Garbage Collection, Memory Management etc by [Oracle](https://docs.oracle.com/cd/E13150_01/jrockit_jvm/jrockit/geninfo/diagnos/)
+
 * Geek for Geek [Garbage Collection](https://www.geeksforgeeks.org/garbage-collection-java/)
 * Baiscs of [GC](https://codeahoy.com/2017/08/06/basics-of-java-garbage-collection/)
 * Understnading [GC](https://www.cubrid.org/blog/understanding-java-garbage-collection)
@@ -9,6 +11,8 @@ Oracle [Garbage Collection](http://www.oracle.com/webfolder/technetwork/tutorial
 * [GC](https://dzone.com/articles/java-memory-management) and reference object
 
 * Paper on [Design pattern in Garbage Collection](https://ir.canterbury.ac.nz/bitstream/handle/10092/1954/thesis_fulltext.pdf)
+* Memory Management in Java - [Journaldev](https://www.journaldev.com/2856/java-jvm-memory-model-memory-management-in-java)
+
 
 ## Videos :
 * GC [Videos](https://www.youtube.com/playlist?list=PLfi5oI2EMygPazGT5uHTsCYH22OgKKprb) list
