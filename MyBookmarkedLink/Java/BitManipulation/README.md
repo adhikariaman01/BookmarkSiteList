@@ -7,4 +7,4 @@
 
 * A Bit of Fun - [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/a-bit-of-fun-fun-with-bits/)
 
-* **What are [bit shift operator](https://stackoverflow.com/questions/141525/what-are-bitwise-shift-bit-shift-operators-and-how-do-they-work) and how do they work ?
+* **What are [bit shift operator](https://stackoverflow.com/questions/141525/what-are-bitwise-shift-bit-shift-operators-and-how-do-they-work) and how do they work ?**
