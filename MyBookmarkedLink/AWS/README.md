@@ -4,6 +4,7 @@
 * Free AWS Into [Training](https://www.aws.training/)
 * AWS [Whitepapers](https://aws.amazon.com/whitepapers/)
 
+* **Creating AWS Student [Account](https://engineering-computer-science.wright.edu/computer-science-and-engineering/advising-and-resources/amazon-web-services-aws)**
 
 
 # Course : :mortar_board::mortar_board:
