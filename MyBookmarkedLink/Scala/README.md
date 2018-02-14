@@ -27,6 +27,8 @@
 * Programming in [Scala](http://people.cs.ksu.edu/~schmidt/705a/Scala/Programming-in-Scala.pdf)
 
 # Video 
+* Must must must watch best resource : [Introduction to Programming and Problem Solving Using Scala](https://www.youtube.com/playlist?list=PLLMXbkbDbVt9MIJ9DV4ps-_trOzWtphYO) and 
+[Object-Orientation, Abstraction, and Data Structures Using Scala](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8JLumqKj-3BlHmEXPIfR42) + Many other Videos by [Dr Mark Lewis](https://www.youtube.com/user/DrMarkCLewis/playlists)
 * [Scala](https://www.youtube.com/playlist?list=PLFhNzVKP1pVozy2fbIWMAeq0Ka-VEnHr4) Programming Tutorial
 * Learn [Scala](https://www.youtube.com/playlist?list=PLf0swTFhTI8rv85gSUEyBxN6fdv5D2E0C) for Spark
 
