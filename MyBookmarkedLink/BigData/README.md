@@ -8,5 +8,6 @@
 
 ## Blog :
 * Various Blogs on [Big Data](https://blog.matthewrathbone.com/archive/) Topics
+* Various blogs on [Big Data](https://data-flair.training/blogs/category/big-data/), [Hadoop](https://data-flair.training/blogs/category/hadoop/), [Spark](https://data-flair.training/blogs/category/spark/) Topics
 
 ## Videos :
