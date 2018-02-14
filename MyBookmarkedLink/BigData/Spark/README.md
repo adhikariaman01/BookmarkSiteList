@@ -7,6 +7,7 @@
 ## Books :
 * Book [Recommendation](https://blog.matthewrathbone.com/2017/01/13/spark-books.html) for Spark
 ## Video : 
+* **Big Data with [Spark](https://www.youtube.com/playlist?list=PLLMXbkbDbVt-f6qwCZqfq7e_6eT8aFxzT) using Scala** : MUST WATCH 
 * [Map Reduce](https://www.youtube.com/playlist?list=PLFhNzVKP1pVq9szuU1mKfaACUsyQ2V9v8) Tuts
 * Big Data with [Hadoop](https://www.youtube.com/playlist?list=PLFhNzVKP1pVpK-xqjU3usINeGnh-MwS64)
 * Big Data with [Spark](https://www.youtube.com/playlist?list=PLFhNzVKP1pVrZzUeE_KKs2YIzzgXkB4H6), Spark [Streaming](https://www.youtube.com/watch?v=sdPIFCl5B34&list=PLFhNzVKP1pVqLbqfiqRYfzOtDD2hDO0z4) and Hands on [Demo](https://www.youtube.com/playlist?list=PLFhNzVKP1pVro0OxzXLhbTWcVsf8JtDOq)
