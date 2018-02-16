@@ -6,6 +6,11 @@
 * [Linear Algebra - MIT](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/index.htm) also [YouTube Link](https://www.youtube.com/watch?list=PLE7DDD91010BC51F8&v=ZK3O402wf1c)
 * Application of Linear Algebra [Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1) and [Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2) from Edx
  
+ #
+ * Linear Algebra [Cheat-Sheet](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
+ 
+ 
+ 
  # :movie_camera: Must watch Videos 
 
 * Linear Algebra -[ Khan Academy](https://www.khanacademy.org/math/linear-algebra) and its [Youtube](https://www.youtube.com/playlist?list=PLFD0EB975BA0CC1E0) videos
