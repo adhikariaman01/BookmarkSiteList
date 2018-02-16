@@ -3,6 +3,8 @@
 * [Linear Algebra](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/LinearAlgebra)
 * [Statistics & Probability](https://github.com/adhikariaman01/BookmarkSiteList/blob/master/MyBookmarkedLink/Statistics/README.md)
 
+# 
+* ML [Cheat-Sheet](http://ml-cheatsheet.readthedocs.io/en/latest/applications.html)
 
 # ML Curation 
 
@@ -25,7 +27,7 @@
 * [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120):mortar_board: 
 * [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262):mortar_board: 
 
-#   :computer: :Videos
+#   :computer:
 * [Andrew Ng - Stanford - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 * [Understanding ML - University of Waterloo](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO):mortar_board:
 
