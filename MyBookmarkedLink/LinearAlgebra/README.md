@@ -1,5 +1,6 @@
 
 # :pushpin: Courses :mortar_board:
+* CS 503 [Matrix](http://cs.brown.edu/courses/cs053/current/index.htm) in Computer Science
 * [Linear Algebra ](https://www.youtube.com/user/LAFFutX/playlists) - Foundations to Frontiers : UT - Austin
 * [Linear Algebra Refresher Course - Udacity](https://www.udacity.com/course/linear-algebra-refresher-course--ud953)
 * [IIT - Linear Algebra](https://www.youtube.com/playlist?list=PLbMVogVj5nJQ2vsW_hmyvVfO4GYWaaPp7) from other professor [youtube](https://www.youtube.com/channel/UCuDT05pYSqhtTQ-2ne-NiqA/videos)
