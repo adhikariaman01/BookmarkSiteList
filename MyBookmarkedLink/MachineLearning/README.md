@@ -32,3 +32,6 @@
 * [Understanding ML - University of Waterloo](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO):mortar_board:
 
 # :heart::heart:[BEST Resource in ML](https://machinelearningmastery.com/start-here/):green_heart::green_heart:
+
+# Videos : 
+* [ML](https://www.youtube.com/playlist?list=PLfi5oI2EMygMANrArGc8GYc8Lq_weJHQu) Explanation including mathematics
