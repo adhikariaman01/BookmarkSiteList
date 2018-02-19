@@ -36,6 +36,6 @@
  * [Linear Algebra Basic Concepts](https://www.youtube.com/playlist?list=PLX2gX-ftPVXVuWEutmvA163NoDCAhiWv2)
  * [Simple Linear Algebra](https://www.youtube.com/playlist?list=PLDDGPdw7e6AjJacaEe9awozSaOou-NIx_)
  * Linear Algebra [Example Problems](https://www.youtube.com/playlist?list=PLdciPPorsHuk3Hp7QPPAtTkpW0o1UXQB6)
- * [LinearAlgebra]9https://www.youtube.com/playlist?list=PLee24bbe4wKTTfvffRbeLg2LuHpLElBhM)
+ * [LinearAlgebra](https://www.youtube.com/playlist?list=PLee24bbe4wKTTfvffRbeLg2LuHpLElBhM)
  * Linear Algebra [Gemoetric Application](https://www.youtube.com/playlist?list=PL204E8D692EE1C7A6)
  
