@@ -5,6 +5,7 @@
 
 
 ## Books :
+* **Mastering Apache Spark 2** - [GitBook](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/content/)
 * Book [Recommendation](https://blog.matthewrathbone.com/2017/01/13/spark-books.html) for Spark
 ## Video : 
 * **Big Data with [Spark](https://www.youtube.com/playlist?list=PLLMXbkbDbVt-f6qwCZqfq7e_6eT8aFxzT) using Scala** : MUST WATCH 
