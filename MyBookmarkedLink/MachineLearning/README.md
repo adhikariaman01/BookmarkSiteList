@@ -11,6 +11,8 @@
 * [ML for Software Engineer](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 * [ML Nanodegree Repo](https://github.com/machinelearningnanodegree)
 
+* Medium [Tag](https://medium.com/tag/machine-learning) on Machine Learning
+
 
 
 # My Bookmarks :
