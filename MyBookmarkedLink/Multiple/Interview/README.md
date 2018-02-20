@@ -46,12 +46,14 @@
 
 # :thought_balloon: My Bookmarked List : :thought_balloon:
 
-## Site to Practice
 
-* [HackerRank](https://www.hackerrank.com/)
-* [Leetcode](https://leetcode.com/)
-* [Nice Site](http://n00tc0d3r.blogspot.com/)
-* [Code Fights](https://codefights.com/)
+Site to Practice |
+------------- |
+[HackerRank](https://www.hackerrank.com/)  |
+[Code Fights](https://codefights.com/)
+[LintCode](http://www.lintcode.com/)
+[Leetcode](https://leetcode.com/) |
+[Nice Site](http://n00tc0d3r.blogspot.com/) |
 
 --- 
 
