@@ -3,9 +3,9 @@
 - [ ] Algorithms tutorial by [ProgrammingAlgorithms.net](https://www.programming-algorithms.net/)
 - [ ] [Stanford](https://web.stanford.edu/class/cs97si/) : Intro to Programming Contest
 - [ ] [Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/) by Jeff Erickson
-
-- [ ] Quick Notes on [DSA](https://sites.google.com/site/bassamhaddadsite/lecture-notes-Data-Structures-Java) using JAVA :coffee: :coffee: 
-
+- [ ] Quick Notes on [DSA](https://sites.google.com/site/bassamhaddadsite/lecture-notes-Data-Structures-Java) 
+    - using JAVA :coffee: :coffee: 
+- [ ] Algorithm for [dummies](http://www.dummies.com/programming/big-data/algorithms-dummies-cheat-sheet/) Cheat Sheet
 - [ ] Visual [Cheat Sheet](https://sinon.org/algorithms/)
 
 # Video : :movie_camera:
