@@ -8,5 +8,9 @@
 - [ ] Algorithm for [dummies](http://www.dummies.com/programming/big-data/algorithms-dummies-cheat-sheet/) Cheat Sheet
 - [ ] Visual [Cheat Sheet](https://sinon.org/algorithms/)
 
+
+
+- [ ] 500 Algorithm and DS problems - [Quora](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
+
 # Video : :movie_camera:
 - [ ] DSA - [GATES](https://www.youtube.com/playlist?list=PLsFENPUZBqipuTJXgm7xAOR0UnY_8OY07)
