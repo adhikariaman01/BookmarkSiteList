@@ -1,6 +1,3 @@
-- [x] [Lambda And Streams](Lambda-and-Streams)
-- [x] [Slides](Slides)
-
 ## Lambda and Streams
 - [ ] Oracle [Lambda](https://docs.oracle.com/javase/tutorial/java/javaOO/lambdaexpressions.html) and [Stream](https://docs.oracle.com/javase/tutorial/collections/streams/index.html) tutorial.
 - [ ] Best compiled resource : [LambdaFAQ](http://www.lambdafaq.org/)
