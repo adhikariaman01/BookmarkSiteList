@@ -4,7 +4,9 @@
   - [ ] [Reference](https://docs.spring.io/spring-framework/docs/5.0.0.M1/spring-framework-reference/html/mvc.html) Guide
   - [ ] [Spring 5](https://howtodoinjava.com/spring5/webmvc/spring5-mvc-hibernate5-example/)-mvc-hibernate5-example
 
-## Spring Batch
+  - [ ] Spring [REST](http://www.baeldung.com/rest-with-spring-series/) Series
+
+## [Spring Batch](#)
   - [ ] Spring Batch tutorial : [JavacodeGeeks](https://www.javacodegeeks.com/2015/03/spring-batch-tutorial.html)
 
 # Video :movie_camera: :
