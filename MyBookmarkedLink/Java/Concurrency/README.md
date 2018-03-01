@@ -10,6 +10,9 @@
 Ch6 - [Executor Framework](https://java2blog.com/java-threadpoolexecutor-example/), 
 Ch7 - [Concurrent Utils](https://java2blog.com/concurrenthashmap-in-java/) :+1::+1:
 
+- [ ] CS 891: Introduction to [Concurrent](http://www.dre.vanderbilt.edu/~schmidt/cs891f/) and Parallel Java Programming in Android
+
+
 # Topical :
 - [ ] Completable Future [Baeldung](http://www.baeldung.com/java-completablefuture)
 - [ ] Completable Future [Tutorial](https://www.callicoder.com/java-8-completablefuture-tutorial/)
