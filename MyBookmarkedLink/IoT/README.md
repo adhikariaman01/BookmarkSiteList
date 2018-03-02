@@ -1,6 +1,6 @@
 # Internet of Thing (IoT)
 ## Courses :
-- [ ] Internet of Things (IoT) - Curtin University - EdEx
+- [ ] Internet of Things (IoT) - Curtin University - edX
     - [ ] [Introduction to Internet of Things](https://www.edx.org/course/introduction-internet-things-iot-curtinx-iot1x)
     - [ ] [IoT Sensor and Devices](https://www.edx.org/course/iot-sensors-devices-curtinx-iot2x)
     - [ ] [IoT Networks and Protocols](https://www.edx.org/course/iot-networks-protocols-curtinx-iot3x)
