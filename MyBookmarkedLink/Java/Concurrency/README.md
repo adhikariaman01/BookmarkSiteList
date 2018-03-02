@@ -15,6 +15,7 @@ Ch7 - [Concurrent Utils](https://java2blog.com/concurrenthashmap-in-java/) :+1::
 
 - [ ] CS 891: Introduction to [Concurrent](http://www.dre.vanderbilt.edu/~schmidt/cs891f/) and Parallel Java Programming in Android
 
+- [ ] Java Concurrency DZone Ref Card on [Java Concurrency](https://dzone.com/storage/assets/7862400-dzone-rc061-corejavaconcurrency.pdf) PDF
 
 # Topical :
 - [ ] Completable Future [Baeldung](http://www.baeldung.com/java-completablefuture)
