@@ -2,7 +2,8 @@
 * [Java SE Learning](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 
 * [blog](https://medium.com/@biratkirat/being-an-effective-java-developer-ab183f2b6c25) which can be learned parallel to Effective Java book
----
+
+- [ ] :round_pushpin: Competitive Programming in [Java](https://www.youtube.com/playlist?list=PLMCXHnjXnTnsWU7jYp9XCKPW8ayl6D8fb) :round_pushpin:
 ## Sites to checkout Java and Problem Solving usig Java
 * [Java Revisited](http://javarevisited.blogspot.in/)
 * [Java 67](http://www.java67.com/)
