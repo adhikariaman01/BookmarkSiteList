@@ -1,5 +1,5 @@
 # Stanford 
-- [ ] CS9: Problem-Solving for the CS [Technical Interview](http://web.stanford.edu/class/cs9/) :star2::star2: :round_pushpin::round_pushpin:
+- [ ] CS9: Problem-Solving for the CS :round_pushpin::star2: [Technical Interview](http://web.stanford.edu/class/cs9/) :star2::round_pushpin: 🐼
 
 - [ ] CS1U : [Practical Linux](https://practicalunix.org/)
 
