@@ -3,7 +3,6 @@
 
 * [blog](https://medium.com/@biratkirat/being-an-effective-java-developer-ab183f2b6c25) which can be learned parallel to Effective Java book
 
-- [ ] :round_pushpin: Competitive Programming in [Java](https://www.youtube.com/playlist?list=PLMCXHnjXnTnsWU7jYp9XCKPW8ayl6D8fb) :round_pushpin:
 ## Sites to checkout Java and Problem Solving usig Java
 * [Java Revisited](http://javarevisited.blogspot.in/)
 * [Java 67](http://www.java67.com/)
@@ -25,6 +24,7 @@
 
 ## Videos :
 * [Ram N](https://ramj2ee.blogspot.in/2015/05/java-tutorial.html) Videos :movie_camera:
+- [ ] :round_pushpin: Competitive Programming in [Java](https://www.youtube.com/playlist?list=PLMCXHnjXnTnsWU7jYp9XCKPW8ayl6D8fb) :round_pushpin:
 
 ## Interview Questions :
 * Java Interview Question in [Udemy](https://blog.udemy.com/java-interview-questions/) blog
