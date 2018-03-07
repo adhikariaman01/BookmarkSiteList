@@ -13,4 +13,5 @@
 - [ ] 500 Algorithm and DS problems - [Quora](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
 
 # Video : :movie_camera:
+- [ ] :pushpin: Best MUST watch Data Structure and Algorithm [Playlists](https://www.youtube.com/user/purpongie/playlists) :triangular_flag_on_post::triangular_flag_on_post: :triangular_flag_on_post::triangular_flag_on_post:
 - [ ] DSA - [GATES](https://www.youtube.com/playlist?list=PLsFENPUZBqipuTJXgm7xAOR0UnY_8OY07)
