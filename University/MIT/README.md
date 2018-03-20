@@ -10,5 +10,4 @@
 - [ ] [Design and Analysis of Algorithm](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/index.htm)
 
 
----
-- [ ] [Class-Central](https://www.class-central.com/university/mit)
+- [ ] [Class-Central](https://www.class-central.com/university/mit) :school_satchel: :school_satchel:
