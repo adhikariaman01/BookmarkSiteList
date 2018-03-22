@@ -3,6 +3,8 @@
 * Getting started with [Microservices](https://www.infoq.com/articles/Microservices-SpringBoot) in Spring Boot
 * [Microservices using Spring Cloud & Netflix OSS](http://callistaenterprise.se/blogg/teknik/2015/04/10/building-microservices-with-spring-cloud-and-netflix-oss-part-1/)
 
+- [ ] Spring Cloud [QuickStart](https://medium.com/oril/spring-cloud-quick-start-227b766de4ee)
+
 * [Micro-Commerce](https://github.com/idugalic/micro-ecommerce)
 
 + SERIES
@@ -10,7 +12,7 @@
     - [ ] Microservices with [Spring Boot](https://dzone.com/articles/microservices-with-spring-boot-part-1-getting-star)
     - [ ] Microservice using Spring Boot and Spring Cloud [here](https://dzone.com/articles/microservices-using-spring-boot-amp-spring-cloud-p)
     - [ ] Spring Boot Microservice Series - [Medium Article](https://medium.com/@marcus.eisele/implementing-a-microservice-architecture-with-spring-boot-intro-cdb6ad16806c)
-
+    
 
 
 
