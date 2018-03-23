@@ -1,4 +1,4 @@
-+ Container, Dependency, and IOC
++ **Container, Dependency, and IOC**
 	- [ ] What is dependency injection and what are the advantages?
 	- [ ] What is an interface and what are the advantages of making use of them in Java?
 	- [ ] What is meant by “application-context” and how do you create one?
@@ -52,7 +52,7 @@
 	- [ ] What is @Value used for?
 	- [ ] What is the difference between $ and # in @Value expressions?
 
-+ Aspect oriented programming
++ **Aspect oriented programming**
 	- [ ] What is the concept of AOP? Which problem does it solve?
 	- [ ] What is a pointcut, a join point, an advice, an aspect, weaving?
 	- [ ] How does Spring solve (implement) a cross cutting concern?
@@ -70,7 +70,7 @@
 	- [ ] Which advice do you have to use if you would like to try and catch exceptions?
 	- [ ] What is the difference between @EnableAspectJAutoProxy and <aop:aspectjautoproxy>?										
 
-+ Data Management: JDBC, Transactions, JPA, Spring Data
++ **Data Management: JDBC, Transactions, JPA, Spring Data**
 	- [ ] What is the difference between checked and unchecked exceptions?
 Why do we (in Spring) prefer unchecked exceptions?
 	- [ ] What is the data access exception hierarchy?
@@ -118,7 +118,7 @@ between both?
 	- [ ] How do you define an “instant” repository?
 	- [ ] What is @Query used for?
 
-+ Spring MVC and the Web Layer
++ **Spring MVC and the Web Layer**
 MVC is an abbreviation for a design pattern. What does it stand for and what is the idea
 behind it?
 	- [ ] Do you need spring-mvc.jar in your classpath or is it part of spring-core?
@@ -142,7 +142,7 @@ annotation?
 	- [ ] Why are controllers testable artifacts?
 	- [ ] What does the InternalResourceViewResolver do?
 
-+ Security
++ **Security**
 	- [ ] What is the delegating filter proxy?
 	- [ ] What is the security filter chain?
 	- [ ] In the notes several predefined filters were shown. Do you recall what they did and what
@@ -161,7 +161,7 @@ level (think of its purpose not its Java type).
 	- [ ] In which security annotation are you allowed to use SpEL?
 	- [ ] Does Spring Security support password hashing? What is salting?
 
-+ REST
++ **REST**
 	- [ ] What does REST stand for?
 	- [ ] What is a resource?
 	- [ ] What are safe REST operations?
@@ -184,7 +184,7 @@ level (think of its purpose not its Java type).
 	- [ ] Does REST work with transport layer security (TLS)?
 	- [ ] Do you need Spring MVC in your classpath
 
-+ Spring Boot 
++ **Spring Boot**
 	- [ ] What is Spring Boot?
 	- [ ] What are the advantages of using Spring Boot?
 	- [ ] Why is it “opinionated”?
@@ -203,7 +203,7 @@ understand them if you saw them?
 	- [ ] Can you control logging with Spring Boot? How?
 	- [ ] Note that the second Spring Boot section (Going Further) is not required for this exam.
 
-+ Microservices
++ **Microservices**
 What is a microservices architecture?
 	- [ ] What are the advantages and disadvantages of microservices?
 	- [ ] What sub-projects of Spring Cloud did we cover in the course? Spring Cloud is a large
