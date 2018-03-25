@@ -8,3 +8,4 @@
 
 + Youtube
   - [ ] The Complete Android Developer [Course](https://www.youtube.com/playlist?list=PLMsH9_4zQKFzsAIOQ53_rklWsJkERVPjo) Beginner To Advanced!
+  - [ ] Android Application Development [Tutorial](https://www.youtube.com/playlist?list=PLM8gmU39ZoDeWWtDFxNM2N-2N9CtGum_E) for Beginners | 2017
