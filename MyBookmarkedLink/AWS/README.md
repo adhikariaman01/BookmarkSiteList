@@ -24,6 +24,7 @@
   - [ ] [AWS Tuts - Guru99](http://www.guru99.com/aws-tutorial.html)
 
 ## Videos :movie_camera:
+  - [ ] [AWS](https://www.youtube.com/playlist?list=PLQEwxUS_W2rtqAX9d_njOKKMKDDTM6sSi) Java
   - [ ] [AWS](https://www.youtube.com/playlist?list=PLfi5oI2EMygMD4xxZxHKwrPsz7g_uraQo) with Java
   - [ ] [AWS](https://www.youtube.com/playlist?list=PL6TbWIxWsLY1_un_cd6xIyf4TAHxbqmDg) videos
   - [ ] AWS [Video](https://www.youtube.com/playlist?list=PL2E934wazTBgxfwF_bFIPercCCqjz24fm)
