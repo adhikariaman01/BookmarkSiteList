@@ -15,3 +15,5 @@
   - [ ] Get started with [AWS Lambda](https://www.youtube.com/playlist?list=PLzvRQMJ9HDiSQMe68cti8cupI0mzLk1Gc)
   - [ ] [AWS Lambda](https://www.youtube.com/channel/UC6c4tPa0kRK9g7Z8npMDQxQ/playlists) for Java
 
+
+  - [ ] How to trigger a [Lambda](https://www.youtube.com/watch?v=jgiZ9QUYqyM) function from DynamoDB
