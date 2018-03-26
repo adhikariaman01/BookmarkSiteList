@@ -17,3 +17,4 @@
 
 
   - [ ] How to trigger a [Lambda](https://www.youtube.com/watch?v=jgiZ9QUYqyM) function from DynamoDB
+  - [ ] Amazon Lex and [AWS Lambda](https://www.youtube.com/playlist?list=PLkON5xqhcFCyFr_Ec4R_ihk82G09hW4It) tutorials
