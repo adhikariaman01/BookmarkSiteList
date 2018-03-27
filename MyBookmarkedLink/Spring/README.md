@@ -9,6 +9,7 @@
 
   - [ ] Spring [REST](http://www.baeldung.com/rest-with-spring-series/) Series
   - [ ] What's New in [Spring 5](https://www.ibm.com/developerworks/library/j-whats-new-in-spring-framework-5-theedom/) ?
+  - [ ] Building Isomorphic Webapps on the JVM with React.js and [Spring Boot](http://winterbe.com/posts/2015/02/16/isomorphic-react-webapps-on-the-jvm/)
 
 + [Spring Batch](#)
   - [ ] Spring Batch tutorial : [JavacodeGeeks](https://www.javacodegeeks.com/2015/03/spring-batch-tutorial.html)
