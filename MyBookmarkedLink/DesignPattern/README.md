@@ -1,5 +1,5 @@
-+ Repo
-	- [ ] Java [Design Pattern](https://github.com/iluwatar/java-design-patterns) - List of entire Patterns with clear explanation. :hotsprings: :hotsprings:
++ Repo :octocat:
+	- [ ] Java [Design Pattern](https://github.com/iluwatar/java-design-patterns) - List of entire Patterns with clear explanation. :hotsprings: :hotsprings: :chart_with_upwards_trend:
 	- [ ] Design Patterns for Human - [Examples](https://github.com/kamranahmedse/design-patterns-for-humans) in PHP
 
 + Book :
@@ -11,10 +11,11 @@
 	- [ ]  [Design Pattern Guru](https://refactoring.guru/design-patterns)
 	- [ ] Design Pattern Tutorial - [SourceMaking](https://sourcemaking.com/design_patterns)
 	- [ ] [JavaCodeGeek](https://www.javacodegeeks.com/2015/09/java-design-patterns.html) Design Pattern Tutorials - Also in [PDF](http://enos.itcollege.ee/~jpoial/java/naited/Java-Design-Patterns.pdf)
+	- [ ] [Design Pattern](https://www.dineshonjava.com/category/design-pattern/) - Dinesh on Java :hatching_chick: :hatching_chick:
 	- [ ] Design Pattern with Examples - by [TheJavaGeek](http://www.thejavageek.com/design-patterns/)
 	- [ ] Java Design Patterns [Reference and Examples](http://www.fluffycat.com/Java-Design-Patterns/)
 	- [ ] Journaldev [Design Pattern](https://www.journaldev.com/1827/java-design-patterns-example-tutorial) Tutorial
-
+	- [ ] GoF Design Pattern using Java - [Part 1](https://dzone.com/articles/gof-design-patterns-using-java-part-1) , [Part 2](https://dzone.com/articles/gof-design-patterns-using-java-02) 
 
 	
 	- [ ] Design Pattern in Java tutorial - [Vogella](http://www.vogella.com/tutorials/DesignPatterns/article.html)
