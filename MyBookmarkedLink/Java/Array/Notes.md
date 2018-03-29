@@ -20,7 +20,7 @@
         
 - If there is only primitive type field or Immutable object then Deep Copy and Shallow Copy are same.
 
-- Shallow vs Deep Copy in Java - by [Marcus Biel](https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim)
-
 + Cloning :
     - creates exact copy of an existing object in memory. Object implementing `Cloneable Interface` are only eligible for cloning process
+
+- Shallow vs Deep Copy in Java - by [Marcus Biel](https://dzone.com/articles/java-copy-shallow-vs-deep-in-which-you-will-swim)
