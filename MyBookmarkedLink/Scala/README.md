@@ -26,6 +26,7 @@
 ## Book :
 - [ ] Programming in [Scala](http://people.cs.ksu.edu/~schmidt/705a/Scala/Programming-in-Scala.pdf)
 - [ ] Scala [Cookbook](http://www.bigdataanalyst.in/wp-content/uploads/2015/07/Scala-Cookbook.pdf)
+- [ ] [Scala for Impatient](http://sd.blackball.lv/library/Scala_for_the_Impatient_2nd_Edition_(2017).pdf)
 
 # Video 
 - [ ] MUST MUST MUST watch best resource : 
