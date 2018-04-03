@@ -18,3 +18,4 @@
 
 # Book :
 - [ ] [Algorithms Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/all-algorithms.pdf) by - Jeff Erickson
+- [ ] [Algorithms Notes fr Professional](file:///Users/amanadhikari/Downloads/AlgorithmsNotesForProfessionals.pdf)
