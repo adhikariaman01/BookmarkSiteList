@@ -11,6 +11,7 @@
 - [ ] Functional Programming in Scala Specialization :[Coursera](https://www.coursera.org/specializations/scala)
 
 ## Tutorial :
+- [ ] Learning [Scala](http://joelabrahamsson.com/learning-scala/) : Series
 - [ ] Intro to [Scala](https://cognitiveclass.ai/courses/introduction-to-scala/) - CongnitiveClass
 - [ ] SCALA - [Exercises](https://www.scala-exercises.org/) - Learning
 - [ ] Twitter Scala [School](https://twitter.github.io/scala_school/)
