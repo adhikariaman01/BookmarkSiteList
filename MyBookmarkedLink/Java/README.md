@@ -1,5 +1,5 @@
 # Java
-* [Java SE Learning](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
+- [ ] [Java SE Learning](https://docs.oracle.com/javase/tutorial/tutorialLearningPaths.html)
 
 * [blog](https://medium.com/@biratkirat/being-an-effective-java-developer-ab183f2b6c25) which can be learned parallel to Effective Java book
 
