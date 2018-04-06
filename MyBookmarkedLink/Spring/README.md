@@ -14,6 +14,10 @@
 + [Spring Batch](#)
   - [ ] Spring Batch tutorial : [JavacodeGeeks](https://www.javacodegeeks.com/2015/03/spring-batch-tutorial.html)
 
++ [Spring Integration](#)
+  - [ ] Reference in [HTML](https://docs.spring.io/spring-integration/reference/html/)
+  - [ ] Spring Integration tutorial blogs post by [Java Article](http://www.javarticles.com/category/spring-integration)
+
 + Video :movie_camera: :
   - [ ] [Spring](https://www.youtube.com/watch?v=x74xoMjfOjs) 5 MVC + Hibernate 5
   - [ ] Spring [MVC](https://www.youtube.com/playlist?list=PLnQBGpefeAlvPe_Z2Y_Z7tmuuK4WRNuos) Framewrok
