@@ -7,6 +7,7 @@
     - using JAVA :coffee: :coffee: 
 - [ ] Algorithm for [dummies](http://www.dummies.com/programming/big-data/algorithms-dummies-cheat-sheet/) Cheat Sheet
 - [ ] Visual [Cheat Sheet](https://sinon.org/algorithms/)
+- [ ] Notes on [Algorithms](http://cs.lmu.edu/~ray/classes/a/) and [Data Structure](http://cs.lmu.edu/~ray/classes/dsa/)
 
 
 
