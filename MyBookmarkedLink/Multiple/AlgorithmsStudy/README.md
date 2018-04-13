@@ -1,4 +1,5 @@
 # Study Material: 
+- [ ] [Programming Camp Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit) :rainbow::rainbow::rainbow:
 - [ ] Algorithms Complexity [Tutorial](http://discrete.gr/complexity/)
 - [ ] Algorithms tutorial by [ProgrammingAlgorithms.net](https://www.programming-algorithms.net/)
 - [ ] [Stanford](https://web.stanford.edu/class/cs97si/) : Intro to Programming Contest
