@@ -7,15 +7,16 @@
 - [ ] Tech Interview Prep [List](https://hackmd.io/s/SJIV-n7B)
 ---
 # Problem Solving Links
-* Topcoder [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/):boom::boom::boom:
-* Algorithm [Problem](https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis) Set Analysis
-* Topcoder [Cookbook](https://apps.topcoder.com/forums/?module=Category&categoryID=4532)
-* Topcoder Problem [Archive](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Search&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=):zap::zap::zap:
-* TopCoder [Stats](https://community.topcoder.com/stat?c=last_match):zap::zap::zap:
-* Archive of Topcoder [Solution](http://web.eecs.utk.edu/~plank/topcoder-writeups/) and Explanation
-* [700](http://praveendhinwacoding.blogspot.in/2013/06/700-problems-to-understand-you-complete.html) Problems to understand Algorithm
-* Algorithms Problem Solving [tutorial](http://algorithms.tutorialhorizon.com/) on various topics
-* 10 Algorithms for Coding Interview - [ProgramCreek](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
+- [ ] Topcoder [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/):boom::boom::boom:
+- [ ] Algorithm [Problem](https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis) Set Analysis
+- [ ] Topcoder [Cookbook](https://apps.topcoder.com/forums/?module=Category&categoryID=4532)
+- [ ] Topcoder Problem [Archive](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Search&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=):zap::zap::zap:
+- [ ] TopCoder [Stats](https://community.topcoder.com/stat?c=last_match):zap::zap::zap:
+- [ ] Archive of Topcoder [Solution](http://web.eecs.utk.edu/~plank/topcoder-writeups/) and Explanation
+- [ ] [700](http://praveendhinwacoding.blogspot.in/2013/06/700-problems-to-understand-you-complete.html) Problems to understand Algorithm
+- [ ] Algorithms Problem Solving [tutorial](http://algorithms.tutorialhorizon.com/) on various topics by @tutorialhorizon
+
+- [ ] 10 Algorithms for Coding Interview - [ProgramCreek](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 
 # VIDEOS :video_camera: :camera: :tv: 
 * [Algorithm Design Manual - Steven Skiena](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b):bookmark: :book: 
