@@ -1,8 +1,8 @@
 # [AWESOME](https://github.com/lnishan/awesome-competitive-programming) Competitive Programming
 
-* Must Read on [DS & Algo](https://www.topcoder.com/community/data-science/data-science-tutorials/)
-* [HackerEarth](https://www.hackerearth.com/practice/) multiple subject to practice. & learn
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+- [ ] Must Read on [DS & Algo](https://www.topcoder.com/community/data-science/data-science-tutorials/)
+- [ ] [HackerEarth](https://www.hackerearth.com/practice/) multiple subject to practice. & learn
+- [ ] [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 
 # :round_pushpin: [GOOGLE Tech Dev Guide](https://techdevguide.withgoogle.com/) 
 
