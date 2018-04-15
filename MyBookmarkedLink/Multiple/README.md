@@ -6,11 +6,11 @@
 
 # :round_pushpin: [GOOGLE Tech Dev Guide](https://techdevguide.withgoogle.com/) 
 
-* [CLRS Solution Manual](http://www.math.ucsd.edu/~mbodnar/CLRS_Solutions_Manual.pdf) 
-* [CLRS Selected Solution](https://mitpress.mit.edu/sites/default/files/titles/content/Intro_to_Algo_Selected_Solutions.pdf)
+- [ ] [CLRS Solution Manual](http://www.math.ucsd.edu/~mbodnar/CLRS_Solutions_Manual.pdf) 
+- [ ] [CLRS Selected Solution](https://mitpress.mit.edu/sites/default/files/titles/content/Intro_to_Algo_Selected_Solutions.pdf)
 
 
-* [Steven Skienna Site](http://www3.cs.stonybrook.edu/~skiena/) & [Youtube channel](https://www.youtube.com/user/StevenSkiena)
+- [ ] [Steven Skienna Site](http://www3.cs.stonybrook.edu/~skiena/) & [Youtube channel](https://www.youtube.com/user/StevenSkiena)
 
-* [Erik Demaine](http://erikdemaine.org/)
+- [ ] [Erik Demaine](http://erikdemaine.org/)
 
