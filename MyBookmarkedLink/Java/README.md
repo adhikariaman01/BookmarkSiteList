@@ -4,7 +4,7 @@
 - [ ] [blog](https://medium.com/@biratkirat/being-an-effective-java-developer-ab183f2b6c25) which can be learned parallel to Effective Java book
 
 ## Sites to checkout Java and Problem Solving usig Java
-* [Java Revisited](http://javarevisited.blogspot.in/)
+- [ ] [Java Revisited](http://javarevisited.blogspot.in/)
 * [Java 67](http://www.java67.com/)
 
 * [How to do it in Java](https://howtodoinjava.com/)
