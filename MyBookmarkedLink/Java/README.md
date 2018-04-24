@@ -46,6 +46,6 @@
 ## Books : 
 - [ ] Java Performance The Definitive Guide : [pdf](http://1.droppdf.com/files/iTkkV/oreilly-java-performance-the-definitive-guide-2014.pdf)
 - [ ] Java Generics : [pdf](https://pdfs.semanticscholar.org/2d4a/a0f63c26dee36310c6c1ce3fe1fe4b4551e9.pdf)
-
+- Head first [OOAD](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
 
 ## Most Upvotes Stackoverflow [Questions](https://stackoverflow.com/questions/tagged/java?sort=votes) :+1:
