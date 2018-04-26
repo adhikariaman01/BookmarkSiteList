@@ -5,7 +5,7 @@
 
 ## Sites to checkout Java and Problem Solving usig Java
 - [ ] [Java Revisited](http://javarevisited.blogspot.in/)
-* [Java 67](http://www.java67.com/)
+- [ ] [Java 67](http://www.java67.com/)
 
 * [How to do it in Java](https://howtodoinjava.com/)
 * [Java2s](http://www.java2s.com/)
