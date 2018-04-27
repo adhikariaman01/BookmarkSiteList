@@ -22,6 +22,7 @@
 
 * Advanced [Java](https://www.javacodegeeks.com/2015/09/advanced-java.html) Topics Explanation : JavaCodeGeeks
 - [ ] Java 8 - [Tutorial Point](https://www.tutorialspoint.com/java8/index.htm)
+- [ ] [Baeldung Java8](http://www.baeldung.com/java8)
 
 ## Videos :
 * [Ram N](https://ramj2ee.blogspot.in/2015/05/java-tutorial.html) Videos :movie_camera:
@@ -31,7 +32,7 @@
 * Java Interview Question in [Udemy](https://blog.udemy.com/java-interview-questions/) blog
 * Codementor Java Interview [Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23)
 * Interview Q/A [site](http://www.javainterview.in/p/core-java-interview-question-are.html), [Q/A](http://codepumpkin.com/category/interview-questions/core-java-interview-questions/) blog , [Q/A](https://gigster.com/java-interview-questions) blog2
-- [ ] [Baeldung Java8](http://www.baeldung.com/java8) and [Baeldung Generic Interview Question](http://www.baeldung.com/java-generics-interview-questions)
+- [ ] [Baeldung Generic Interview Question](http://www.baeldung.com/java-generics-interview-questions)
 * [Java2Blog](https://java2blog.com/core-java-interview-questions-and-answers/)
 - [ ] [GlassDoor](https://www.glassdoor.com/Interview/java-interview-questions-SRCH_KT0,4_SDMC.htm)
 * Java [Interview](https://www.youtube.com/playlist?list=PLfi5oI2EMygPcKLx8d_8Jll9eauAhPj2B)
