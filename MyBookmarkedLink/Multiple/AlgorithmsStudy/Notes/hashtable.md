@@ -8,3 +8,8 @@ My Hashing List :
 - [ ] [William Fiset - Hashing - DataStructures Playlist](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu&disable_polymer=true)
 - [ ] [Hashing - Data Structures and algorithms in Java](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
 - [ ]  [Hashing Explanation in Java](https://www.youtube.com/watch?v=1JZMb3D75PY&list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk&index=30)
+
+
+# Extra Stuff :
+- [ ] [Hashing I](http://www.cs.nthu.edu.tw/~wkhon/ds/ds12/lecture/lecture17.pdf)
+- [ ] [Hashing II](http://www.cs.nthu.edu.tw/~wkhon/ds/ds12/lecture/lecture18.pdf)
