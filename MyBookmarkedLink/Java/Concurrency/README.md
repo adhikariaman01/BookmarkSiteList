@@ -24,3 +24,4 @@ Ch7 - [Concurrent Utils](https://java2blog.com/concurrenthashmap-in-java/) :+1::
 
 # Videos :
 - [ ] Google Tech Talk : [Memory Model](https://www.youtube.com/watch?v=WTVooKLLVT8)
+- [ ] [Java 8 New Concurrency feature can boost your Performance](https://www.tikalk.com/posts/2016/08/09/java-8-new-concurrency-features-can-boost-your-performance-lecture-video/)
