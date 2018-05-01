@@ -6,3 +6,6 @@
 # Book
 - [ ] Java Performance The Definitive Guide : [pdf](http://1.droppdf.com/files/iTkkV/oreilly-java-performance-the-definitive-guide-2014.pdf)
 - [ ] Java Performance by Charlie Hunt & Binu John : [pdf](http://197.14.51.10:81/pmb/COURS%20ET%20TUTORIAL/Informatique/langage/Java/Java%20Performance%20(2012).pdf)
+
+# Course :
+- [ ] [Performance Engineering of Software System - MIT](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2010/video-lectures/)
