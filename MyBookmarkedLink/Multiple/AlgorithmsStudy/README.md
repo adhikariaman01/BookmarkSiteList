@@ -24,3 +24,4 @@
 - [ ] [Algorithms Notes for Professional](https://www.google.com/search?q=Algorithms+Notes+For+Professionals+pdf&spell=1&sa=X&ved=0ahUKEwib7tuen53aAhVHslMKHdfAAcQQBQgmKAA&biw=1438&bih=759&dpr=2)
 - [ ] Data Structures Problem Solving using - [Java](https://cscnt.savannahstate.edu/StudentFiles/Data_Structure/Data-Structures-Problem-Solving-Using-Java.pdf):coffee: with [SOLUTIONS](http://www.cse.chalmers.se/~holmer/Kurser/LET3750105/weiss_answers.pdf)
 - [ ] Princeton Algorithms [book](http://www.albertstam.com/Algorithms.pdf)
+- [ ] Algorithms Unlocked [PDF](http://www.dahlan.web.id/files/ebooks/2013%20Algorithms_Unlocked.pdf)
