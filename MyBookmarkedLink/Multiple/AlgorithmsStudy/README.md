@@ -25,3 +25,4 @@
 - [ ] Data Structures Problem Solving using - [Java](https://cscnt.savannahstate.edu/StudentFiles/Data_Structure/Data-Structures-Problem-Solving-Using-Java.pdf):coffee: with [SOLUTIONS](http://www.cse.chalmers.se/~holmer/Kurser/LET3750105/weiss_answers.pdf)
 - [ ] Princeton Algorithms [book](http://www.albertstam.com/Algorithms.pdf)
 - [ ] Algorithms Unlocked [PDF](http://www.dahlan.web.id/files/ebooks/2013%20Algorithms_Unlocked.pdf)
+- [ ] Hackers Delight [PDF](https://github.com/lancetw/ebook-1/blob/master/02_algorithm/Hacker's%20Delight%202nd%20Edition.pdf)
