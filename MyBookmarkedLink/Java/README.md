@@ -8,7 +8,7 @@
 - [ ] [Java 67](http://www.java67.com/)
 
 - [ ] [How to do it in Java](https://howtodoinjava.com/)
-* [Java2s](http://www.java2s.com/)
+- [ ] [Java2s](http://www.java2s.com/)
 * [Java In Use](http://www.javainuse.com/java)
 * [Program Creek](https://www.programcreek.com/)
 * [Mk Yong](http://www.mkyong.com/tutorials/java-8-tutorials/) , [Journal Dev](https://www.journaldev.com/java-tutorial-java-ee-tutorials?utm_source=website&utm_medium=menubar&utm_campaign=Top-Menu-Bar),  Java Deep [Blog](https://javax0.wordpress.com/) , Java 9 tutorial [Blog](http://www.logicbig.com/tutorials/core-java-tutorial/) 
