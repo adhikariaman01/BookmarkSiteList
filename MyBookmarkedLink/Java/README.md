@@ -18,6 +18,7 @@
 * Java 8 Idioms Series : [IBM Dev Work](https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=Java%20technology&sort_by=Date&sort_order=1&start=1&end=11&topic_by=-1&product_by=&type_by=All%20Types&show_abstract=false&search_by=Java%208%20idioms&industry_by=-1&series_title_by=) by [Venket S](http://blog.agiledeveloper.com/)
 
 * [Java Concept of the Day](http://javaconceptoftheday.com/jdk-installation/)
+- [ ] [Java Tips](https://www.javatips.net/):coffee::coffee:
 
 
 * Advanced [Java](https://www.javacodegeeks.com/2015/09/advanced-java.html) Topics Explanation : JavaCodeGeeks
