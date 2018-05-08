@@ -61,6 +61,7 @@ Site to Practice |
 [Leetcode](https://leetcode.com/) |
 [Nice Site](http://n00tc0d3r.blogspot.com/) |
 [Code Forces](http://codeforces.com/) |
+[Fire Code](https://www.firecode.io/pages/home) |
 
 --- 
 
