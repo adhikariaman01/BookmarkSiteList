@@ -1,4 +1,4 @@
-# [AWESOME](https://github.com/lnishan/awesome-competitive-programming) Competitive Programming
+# [AWESOME](https://github.com/lnishan/awesome-competitive-programming) Competitive Programming :octocat: :octocat:
 
 - [ ] Must Read on [DS & Algo](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [ ] [HackerEarth](https://www.hackerearth.com/practice/) multiple subject to practice. & learn
