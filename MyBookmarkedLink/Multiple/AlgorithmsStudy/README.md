@@ -13,6 +13,7 @@
 
 
 - [ ] 500 Algorithm and DS problems - [Quora](https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions)
+- [ ] [Java Algorithm Implementation](https://github.com/phishman3579/java-algorithms-implementation) :octocat: :octocat:
 
 # Video : :movie_camera:
 - [ ] :pushpin: Best MUST watch Data Structure and Algorithm [Playlists](https://www.youtube.com/user/purpongie/playlists) :triangular_flag_on_post::triangular_flag_on_post: :triangular_flag_on_post::triangular_flag_on_post:
