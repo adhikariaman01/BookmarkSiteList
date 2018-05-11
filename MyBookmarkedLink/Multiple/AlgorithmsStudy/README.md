@@ -27,3 +27,4 @@
 - [ ] Princeton Algorithms [book](http://www.albertstam.com/Algorithms.pdf)
 - [ ] Algorithms Unlocked [PDF](http://www.dahlan.web.id/files/ebooks/2013%20Algorithms_Unlocked.pdf)
 - [ ] Hackers Delight [PDF](https://github.com/lancetw/ebook-1/blob/master/02_algorithm/Hacker's%20Delight%202nd%20Edition.pdf)
+- [ ] [Data Structure Practice for Collegiate Programming Contests and Education](https://doc.lagout.org/Others/Data%20Structures/Data%20Structure%20Practice_%20for%20Collegiate%20Programming%20Contests%20and%20Education%20%5BWu%20%26%20Wang%202016-02-04%5D.pdf):red_circle: :large_blue_circle: :leo: :large_blue_circle: :libra: :red_circle:
