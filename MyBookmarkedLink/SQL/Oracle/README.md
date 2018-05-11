@@ -3,7 +3,7 @@
 
 ## Books :
 - [ ] [Oracle and PL/SQL Recipes A Problem-Solution Approach ](https://www.doc-developpement-durable.org/file/Projets-informatiques/cours-&-manuels-informatiques/PL-Sql/Oracle%20PL-SQL%20Recipes.pdf)
-- [ ] [Oracle PL/SQL by Example (11g)](https://webdiis.unizar.es/asignaturas/BD/transparenciasBD/otros_Documentos/Oracle%20PL%20SQL%20by%20Example.pdf)
+- [x] [Oracle PL/SQL by Example (11g)](https://webdiis.unizar.es/asignaturas/BD/transparenciasBD/otros_Documentos/Oracle%20PL%20SQL%20by%20Example.pdf)
 - [ ] [Oracle PL/SQL Best Practices](http://www.arino.xnet.uz/books/Oracle%20PL-SQL%20Best%20Practices%20(Feuerstein,%20S.,%202nd%20ed.,%202008).pdf)
 
 ## VIDEOS :
