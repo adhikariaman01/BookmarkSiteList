@@ -5,9 +5,10 @@
 - [ ] Software Engineer Interview Questions [Gitbook](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/) based on this nice [BLOG](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/)
 - [ ] [Google Interview Prep](http://blog.gainlo.co/index.php/category/google-interview-preparation/):blue_heart::heart::yellow_heart::blue_heart::green_heart::heart:
 - [ ] Tech Interview Prep [List](https://hackmd.io/s/SJIV-n7B)
+
 ---
 # Problem Solving Links
-- [ ] Topcoder [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/):boom::boom::boom:
+- [ ] Topcoder [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
 - [ ] Algorithm [Problem](https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis) Set Analysis
 - [ ] Topcoder [Cookbook](https://apps.topcoder.com/forums/?module=Category&categoryID=4532)
 - [ ] Topcoder Problem [Archive](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Search&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=):zap::zap::zap:
@@ -18,6 +19,7 @@
 
 - [ ] 10 Algorithms for Coding Interview - [ProgramCreek](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 - [ ] Coding Interview Questions on various topics with soln - [byte-by-byte](https://www.byte-by-byte.com/coding-interview-questions/)
+- [ ] [Repositories of UVA Problems ](https://uva.onlinejudge.org/)  :hotsprings: :zap: :hotsprings:
 
 # VIDEOS :video_camera: :camera: :tv: 
 * [Algorithm Design Manual - Steven Skiena](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b):bookmark: :book: 
