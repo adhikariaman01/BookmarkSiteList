@@ -49,7 +49,7 @@
 
 ## Books : 
 - [ ] [OCA OCP Java SE 7 Programmer I & II](https://doc.lagout.org/programmation/Java/OCA_OCP%20Java%20SE%207%20Programmer%20I%20%26%20II%20Study%20Guide%20%28Exams%201Z0-803%20%26%201Z0-804%29%20%5BSierra%20%26%20Bates%202014-10-24%5D.pdf) Study Guide, Exams 1Z0-803 & 1Z0-804 - **Sierra K., Bates B.**
-- [ ] OCP: Oracle Certified Professional Java SE 8 Programmer [I](https://bittlife.com/books/Jeanne%20Boyarsky,%20Scott%20Selikoff%20-%20Study%20Guide.pdf) & [II](http://files.hii-tech.com/book/SCJP/OCP%20Oracle%20Certified%20Professional%20Java%20SE%208%20Programmer%20II%20Study%20Guide%20Exam%201Z0-809.pdf) II Study Guide: Exam 1Z0-809 -  **Jeanne Boyarsky, Scott Selikoff**
+- [ ] OCP: Oracle Certified Professional Java SE 8 Programmer [I](https://bittlife.com/books/Jeanne%20Boyarsky,%20Scott%20Selikoff%20-%20Study%20Guide.pdf) & [II ](http://files.hii-tech.com/book/SCJP/OCP%20Oracle%20Certified%20Professional%20Java%20SE%208%20Programmer%20II%20Study%20Guide%20Exam%201Z0-809.pdf) Study Guide: Exam 1Z0-809 -  **Jeanne Boyarsky, Scott Selikoff**
 - [ ] PERFORMANCE [BOOKS](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/Java/Performance)
 - [ ] Java Generics : [pdf](https://pdfs.semanticscholar.org/2d4a/a0f63c26dee36310c6c1ce3fe1fe4b4551e9.pdf)
 - [ ] Head First [OOAD](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
