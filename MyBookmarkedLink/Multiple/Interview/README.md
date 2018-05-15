@@ -96,8 +96,9 @@ Site to Practice |
 
 * [How to do in Java](http://howtodoinjava.com/java-best-practices/)
 
-* [Quora Q/A :speech_balloon:](https://www.quora.com/Which-are-the-frequently-asked-interview-questions-for-Java-Engineers)
-
+* 
+  - [ ] [Quora Q/A :speech_balloon:](https://www.quora.com/Which-are-the-frequently-asked-interview-questions-for-Java-Engineers)
+  - [ ] [Quora](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview) List of Link on SYSTEM DESIGN 
 * [Goole Search](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=system%20design%20interview%20questions)
 
 
