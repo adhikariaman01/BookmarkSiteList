@@ -22,13 +22,13 @@
 - [ ] [Repositories of UVA Problems ](https://uva.onlinejudge.org/)  :hotsprings: :zap: :hotsprings:
 
 # VIDEOS :video_camera: :camera: :tv: 
-* [Algorithm Design Manual - Steven Skiena](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b):bookmark: :book: 
-* [DSA TOPIC](https://www.youtube.com/channel/UCmY63R8Xn20c6uIzcGgmI9A):cop: :metal: 
-* [Interview Related Videos](https://www.youtube.com/channel/UCZSfwNcYIpqO8B9wnBg4HWA)
-* [Programming Interview Question](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
-* [Interview Preparation for Data Structure and Algorithm Round - Tree Part 1](https://www.youtube.com/watch?v=TpMmcEwW524&t=1793s)
-* [Cracking the Coding Interview](https://www.youtube.com/watch?v=4NIb9l3imAo&t=42s)
-* [Prep Videos](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/videos)
+- []  [Algorithm Design Manual - Steven Skiena](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b):bookmark: :book: 
+- []  [DSA TOPIC](https://www.youtube.com/channel/UCmY63R8Xn20c6uIzcGgmI9A):cop: :metal: 
+- []  [Interview Related Videos](https://www.youtube.com/channel/UCZSfwNcYIpqO8B9wnBg4HWA)
+- []  [Programming Interview Question](https://www.youtube.com/playlist?list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI)
+- []  [Interview Preparation for Data Structure and Algorithm Round - Tree Part 1](https://www.youtube.com/watch?v=TpMmcEwW524&t=1793s)
+- []  [Cracking the Coding Interview](https://www.youtube.com/watch?v=4NIb9l3imAo&t=42s)
+- []  [Prep Videos](https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A/videos)
 * [System Design - WhatsApp, Twitter, Parkinglot videos](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Geek for Geek Videos](https://www.youtube.com/watch?v=il_t1WVLNxk&list=PLqM7alHXFySGqCvcwfqqMrteqWukz9ZoE):hearts: 
 * [Programming Interview videos](https://www.youtube.com/user/mycodeschool/videos)
