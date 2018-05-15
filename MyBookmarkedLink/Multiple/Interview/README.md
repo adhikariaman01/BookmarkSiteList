@@ -40,7 +40,7 @@
 
 * [DSA](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk) in JAVA :coffee: :coffee: :coffee:
 * [DS](https://www.youtube.com/playlist?list=PLJNHMXKkK6-iwEPDDt0mayHlNDqIpoS6M) in Java :coffee: :coffee: :coffee:
-* [DSA](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) in Java
+* [DSA](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) in Java :coffee: :100: :100: :100: :100:
 * JAVA [Algorithms](https://www.youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT) :coffee: :coffee: :coffee:
 * [DSA](https://www.youtube.com/playlist?list=PLs8TmeZHJEeF2UMA8KCI6g0BMDrVUgB0r) :coffee: :coffee: :coffee:
 * Java [Algorithms](https://www.youtube.com/playlist?list=PLfi5oI2EMygMPYRQf-UD4BOWrU4UJ_-2I) :coffee: :coffee: :coffee:
