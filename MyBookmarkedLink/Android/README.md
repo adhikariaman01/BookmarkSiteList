@@ -9,6 +9,10 @@
   - [ ] Android Dev tutorial using Android N - [Java2Blog](https://java2blog.com/android-development-tutorial-install-android-studio-sdk/)
   - [ ] Android Development Tutorial - [Vogella](http://www.vogella.com/tutorials/android.html)
 
++ Article
+  - [ ] Learning Android App Dev in 2018 - [MEDIUM](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
+
+
 + Youtube
   - [ ] The Complete Android Developer [Course](https://www.youtube.com/playlist?list=PLMsH9_4zQKFzsAIOQ53_rklWsJkERVPjo) Beginner To Advanced!
   - [ ] Android Application Development [Tutorial](https://www.youtube.com/playlist?list=PLM8gmU39ZoDeWWtDFxNM2N-2N9CtGum_E) for Beginners | 2017
