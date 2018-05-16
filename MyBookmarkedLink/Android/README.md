@@ -13,3 +13,7 @@
   - [ ] Android Application Development [Tutorial](https://www.youtube.com/playlist?list=PLM8gmU39ZoDeWWtDFxNM2N-2N9CtGum_E) for Beginners | 2017
   - [ ] Android [Uber Clone](https://www.youtube.com/playlist?list=PLaoF-xhnnrRULoWAGjWJ79-BwD1mAMwB0) App
   - [ ] Android [Instagram Clone](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9XqkckEJJA0I1wVKbUAOdv) App
+
++ Interview :
+  - [ ] Android Interview Questions (including core java) - [Repo](https://github.com/MindorksOpenSource/android-interview-questions) :octocat: :spades: :palm_tree:
+  - [ ] Android Interview Questions [Repo](https://github.com/derekargueta/Android-Interview-Questions) :octocat:
