@@ -22,3 +22,4 @@
 + Interview :
   - [ ] Android Interview Questions (including core java) - [Repo](https://github.com/MindorksOpenSource/android-interview-questions) :octocat: :spades: :palm_tree:
   - [ ] Android Interview Questions [Repo](https://github.com/derekargueta/Android-Interview-Questions) :octocat:
+  - [ ] Interview Questions Encountered - [MEDIUM](https://android.jlelse.eu/i-had-10-android-interviews-during-the-last-two-years-heres-the-questions-plus-some-lessons-i-ve-cdc583dfbc65)
