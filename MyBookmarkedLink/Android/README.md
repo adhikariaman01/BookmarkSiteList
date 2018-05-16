@@ -5,6 +5,8 @@
   - [ ] Professional Android Development - [edX Series](https://www.edx.org/micromasters/galileox-professional-android-developer)
   - [ ] Into to concurrent and Parallel programming in [Android](http://www.dre.vanderbilt.edu/~schmidt/cs891f/)
 
++ Tutorial :
+  - [ ] Android Dev tutorial using Android N - [Java2Blog](https://java2blog.com/android-development-tutorial-install-android-studio-sdk/)
 
 + Youtube
   - [ ] The Complete Android Developer [Course](https://www.youtube.com/playlist?list=PLMsH9_4zQKFzsAIOQ53_rklWsJkERVPjo) Beginner To Advanced!
