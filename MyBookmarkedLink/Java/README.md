@@ -35,7 +35,7 @@
 * Codementor Java Interview [Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23)
 * Interview Q/A [site](http://www.javainterview.in/p/core-java-interview-question-are.html), [Q/A](http://codepumpkin.com/category/interview-questions/core-java-interview-questions/) blog , [Q/A](https://gigster.com/java-interview-questions) blog2
 - [ ] [Baeldung Generic Interview Question](http://www.baeldung.com/java-generics-interview-questions)
-* [Java2Blog](https://java2blog.com/core-java-interview-questions-and-answers/)
+- [ ] [Java2Blog](https://java2blog.com/core-java-interview-questions-and-answers/) Interview Problems and [core java tutorial](https://java2blog.com/core-java-tutorial-for-beginners-experienced/) :+1:
 - [ ] [GlassDoor](https://www.glassdoor.com/Interview/java-interview-questions-SRCH_KT0,4_SDMC.htm)
 * Java [Interview](https://www.youtube.com/playlist?list=PLfi5oI2EMygPcKLx8d_8Jll9eauAhPj2B)
 * Java Interview - [Durasoft](https://www.youtube.com/playlist?list=PLd3UqWTnYXOkc_1jk0BC4JPiBypt_eT-K)
