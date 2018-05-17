@@ -7,8 +7,8 @@
 - [ ] Tech Interview Prep [List](https://hackmd.io/s/SJIV-n7B)
 
 ---
-# Problem Solving Links
-- [ ] TopCoder 
+## Problem Solving Links
+- [ ] **TopCoder**
   - [ ] [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
   - [ ] [Cookbook](https://apps.topcoder.com/forums/?module=Category&categoryID=4532)
   - [ ] Problem [Archive](https://community.topcoder.com/tc?module=ProblemArchive&sr=&er=&sc=&sd=&class=&cat=Search&div1l=&div2l=&mind1s=&mind2s=&maxd1s=&maxd2s=&wr=):zap::zap::zap:
@@ -53,10 +53,10 @@
 
 * [Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0):bulb: :trophy:
 
-# :thought_balloon: My Bookmarked List : :thought_balloon:
+### :thought_balloon: My Bookmarked List : :thought_balloon:
 
 
-Site to Practice |
+**Site to Practice** |
 ------------- |
 [HackerRank](https://www.hackerrank.com/)  |
 [Code Fights](https://codefights.com/)
