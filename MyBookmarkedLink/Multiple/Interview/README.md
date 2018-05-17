@@ -82,7 +82,9 @@ Site to Practice |
 
 * [Gainloo Blogs](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 
-* [Leetcode Solution/Explanation](http://www.learn4master.com/data-structures/hashtable/leetcode-lru-cache-solution-in-java)
+- [ ] Leet Code Solutions :
+  - [ ] Leetcode Solution/Explanation](http://www.learn4master.com/data-structures/hashtable/leetcode-lru-cache-solution-in-java)
+  - [ ] LeetCode Solution Coding + System Design - [Repo](https://github.com/zxqiu/leetcode-lintcode) :octocat: :octocat:
 
 * [Design Facebook - prismoskills](http://prismoskills.appspot.com/lessons/System_Design_and_Big_Data/Chapter_08_-_Designing_Facebook.jsp)
 
