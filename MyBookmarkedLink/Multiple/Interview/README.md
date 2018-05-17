@@ -83,25 +83,25 @@ Site to Practice |
 * [Gainloo Blogs](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 
 - [ ] Leet Code Solutions :
-  - [ ] Leetcode Solution/Explanation](http://www.learn4master.com/data-structures/hashtable/leetcode-lru-cache-solution-in-java)
+  - [ ] Leetcode Solution/Explanation [Learn4Master](http://www.learn4master.com/data-structures/hashtable/leetcode-lru-cache-solution-in-java)
   - [ ] LeetCode Solution Coding + System Design - [Repo](https://github.com/zxqiu/leetcode-lintcode) :octocat: :octocat:
 
-* [Design Facebook - prismoskills](http://prismoskills.appspot.com/lessons/System_Design_and_Big_Data/Chapter_08_-_Designing_Facebook.jsp)
+- [ ] [Design Facebook - prismoskills](http://prismoskills.appspot.com/lessons/System_Design_and_Big_Data/Chapter_08_-_Designing_Facebook.jsp)
 
-* [Sys Design for Big Data](http://n00tc0d3r.blogspot.com/2013/09/big-data-consistent-hashing.html)
+- [ ] [Sys Design for Big Data](http://n00tc0d3r.blogspot.com/2013/09/big-data-consistent-hashing.html)
 
 * [Gayle Laakmann McDowell Video](https://www.youtube.com/results?search_query=Gayle+Laakmann+McDowell)
 
-* [Google Codejam Paspaper](https://code.google.com/codejam/contests.html)
-
-* [Google Codejam Pastpaper 1](https://code.google.com/codejam/contest/7234486/dashboard)
+- [ ] Google Codejam Pastpaper
+  - [ ] [Contest](https://code.google.com/codejam/contests.html)
+  - [ ] [Dashboard](https://code.google.com/codejam/contest/7234486/dashboard)
 
 * [How to do in Java](http://howtodoinjava.com/java-best-practices/)
 
-* 
-  - [ ] [Quora Q/A :speech_balloon:](https://www.quora.com/Which-are-the-frequently-asked-interview-questions-for-Java-Engineers)
-  - [ ] [Quora](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview) List of Link on SYSTEM DESIGN 
-* [Goole Search](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=system%20design%20interview%20questions)
+- [ ] Quora Q/A on various topics :speech_balloon:
+  - [ ] [Frequently asked IQ for Java Engineer](https://www.quora.com/Which-are-the-frequently-asked-interview-questions-for-Java-Engineers)
+  - [ ] [How to prepare System Design questions ?](https://www.quora.com/How-do-I-prepare-to-answer-design-questions-in-a-technical-interview) List of Link on SYSTEM DESIGN 
+- [ ] [Goole Search for Dummies :) ](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=system%20design%20interview%20questions)
 
 
 - [ ] Epic [Interview](http://katemats.com/interview-questions/) Question on multiple topics
