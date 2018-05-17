@@ -5,6 +5,7 @@
 - [ ] Software Engineer Interview Questions [Gitbook](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/) based on this nice [BLOG](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/)
 - [ ] [Google Interview Prep](http://blog.gainlo.co/index.php/category/google-interview-preparation/):blue_heart::heart::yellow_heart::blue_heart::green_heart::heart:
 - [ ] Tech Interview Prep [List](https://hackmd.io/s/SJIV-n7B)
+- [ ] 5 Essential [Phone Interview](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) Questions
 
 ---
 ## Problem Solving Links
