@@ -12,6 +12,7 @@
 - [ ] Mastering Regular Expression in [Java](http://tim.vanstaalduine.com/downloads/books/O_Reilly-Mastering_Regular_Expressions_in_Java_2nd_Edition.pdf)
 - [ ] Java Regex - [Slide PDF](http://java.ociweb.com/javasig/knowledgebase/2005-05/JavaRegex.pdf)
 - [ ] Java Regex [CheatSheet](http://www.omicentral.com/cheatsheets/JavaRegularExpressionsCheatSheet.pdf)
+- [ ] [Regex CookBook](https://karczmarczuk.users.greyc.fr/TEACH/TAL/Doc/Regular%20Expressions.pdf)
 
 IQ :
 - [ ]  HTML-phone-number question ?
