@@ -37,13 +37,13 @@
 
 
 * [Imtiaz Amhed](https://www.youtube.com/channel/UCu4mLxrAkMEcjK9N1yJOxyA/videos) Videos, [Algo Everyday](https://www.youtube.com/user/vivekanandkhyade/videos) Videos , [DSA 1](https://www.youtube.com/playlist?list=PLkGAai-LjzyO6ceCuzRP7uJUEFl5oDYrf) , [DSA 2](https://www.youtube.com/playlist?list=PLkGAai-LjzyNg7SsHWA7QzdRSYX1Kt39T) , [DS](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j) Tutorial
-
-* [DSA](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk) in JAVA :coffee: :coffee: :coffee:
-* [DS](https://www.youtube.com/playlist?list=PLJNHMXKkK6-iwEPDDt0mayHlNDqIpoS6M) in Java :coffee: :coffee: :coffee:
-* [DSA](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) in Java :coffee: :100: :100: :100: :100:
-* JAVA [Algorithms](https://www.youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT) :coffee: :coffee: :coffee:
-* [DSA](https://www.youtube.com/playlist?list=PLs8TmeZHJEeF2UMA8KCI6g0BMDrVUgB0r) :coffee: :coffee: :coffee:
-* Java [Algorithms](https://www.youtube.com/playlist?list=PLfi5oI2EMygMPYRQf-UD4BOWrU4UJ_-2I) :coffee: :coffee: :coffee:
+- [ ] Data Structure and Algorithm using Java :coffee: :coffee: :coffee:
+  - [ ] [DSA](https://www.youtube.com/playlist?list=PLpPXw4zFa0uKKhaSz87IowJnOTzh9tiBk) in JAVA 
+  - [ ] [DS](https://www.youtube.com/playlist?list=PLJNHMXKkK6-iwEPDDt0mayHlNDqIpoS6M) in Java 
+  - [ ] [DSA](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d) in Java  :100: :100: :100: :100:
+  - [ ] JAVA [Algorithms](https://www.youtube.com/playlist?list=PLGLfVvz_LVvReUrWr94U-ZMgjYTQ538nT) 
+  - [ ] [DSA](https://www.youtube.com/playlist?list=PLs8TmeZHJEeF2UMA8KCI6g0BMDrVUgB0r) 
+  - [ ] Java [Algorithms](https://www.youtube.com/playlist?list=PLfi5oI2EMygMPYRQf-UD4BOWrU4UJ_-2I) 
 
 ## [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :movie_camera:
 * [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
