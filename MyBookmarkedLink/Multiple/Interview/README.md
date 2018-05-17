@@ -69,10 +69,10 @@ Site to Practice |
 
 
 ## System Design 
-
-* :pushpin: :paperclip: [System Design Collection Repo](https://github.com/donnemartin/system-design-primer)
-* :pushpin: :paperclip: [System Design Interview Related Repo](https://github.com/checkcheckzz/system-design-interview)
-* :pushpin: :paperclip: [System Design Interview Related Repo](https://github.com/shashank88/system_design)
+- [ ] Github Repository :octocat: :octocat: :octocat:
+  - [ ] [System Design Collection Repo](https://github.com/donnemartin/system-design-primer) :octocat:
+  - [ ] [System Design Interview Related Repo](https://github.com/checkcheckzz/system-design-interview) :octocat:
+  - [ ] [System Design Interview Related Repo](https://github.com/shashank88/system_design) :octocat:
 
 * [Massive Tech Interview](http://massivetechinterview.blogspot.com/2015/06/algorithm-how-to-count-number-of.html):spades::hearts:
 
