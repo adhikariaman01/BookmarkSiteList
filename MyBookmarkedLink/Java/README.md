@@ -10,7 +10,7 @@
 - [ ] [How to do it in Java](https://howtodoinjava.com/)
 - [ ] [Java2s](http://www.java2s.com/)
 - [ ] [Java In Use](http://www.javainuse.com/java)
-* [Program Creek](https://www.programcreek.com/)
+- [ ] [Program Creek](https://www.programcreek.com/)
 * [Mk Yong](http://www.mkyong.com/tutorials/java-8-tutorials/) , [Journal Dev](https://www.journaldev.com/java-tutorial-java-ee-tutorials?utm_source=website&utm_medium=menubar&utm_campaign=Top-Menu-Bar),  Java Deep [Blog](https://javax0.wordpress.com/) , Java 9 tutorial [Blog](http://www.logicbig.com/tutorials/core-java-tutorial/) 
 - [ ] [Java Code Geeks](https://www.javacodegeeks.com/) , [DZone](https://dzone.com/), [Jaxenter](https://jaxenter.com/tag/java-2)
 * Developer Works : [IBM](https://www.ibm.com/developerworks/learn/java/) :+1::+1:
@@ -46,7 +46,7 @@
 
 
 ## Courses :
-* Course with Nice [Slides](http://www.cs.cmu.edu/~charlie/courses/15-214/2017-fall/index.html) : Objects, Design, and Concurrency
+- [ ] Course with Nice [Slides](http://www.cs.cmu.edu/~charlie/courses/15-214/2017-fall/index.html) : Objects, Design, and Concurrency
 
 ## Books : 
 - [ ] [OCA OCP Java SE 7 Programmer I & II](https://doc.lagout.org/programmation/Java/OCA_OCP%20Java%20SE%207%20Programmer%20I%20%26%20II%20Study%20Guide%20%28Exams%201Z0-803%20%26%201Z0-804%29%20%5BSierra%20%26%20Bates%202014-10-24%5D.pdf) Study Guide, Exams 1Z0-803 & 1Z0-804 - **Sierra K., Bates B.**
