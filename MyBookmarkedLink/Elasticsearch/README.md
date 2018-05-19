@@ -8,6 +8,7 @@
 - [ ] [ES request structure](http://javasampleapproach.com/elasticsearch/elasticsearch-request-structure-of-a-search-request)
 
 - [ ] ES by Example [Series](https://codeburst.io/elasticsearch-by-example-part-1-a4a38cd97f55)
+- [ ] ElasticSearch [Tutorial](https://www.wikitechy.com/tutorials/elasticsearch/)
 
 ## Presentation 
 - [ ] [ES in ~4hrs](https://speakerdeck.com/felipead/elasticsearch-workshop)
