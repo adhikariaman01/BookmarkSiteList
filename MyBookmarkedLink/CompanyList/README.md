@@ -2,3 +2,5 @@
 
 
 
+- [ ] [StackShare](https://stackshare.io/news) 
+- [ ] [Google Job Search Page](https://www.google.com/search?q=top+5+software+jobs&oq=top+5+software+jobs&aqs=chrome..69i57j35i39j69i60j35i39j0j69i60.7903j0j7&sourceid=chrome&ie=UTF-8&safe=strict&ibp=htl;jobs&sa=X&ved=0ahUKEwjT6PjMyf_WAhUk64MKHXKsBlcQiYsCCEkoAQ#fpstate=tldetail&htidocid=5tBA3PbQ_HiJLj7jAAAAAA%3D%3D&htivrt=jobs)
