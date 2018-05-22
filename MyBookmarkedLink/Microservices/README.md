@@ -7,6 +7,8 @@
 
 - [ ] [Micro-Commerce](https://github.com/idugalic/micro-ecommerce)
 
+- [ ] Microservices with Spring Boot - [Dzone Blog by Samarpit (Example Based)](https://dzone.com/articles/spring-boot-microservices-building-microservices-a)
+
 + SERIES
     - [ ] Microservices in Spring Boot : [Series](http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started)
     - [ ] Microservices with [Spring Boot](https://dzone.com/articles/microservices-with-spring-boot-part-1-getting-star)
