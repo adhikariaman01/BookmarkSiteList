@@ -59,4 +59,5 @@
 - [ ] [OCA Java SE 8  Programmer I](http://aad.tpu.ru/1955/Java%20books/OCA%20Java%20SE%208%20Programmer%20I%20Certification%20Guide.pdf)
 - [ ] [Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809 A Comprehensive OCPJP 8 Certification Guide](http://pdf.th7.cn/down/files/1603/Oracle%20Certified%20Professional%20Java%20SE%208%20Programmer%20Exam%201Z0-809.pdf)
 - [ ] Java [Cookbook](http://pdf.th7.cn/down/files/1411/Java%20Cookbook,%203rd%20Edition.pdf) :hamburger:
+- [ ] Java Algorithms in [Nutshell](https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Algorithms%20in%20a%20Nutshell_%20A%20Desktop%20Quick%20Reference%20%282nd%20ed.%29%20%5BHeineman%2C%20Pollice%20%26%20Selkow%202015-11-25%5D%20%28preview%29.pdf)
 ## Most Upvotes Stackoverflow [Questions](https://stackoverflow.com/questions/tagged/java?sort=votes) :+1:
