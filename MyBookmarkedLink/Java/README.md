@@ -58,5 +58,5 @@
 - [ ] [Advance Java](http://enos.itcollege.ee/~jpoial/allalaadimised/reading/Advanced-java.pdf) - Java Code Geek Ebook
 - [ ] [OCA Java SE 8  Programmer I](http://aad.tpu.ru/1955/Java%20books/OCA%20Java%20SE%208%20Programmer%20I%20Certification%20Guide.pdf)
 - [ ] [Oracle Certified Professional Java SE 8 Programmer Exam 1Z0-809 A Comprehensive OCPJP 8 Certification Guide](http://pdf.th7.cn/down/files/1603/Oracle%20Certified%20Professional%20Java%20SE%208%20Programmer%20Exam%201Z0-809.pdf)
-
+- [ ] Java [Cookbook](http://pdf.th7.cn/down/files/1411/Java%20Cookbook,%203rd%20Edition.pdf) :hamburger:
 ## Most Upvotes Stackoverflow [Questions](https://stackoverflow.com/questions/tagged/java?sort=votes) :+1:
