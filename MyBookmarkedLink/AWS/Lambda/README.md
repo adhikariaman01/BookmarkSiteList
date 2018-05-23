@@ -1,5 +1,6 @@
 # AWS Lambda
 - [ ] Building Serverless on [AWS Lambda](https://dzone.com/articles/building-serverless-on-aws-lambda)
+- [ ] [Making Spring Boot Applications Run Serverless With AWS](https://dzone.com/articles/making-spring-boot-application-run-serverless-with)
 - [ ] Getting Started with [AWS Lambda and Java](https://www.unicon.net/about/blogs/getting-started-aws-lambda-and-java)
 - [ ] Serverless computing with AWS Lambda, [Part 1](https://www.javaworld.com/article/3210726/application-development/serverless-computing-with-aws-lambda.html) , [Part 2](https://www.javaworld.com/article/3248595/application-development/serverless-computing-with-aws-lambda-part-2-aws-lambda-with-dynamodb.html)
 - [ ] Serverless App with Spring MVC and AWS [Lambda](https://medium.com/@joeyvmason/developing-serverless-applications-with-spring-mvc-and-aws-lambda-151f0e7a2602)
