@@ -16,7 +16,7 @@
       - [ ] [UI Components](https://www.udacity.com/course/how-to-create-anything-in-android--ud802)
       - [ ] [UX Design](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849)
     - [x] **Intermediate**
-      - [ ] [App Development Ⅰ](https://www.udacity.com/course/developing-android-apps--ud853)
+      - [ ] [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
       - [ ]  [Material Design](https://www.udacity.com/course/material-design-for-android-developers--ud862)
       - [ ] [Sign-In & Profiles](https://www.udacity.com/course/add-google-sign-in-to-your-android-apps--ud876-5)
       - [ ] [Add Google Maps to your Android App](https://www.udacity.com/course/add-google-maps-to-your-android-app--ud876-4)
@@ -25,8 +25,9 @@
       - [ ] [Ads](https://www.udacity.com/course/monetize-your-android-app-with-ads--ud876-3)
       - [ ] [Game Design Ⅰ](https://www.udacity.com/course/2d-game-development-with-libgdx--ud405) 
       - [ ] [Game Design Ⅱ](https://www.udacity.com/course/how-to-make-a-platformer-using-libgdx--ud406)
+      - [ ] [Build a Native Mobile app with Flutter](https://www.udacity.com/course/build-native-mobile-apps-with-flutter--ud905)
     - [x] **Advance**
-      - [ ] [App Development Ⅱ](https://www.udacity.com/course/advanced-android-app-development--ud855)
+      - [ ] [Advanced Android App Development](https://www.udacity.com/course/advanced-android-app-development--ud855)
       - [ ] [Android Performance](https://www.udacity.com/course/android-performance--ud825)
       - [ ] [Firebase in a Weekend](https://www.udacity.com/course/firebase-essentials-for-android--ud009)
       - [ ] [Gradle](https://www.udacity.com/course/gradle-for-android-and-java--ud867)
