@@ -3,7 +3,9 @@
   - [ ] Google List of [courses](https://developers.google.com/training/android/)
   - [ ] :pushpin: [Stanford - Android App Dev 2017](https://www.youtube.com/watch?v=7GiyfL6MPg4&list=PLFWrSyVcq_seVuzD_xv28b6q2yiXvArfN&index=1) :green_book:[Syllabus](http://web.stanford.edu/class/cs193a/lectures.shtml)
   - [ ] Professional Android Development - [edX Series](https://www.edx.org/micromasters/galileox-professional-android-developer) - Galileo University
-  - [ ] Into to concurrent and Parallel programming in [Android](http://www.dre.vanderbilt.edu/~schmidt/cs891f/)
+  - [ ] **Vanderbilt University -  Dr. Douglas C. Schmidt ([Youtube](https://www.youtube.com/channel/UCt-Wvc_ojTzGLpjhruIXYSw/playlists) :movie_camera:)**
+    - [ ] Into to concurrent and Parallel programming in [Android](http://www.dre.vanderbilt.edu/~schmidt/cs891f/)
+    - [ ] [Coursera : Android App Development Specialization](https://www.coursera.org/specializations/android-app-development)
   - [ ] Udacity Course Curriculm :
     - [x] **Beginner**
       - [ ] [Android Basics: User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
