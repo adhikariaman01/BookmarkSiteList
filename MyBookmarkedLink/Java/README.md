@@ -13,9 +13,9 @@
 - [ ] [Program Creek](https://www.programcreek.com/)
 - [ ] [Mk Yong](http://www.mkyong.com/tutorials/java-8-tutorials/) , [Journal Dev](https://www.journaldev.com/java-tutorial-java-ee-tutorials?utm_source=website&utm_medium=menubar&utm_campaign=Top-Menu-Bar),  Java Deep [Blog](https://javax0.wordpress.com/) , Java 9 tutorial [Blog](http://www.logicbig.com/tutorials/core-java-tutorial/) 
 - [ ] [Java Code Geeks](https://www.javacodegeeks.com/) , [DZone](https://dzone.com/), [Jaxenter](https://jaxenter.com/tag/java-2)
-* Developer Works : [IBM](https://www.ibm.com/developerworks/learn/java/) :+1::+1:
+- [ ]  Developer Works : [IBM](https://www.ibm.com/developerworks/learn/java/) :+1::+1:
 
-* Java 8 Idioms Series : [IBM Dev Work](https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=Java%20technology&sort_by=Date&sort_order=1&start=1&end=11&topic_by=-1&product_by=&type_by=All%20Types&show_abstract=false&search_by=Java%208%20idioms&industry_by=-1&series_title_by=) by [Venket S](http://blog.agiledeveloper.com/)
+- [ ]  Java 8 Idioms Series : [IBM Dev Work](https://www.ibm.com/developerworks/views/global/libraryview.jsp?site_id=1&contentarea_by=Java%20technology&sort_by=Date&sort_order=1&start=1&end=11&topic_by=-1&product_by=&type_by=All%20Types&show_abstract=false&search_by=Java%208%20idioms&industry_by=-1&series_title_by=) by [Venket S](http://blog.agiledeveloper.com/)
 
 * [Java Concept of the Day](http://javaconceptoftheday.com/jdk-installation/)
 - [ ] [Java Tips](https://www.javatips.net/):coffee::coffee:
