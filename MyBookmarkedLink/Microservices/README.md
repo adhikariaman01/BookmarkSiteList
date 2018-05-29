@@ -5,7 +5,7 @@
 - [ ] [Microservice with Spring Boot - by DineshOnJava](https://www.dineshonjava.com/microservices-with-spring-boot/) :statue_of_liberty:
 - [ ] Spring Cloud [QuickStart](https://medium.com/oril/spring-cloud-quick-start-227b766de4ee)
 - [ ] [Micro-Commerce](https://github.com/idugalic/micro-ecommerce)
-
+- [ ] [Microservices Tutorial - Spring Cloud (by HowToDoitInJava)](https://howtodoinjava.com/microservices/microservices-definition-principles-benefits/)
 
 - [ ] Microservices with Spring Boot - [Dzone Blog by Samarpit (Example Based)](https://dzone.com/articles/spring-boot-microservices-building-microservices-a)
 
