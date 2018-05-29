@@ -7,7 +7,7 @@
 - [ ] [Java Revisited](http://javarevisited.blogspot.in/)
 - [ ] [Java 67](http://www.java67.com/)
 
-- [ ] [How to do it in Java](https://howtodoinjava.com/)
+- [ ] [How to do it in Java (Includes Java 8)](https://howtodoinjava.com/)
 - [ ] [Java2s](http://www.java2s.com/)
 - [ ] [Java In Use](http://www.javainuse.com/java)
 - [ ] [Program Creek](https://www.programcreek.com/)
