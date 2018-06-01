@@ -27,7 +27,7 @@
 - [ ] [Baeldung Java8](http://www.baeldung.com/java8)
 
 ## Videos :
-* [Ram N](https://ramj2ee.blogspot.in/2015/05/java-tutorial.html) Videos :movie_camera:
+- [ ] [Ram N](https://ramj2ee.blogspot.in/2015/05/java-tutorial.html) Videos :movie_camera:
 - [ ] :round_pushpin: Competitive Programming in [Java](https://www.youtube.com/playlist?list=PLMCXHnjXnTnsWU7jYp9XCKPW8ayl6D8fb) :round_pushpin:
 
 ## Interview Questions :
