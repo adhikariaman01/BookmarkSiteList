@@ -14,12 +14,7 @@
 + [Spring Batch](#)
   - [ ] Spring Batch tutorial : [JavacodeGeeks](https://www.javacodegeeks.com/2015/03/spring-batch-tutorial.html)
 
-+ [Spring Integration](#)
-  - [ ] Reference in [HTML](https://docs.spring.io/spring-integration/reference/html/)
-  - [ ] Spring Integration tutorial blogs post by [Java Article](http://www.javarticles.com/category/spring-integration)
-  - [ ] Spring Integration [JavaCodeGeeks Series](https://www.javacodegeeks.com/2015/09/spring-integration-course-summary.html)
-  - [ ] Spring Integration blog by [JavaWorld](https://www.javaworld.com/article/2142107/spring-framework/open-source-java-projects-spring-integration.html)
-  - [ ]
+- [ ] [Spring Integration](https://github.com/adhikariaman01/BookmarkSiteList/blob/master/MyBookmarkedLink/Spring/SpringIntegration.md    
 
 + Video :movie_camera: :
   - [ ] [Spring](https://www.youtube.com/watch?v=x74xoMjfOjs) 5 MVC + Hibernate 5
