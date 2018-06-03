@@ -22,7 +22,7 @@
 - [ ] [Java Tips](https://www.javatips.net/):coffee::coffee:
 
 
-* Advanced [Java](https://www.javacodegeeks.com/2015/09/advanced-java.html) Topics Explanation : JavaCodeGeeks
+- [ ] Advanced [Java](https://www.javacodegeeks.com/2015/09/advanced-java.html) Topics Explanation : JavaCodeGeeks
 - [ ] Java 8 - [Tutorial Point](https://www.tutorialspoint.com/java8/index.htm)
 - [ ] [Baeldung Java8](http://www.baeldung.com/java8)
 
