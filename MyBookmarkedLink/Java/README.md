@@ -39,7 +39,7 @@
 - [ ] [Baeldung Generic Interview Question](http://www.baeldung.com/java-generics-interview-questions)
 - [ ] [Java2Blog](https://java2blog.com/core-java-interview-questions-and-answers/) Interview Problems and [core java tutorial](https://java2blog.com/core-java-tutorial-for-beginners-experienced/) :+1:
 - [ ] [GlassDoor](https://www.glassdoor.com/Interview/java-interview-questions-SRCH_KT0,4_SDMC.htm)
-* Java [Interview](https://www.youtube.com/playlist?list=PLfi5oI2EMygPcKLx8d_8Jll9eauAhPj2B)
+- [ ] Java [Interview](https://www.youtube.com/playlist?list=PLfi5oI2EMygPcKLx8d_8Jll9eauAhPj2B)
 * Java Interview - [Durasoft](https://www.youtube.com/playlist?list=PLd3UqWTnYXOkc_1jk0BC4JPiBypt_eT-K)
 * Java Interview [Questions](https://www.youtube.com/playlist?list=PLF9tovyahfL020hGgLIsRMZY4bfSLCFUa)
 * Java Interview Qn - [Naveen](https://www.youtube.com/playlist?list=PLFGoYjJG_fqr84PKCp88iPkQDWJSfzaqz)
