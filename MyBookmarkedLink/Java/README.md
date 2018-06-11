@@ -35,7 +35,7 @@
 - [ ] Cracking Java Interview Questions - [blog](http://crackingjavainterviews.blogspot.com/)
 - [ ] Java Interview Question in [Udemy](https://blog.udemy.com/java-interview-questions/) blog
 * Codementor Java Interview [Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23)
-* Interview Q/A [site](http://www.javainterview.in/p/core-java-interview-question-are.html), [Q/A](http://codepumpkin.com/category/interview-questions/core-java-interview-questions/) blog , [Q/A](https://gigster.com/java-interview-questions) blog2
+- [ ] Interview Q/A [site](http://www.javainterview.in/p/core-java-interview-question-are.html), [Q/A](http://codepumpkin.com/category/interview-questions/core-java-interview-questions/) blog , [Q/A](https://gigster.com/java-interview-questions) blog2
 - [ ] [Baeldung Generic Interview Question](http://www.baeldung.com/java-generics-interview-questions)
 - [ ] [Java2Blog](https://java2blog.com/core-java-interview-questions-and-answers/) Interview Problems and [core java tutorial](https://java2blog.com/core-java-tutorial-for-beginners-experienced/) :+1:
 - [ ] [GlassDoor](https://www.glassdoor.com/Interview/java-interview-questions-SRCH_KT0,4_SDMC.htm)
