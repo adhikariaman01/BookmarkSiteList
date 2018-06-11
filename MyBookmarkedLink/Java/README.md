@@ -42,7 +42,7 @@
 - [ ] Java [Interview](https://www.youtube.com/playlist?list=PLfi5oI2EMygPcKLx8d_8Jll9eauAhPj2B)
 - [ ] Java Interview - [Durasoft](https://www.youtube.com/playlist?list=PLd3UqWTnYXOkc_1jk0BC4JPiBypt_eT-K)
 - [ ] Java Interview [Questions](https://www.youtube.com/playlist?list=PLF9tovyahfL020hGgLIsRMZY4bfSLCFUa)
-* Java Interview Qn - [Naveen](https://www.youtube.com/playlist?list=PLFGoYjJG_fqr84PKCp88iPkQDWJSfzaqz)
+- [ ] Java Interview Qn - [Naveen](https://www.youtube.com/playlist?list=PLFGoYjJG_fqr84PKCp88iPkQDWJSfzaqz)
 
 
 
