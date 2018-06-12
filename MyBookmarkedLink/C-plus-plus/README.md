@@ -12,7 +12,7 @@
     - [ ] [Introduction to C++](https://www.edx.org/es/course/introduction-to-c-plus-plus)
     - [ ] [Intermediate C++](https://www.edx.org/es/course/intermediate-c)
     - [ ] [Advanced C++](https://www.edx.org/es/course/advanced-c)
-  - [ ] [OOP using C++](https://www.edx.org/es/course/object-oriented-programming)
+  - [ ] [OOP using C++](https://www.edx.org/es/course/object-oriented-programming) by IIT
 
 # Tutorials :  
 
