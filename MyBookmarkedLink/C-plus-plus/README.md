@@ -7,6 +7,12 @@
 * [CS106L - Hardcore C++](http://web.stanford.edu/class/cs106l/) AND [OLD Labs Archieve](http://www.keithschwarz.com/cs106l/)
 
 * [Coursera C++ Course](https://www.coursera.org/learn/c-plus-plus-a) 
+- [ ] Edex Courses :
+  - [ ] By Microsoft
+    - [ ] [Introduction to C++](https://www.edx.org/es/course/introduction-to-c-plus-plus)
+    - [ ] [Intermediate C++](https://www.edx.org/es/course/intermediate-c)
+    - [ ] [Advanced C++](https://www.edx.org/es/course/advanced-c)
+  - [ ] [OOP using C++](https://www.edx.org/es/course/object-oriented-programming)
 
 # Tutorials :  
 
