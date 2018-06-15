@@ -3,7 +3,8 @@
 - [ ] Udacity Tech Interview [Course](https://www.udacity.com/course/technical-interview--ud513) - by PRAMP also more course on [Interview Prep and Resume writing](https://www.udacity.com/courses/career)
 - [ ] [DSA revision for Interview](http://www.columbia.edu/~jxz2101/) :books: :books: :book: 
 - [ ] Software Engineer Interview Questions [Gitbook](https://orrsella.gitbooks.io/soft-eng-interview-prep/content/) based on this nice [BLOG](https://orrsella.com/2016/05/14/preparing-for-a-facebook-google-software-engineer-interview/)
-- [ ] [Google Interview Prep](http://blog.gainlo.co/index.php/category/google-interview-preparation/):blue_heart::heart::yellow_heart::blue_heart::green_heart::heart:
+- [ ] [Google Interview Questions - Glassdoor](https://www.glassdoor.com/Interview/Google-Interview-Questions-E9079.htm):blue_heart::heart::yellow_heart::blue_heart::green_heart::heart:
+- [ ] [Google Interview Prep](http://blog.gainlo.co/index.php/category/google-interview-preparation/)
 - [ ] Tech Interview Prep [List](https://hackmd.io/s/SJIV-n7B)
 - [ ] 5 Essential [Phone Interview](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) Questions
 
