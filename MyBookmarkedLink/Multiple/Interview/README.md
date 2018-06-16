@@ -49,7 +49,7 @@
   - [ ] Java [Algorithms](https://www.youtube.com/playlist?list=PLfi5oI2EMygMPYRQf-UD4BOWrU4UJ_-2I) 
 
 ## [Problem Solving Screencast](https://www.youtube.com/user/petrmitrichev/videos) :movie_camera:
-* [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
+- [ ] [Problem Solving Screencast](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ)
 * [Problem Solving Screencast](https://www.youtube.com/user/Endagorion/videos)
 * [Problem Solving Videos](https://www.youtube.com/channel/UC5sUXTFSRkZSCcGGxE7LQDQ/videos)
 
