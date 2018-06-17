@@ -112,7 +112,7 @@
 
 
 - [ ] Epic [Interview](http://katemats.com/interview-questions/) Question on multiple topics
-
+- [ ] [Designing data-intensive applications - Book](https://github.com/bjut-hz/E-Books/blob/master/distributed%20system/Martin%20Kleppmann-Designing%20Data-Intensive%20Applications_%20The%20Big%20Ideas%20Behind%20Reliable%2C%20Scalable%2C%20and%20Maintainable%20Systems-O%E2%80%99Reilly%20Media%20(2017).pdf)
 --- 
 
 ## Interview prep link on Various topics
