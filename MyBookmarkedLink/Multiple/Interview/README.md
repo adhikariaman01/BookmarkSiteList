@@ -88,6 +88,7 @@
 * [Interview Bit](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
 
 * [Gainloo Blogs](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
+- [ ] [HighScalability List](http://highscalability.com/all-time-favorites/) :+1:
 
 - [ ] Leet Code Solutions :
   - [ ] Leetcode Solution/Explanation [Learn4Master](http://www.learn4master.com/data-structures/hashtable/leetcode-lru-cache-solution-in-java)
