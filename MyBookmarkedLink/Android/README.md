@@ -38,12 +38,14 @@
       - [ ] [Android Wear](https://www.udacity.com/course/android-wear-development--ud875A)
       - [ ] [Android Auto](https://www.udacity.com/course/android-auto-development--ud875C) 
     
+- [ ] [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/) :gem: :beginner:
+
 + Tutorial :
   - [ ] Android Dev tutorial using Android N - [Java2Blog](https://java2blog.com/android-development-tutorial-install-android-studio-sdk/)
   - [ ] Android Development Tutorial - [Vogella](http://www.vogella.com/tutorials/android.html)
 
 + Article
-  - [ ] Learning Android App Dev in 2018 - [MEDIUM](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205)
+  - [ ] Learning Android App Dev in 2018 - [MEDIUM](https://android.jlelse.eu/learning-android-development-in-2018-part-1-83a514f6a205) :orange_book::ledger::green_book::blue_book:
 
 
 + Youtube
