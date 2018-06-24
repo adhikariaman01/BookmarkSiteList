@@ -24,9 +24,10 @@
 - [ ] [Algorithms Notes](http://jeffe.cs.illinois.edu/teaching/algorithms/all-algorithms.pdf) by - Jeff Erickson
 - [ ] [Algorithms Notes for Professional](https://www.google.com/search?q=Algorithms+Notes+For+Professionals+pdf&spell=1&sa=X&ved=0ahUKEwib7tuen53aAhVHslMKHdfAAcQQBQgmKAA&biw=1438&bih=759&dpr=2)
 - [ ] Data Structures Problem Solving using - [Java](https://cscnt.savannahstate.edu/StudentFiles/Data_Structure/Data-Structures-Problem-Solving-Using-Java.pdf):coffee: with [SOLUTIONS](http://www.cse.chalmers.se/~holmer/Kurser/LET3750105/weiss_answers.pdf)
-- [ ] Princeton Algorithms [book](http://www.albertstam.com/Algorithms.pdf)
+- [ ] **Princeton Algorithms** [book](http://www.albertstam.com/Algorithms.pdf)
 - [ ] Algorithms Unlocked [PDF](http://www.dahlan.web.id/files/ebooks/2013%20Algorithms_Unlocked.pdf)
-- [ ] Hackers Delight [PDF](https://github.com/lancetw/ebook-1/blob/master/02_algorithm/Hacker's%20Delight%202nd%20Edition.pdf)
+- [ ] Algorithm Design Manual [PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf)
+- [ ] **Hackers Delight** [PDF](https://github.com/lancetw/ebook-1/blob/master/02_algorithm/Hacker's%20Delight%202nd%20Edition.pdf)
 - [ ] [Data Structure Practice for Collegiate Programming Contests and Education](https://doc.lagout.org/Others/Data%20Structures/Data%20Structure%20Practice_%20for%20Collegiate%20Programming%20Contests%20and%20Education%20%5BWu%20%26%20Wang%202016-02-04%5D.pdf)  :red_circle: :large_blue_circle: :leo: :large_blue_circle: :libra: :red_circle:
 - [ ] Competitive Programmers Handbook [PDF](https://cses.fi/book.pdf)
 - [ ] Competitive Programmers Handbook 3 [PDF](https://drive.google.com/file/d/0B7RBrJBsud5YMEJZVUVmYUNGSzA/view)
