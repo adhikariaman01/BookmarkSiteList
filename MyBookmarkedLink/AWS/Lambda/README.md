@@ -10,7 +10,7 @@
 - [ ] Tutorial: How to use [AWS Lambda](https://examples.javacodegeeks.com/software-development/amazon-aws/tutorial-use-aws-lambda-s3-real-time-data-processing/) with S3 for real-time data processing
 - [ ] AWS Lambda with Serverless Framework and Java/Maven - [Part 1](https://lobster1234.github.io/2017/02/28/serverless-framework-java-maven-part-1/) , [Part 2](https://lobster1234.github.io/2017/04/12/serverless-framework-aws-apigateway/) , [Part 3](https://lobster1234.github.io/2017/04/15/serverless-framework-api-gateway-lambda-proxy/)
 - [ ] Fearless [AWS Lambda](https://www.infoq.com/presentations/jvm-aws-lambda) - More on [InfoQ](https://www.infoq.com/aws-lambda)
-
+- [ ] **Create AWS Lambda Funvtion in Java** by [HowToDoItINJava](https://howtodoinjava.com/aws/create-deploy-aws-lambda-function/)
 
 + Videos :
   - [ ] [AWS](https://www.youtube.com/playlist?list=PL2E934wazTBgxfwF_bFIPercCCqjz24fm) & Java
