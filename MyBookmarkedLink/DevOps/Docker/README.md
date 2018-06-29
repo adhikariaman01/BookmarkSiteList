@@ -1,5 +1,5 @@
 # Docker :whale: 
-* [Docker Doc](https://docs.docker.com/engine/tutorials/networkingcontainers/#add-containers-to-a-network)
+- [ ] [Docker Doc](https://docs.docker.com/engine/tutorials/networkingcontainers/#add-containers-to-a-network)
 * [Play with Docker Classroom](http://training.play-with-docker.com/)
 
 * [Docker Labs](https://github.com/docker/labs) :whale: 
