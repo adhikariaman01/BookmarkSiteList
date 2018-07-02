@@ -83,7 +83,7 @@
 
 - [ ] [Massive Tech Interview](http://massivetechinterview.blogspot.com/2015/06/algorithm-how-to-count-number-of.html):spades::hearts:
 
-* [How to Ace Sys Design Interview](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
+- [ ] [How to Ace Sys Design Interview](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
 
 * [Interview Bit](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
 
