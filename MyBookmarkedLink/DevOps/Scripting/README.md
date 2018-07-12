@@ -1,7 +1,7 @@
 # Scripting
 
 # Course : :mortar_board:
-* Unix Workbench : [Coursera](https://www.coursera.org/learn/unix?siteID=SAyYsTvLiGQ-1vpZtGlEBg2teyFZN.6knw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
+- [ ] Unix Workbench : [Coursera](https://www.coursera.org/learn/unix?siteID=SAyYsTvLiGQ-1vpZtGlEBg2teyFZN.6knw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=SAyYsTvLiGQ)
 
 # Tutorial : :ledger: :ledger:
 
