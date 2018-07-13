@@ -1,10 +1,10 @@
 # Bookmarked Link for DevOps
 
 # Course : :mortar_board:
-* Intro to DevOps [Udacity](https://www.class-central.com/mooc/4013/udacity-intro-to-devops)
+- [ ] Intro to DevOps [Udacity](https://www.class-central.com/mooc/4013/udacity-intro-to-devops)
 
 # Devops Stacks & Tools:
-* Scripting
+ Scripting
 
 
 # Curated List for DevOps
