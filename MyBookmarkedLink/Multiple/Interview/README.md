@@ -53,7 +53,7 @@
 - [ ] [Problem Solving Screencast](https://www.youtube.com/user/Endagorion/videos)
 - [ ] [Problem Solving Videos](https://www.youtube.com/channel/UC5sUXTFSRkZSCcGGxE7LQDQ/videos)
 
-* [Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0):bulb: :trophy:
+- [ ] [Think Like a Programmer](https://www.youtube.com/playlist?list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0):bulb: :trophy:
 
 ### :thought_balloon: My Bookmarked List : :thought_balloon:
 
