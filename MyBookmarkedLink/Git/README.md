@@ -15,5 +15,5 @@
 
 * [10 Tips to Push your Git skills to Next level](https://www.sitepoint.com/10-tips-git-next-level/)
 * [Git Tutorial -  HackerIO](https://hackr.io/tutorials/learn-git)
-* [The Advanced Git Guide: Git Stash, Reset, Rebase, and More](https://www.toptal.com/git/the-advanced-git-guide)
+- [ ] [The Advanced Git Guide: Git Stash, Reset, Rebase, and More](https://www.toptal.com/git/the-advanced-git-guide)
 
