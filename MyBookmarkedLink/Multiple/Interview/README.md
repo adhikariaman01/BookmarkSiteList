@@ -104,7 +104,7 @@
   - [ ] [Contest](https://code.google.com/codejam/contests.html)
   - [ ] [Dashboard](https://code.google.com/codejam/contest/7234486/dashboard)
 
-* [How to do in Java](http://howtodoinjava.com/java-best-practices/)
+- [ ] [How to do in Java](http://howtodoinjava.com/java-best-practices/)
 
 - [ ] Quora Q/A on various topics :speech_balloon:
   - [ ] [Frequently asked IQ for Java Engineer](https://www.quora.com/Which-are-the-frequently-asked-interview-questions-for-Java-Engineers)
