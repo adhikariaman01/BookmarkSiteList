@@ -12,4 +12,4 @@
 - [ ] [Docker Training](https://www.youtube.com/playlist?list=PLea0WJq13cnDsF4MrbNaw3b4jI0GT9yKt)
  
  ---
- * [Docker & Serverless Most Read Stories — DevOpsLinks](https://hackernoon.com/docker-serverless-most-read-stories-devopslinks-15f9bb808ad2)
+ - [ ] [Docker & Serverless Most Read Stories — DevOpsLinks](https://hackernoon.com/docker-serverless-most-read-stories-devopslinks-15f9bb808ad2)
