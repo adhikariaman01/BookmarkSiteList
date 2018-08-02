@@ -1,7 +1,7 @@
 # My Bookmarked List on C++
 
 ## Course : :mortar_board:
-* [Stanford 106(B) -  C++](https://www.youtube.com/watch?v=kMzH3tfP6f8&index=1&list=PLFE6E58F856038C69)
+- [ ] [Stanford 106(B) -  C++](https://www.youtube.com/watch?v=kMzH3tfP6f8&index=1&list=PLFE6E58F856038C69)
 * [Stanford 106(B) -  C++ Continue](https://www.youtube.com/watch?v=NcZ2cu7gc-A&index=1&list=PLnfg8b9vdpLn9exZweTJx44CII1bYczuk)
 * [Main Page : Stanford CS106X - Using C++](https://stanford.edu/class/cs106x/lectures.shtml)
 * [CS106L - Hardcore C++](http://web.stanford.edu/class/cs106l/) AND [OLD Labs Archieve](http://www.keithschwarz.com/cs106l/)
