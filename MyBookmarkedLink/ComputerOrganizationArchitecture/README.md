@@ -2,7 +2,7 @@
 
 ## Course 
 - [ ] Computer Architecture - [Princeton](https://www.coursera.org/learn/comparch) - Coursera
-* Coursera [course](https://www.coursera.org/learn/build-a-computer/) that explains Logic, Memory, Architecture
+- [ ] Coursera [course](https://www.coursera.org/learn/build-a-computer/) that explains Logic, Memory, Architecture
 * Much more on [Class Central](https://www.class-central.com/search?q=computer+organization+architecture) List
 
 ## Tutorial
