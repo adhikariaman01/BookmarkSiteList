@@ -7,6 +7,6 @@
 
 - [ ] [Groovy Curated - List](http://groovycalamari.com/issues/70)
 
----
+
 ## Video :
 - [ ] [Grails , Angular, Spring Security - VIDOEO](https://www.youtube.com/watch?v=BU-5z_Mljrg)
