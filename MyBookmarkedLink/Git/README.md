@@ -1,7 +1,7 @@
 # :gem: [AWESOME Git](https://github.com/dictcp/awesome-git)
 
 # Course
-* [Version Control with Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
+- [ ] [Version Control with Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
 
 # Book
 * [Pro Git Book 2nd Ed. - Online](https://git-scm.com/book/en/v2)
