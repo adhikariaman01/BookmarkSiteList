@@ -5,7 +5,7 @@
 
 # Tutorial : :ledger: :ledger:
 
-* Basic Unix [Note](http://www.cs.umd.edu/~iyoon/teaching/notes/basic_unix.html)
+- [ ] Basic Unix [Note](http://www.cs.umd.edu/~iyoon/teaching/notes/basic_unix.html)
 * Unix [Tutorial](https://www.cs.sfu.ca/~ggbaker/reference/unix/) for Beginners
 * Unix Command Reference [CheatSheet](https://files.fosswire.com/2007/08/fwunixref.pdf)
 * Unix Reference [Card](http://www.cs.umd.edu/~iyoon/teaching/notes/unix_refcard.pdf)
