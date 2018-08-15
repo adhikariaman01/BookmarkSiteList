@@ -14,3 +14,5 @@
     - [ ] [Deep Learning with Tensorflow](https://www.edx.org/course/deep-learning-with-tensorflow)
     - [ ] [Using GPUs to Scale and Speed-up Deep Learning](https://www.edx.org/course/using-gpus-to-scale-and-speed-up-deep-learning)
     - [ ] [Applied Deep Learning Capstone Project](https://www.edx.org/course/applied-deep-learning-capstone-project)
+
+- [ ] [Creative Applications of Deep Learning with TensorFlow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
