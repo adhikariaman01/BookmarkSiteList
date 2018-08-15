@@ -1,6 +1,6 @@
 # Blockchain
 # Article :
-* What is [blockchain](https://blockgeeks.com/guides/what-is-blockchain-technology/) technology ?
+- [ ] What is [blockchain](https://blockgeeks.com/guides/what-is-blockchain-technology/) technology ?
 
 # Course : :mortar_board:
 * Blockchain at [Berekley](https://blockchain.berkeley.edu/)
