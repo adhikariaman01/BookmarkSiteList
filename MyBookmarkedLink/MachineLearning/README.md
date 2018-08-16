@@ -23,9 +23,11 @@
 - [ ] [20 Lesson building ML system](https://www.kdnuggets.com/2015/12/xamat-20-lessons-building-machine-learning-systems.html)
 
 # Courses :
+- [ ] Coursera :
+  - [ ] [Machine Learning by Andrew Ng : Stanford](https://www.coursera.org/learn/machine-learning):mortar_board:   
 - [ ] [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps):mortar_board: 
-- [ ] [Andrew Ng - Coursera ML](https://www.coursera.org/learn/machine-learning):mortar_board: 
-
+- [ ] Edex :
+  - [ ] [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-3)
 - [ ] [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120):mortar_board: 
 - [ ] [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262):mortar_board: 
 
