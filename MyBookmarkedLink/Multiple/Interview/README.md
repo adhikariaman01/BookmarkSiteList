@@ -8,7 +8,6 @@
 - [ ] Tech Interview Prep [List](https://hackmd.io/s/SJIV-n7B)
 - [ ] 5 Essential [Phone Interview](https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions) Questions
 
----
 ## Problem Solving Links
 - [ ] **TopCoder**
   - [ ] [Tutorials](https://www.topcoder.com/community/data-science/data-science-tutorials/)
@@ -72,7 +71,7 @@
 [CodeChef](https://www.codechef.com/) |
 [CodeEval](https://www.codeeval.com/) |
 
---- 
+
 
 
 ## System Design 
