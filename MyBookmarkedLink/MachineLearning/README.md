@@ -12,7 +12,7 @@
 - [ ] [ML Nanodegree Repo](https://github.com/machinelearningnanodegree)
 
 - [ ] Medium [Tag](https://medium.com/tag/machine-learning) on Machine Learning
-
+- [ ] [Every Single course on ML over Internet](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0):+1::+1::+1::+1::+1::+1::+1::+1::+1:
 
 
 # My Bookmarks :
@@ -27,18 +27,17 @@
   - [ ] [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
   - [ ] [Machine Learning by Andrew Ng : Stanford](https://www.coursera.org/learn/machine-learning)  
   - [ ] [Machine Learning Specialization : UoW](https://www.coursera.org/specializations/machine-learning)
-  - [ ] [Advanced Machine Learning Specializationoursera.org/specializations/aml)
+  - [ ] [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
 - [ ] [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps)
 - [ ] Edex :
   - [ ] [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-3)
 - [ ] [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
 
-#   :computer:
+# Videos   :movie_camera:
 - [ ] [Andrew Ng - Stanford - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
 - [ ] [Understanding ML - University of Waterloo](https://www.youtube.com/watch?v=b5NlRg8SjZg&list=PLPW2keNyw-usgvmR7FTQ3ZRjfLs5jT4BO):mortar_board:
+- [ ] [ML](https://www.youtube.com/playlist?list=PLfi5oI2EMygMANrArGc8GYc8Lq_weJHQu) Explanation including mathematics
 
 # :heart::heart:[BEST Resource in ML](https://machinelearningmastery.com/start-here/):green_heart::green_heart:
 
-# Videos : 
-- [ ] [ML](https://www.youtube.com/playlist?list=PLfi5oI2EMygMANrArGc8GYc8Lq_weJHQu) Explanation including mathematics
