@@ -22,14 +22,17 @@
 - [ ] [Prod ML Infrastructure](https://machinelearningmastery.com/building-a-production-machine-learning-infrastructure/)
 - [ ] [20 Lesson building ML system](https://www.kdnuggets.com/2015/12/xamat-20-lessons-building-machine-learning-systems.html)
 
-# Courses :
+# Courses : :mortar_board: :mortar_board: 
 - [ ] Coursera :
-  - [ ] [Machine Learning by Andrew Ng : Stanford](https://www.coursera.org/learn/machine-learning):mortar_board:   
-- [ ] [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps):mortar_board: 
+  - [ ] [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
+  - [ ] [Machine Learning by Andrew Ng : Stanford](https://www.coursera.org/learn/machine-learning)  
+  - [ ] [Machine Learning Specialization : UoW](https://www.coursera.org/specializations/machine-learning)
+  - [ ] [Advanced Machine Learning Specializationoursera.org/specializations/aml)
+- [ ] [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps)
 - [ ] Edex :
   - [ ] [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-3)
-- [ ] [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120):mortar_board: 
-- [ ] [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262):mortar_board: 
+- [ ] [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+- [ ] [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
 
 #   :computer:
 - [ ] [Andrew Ng - Stanford - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
