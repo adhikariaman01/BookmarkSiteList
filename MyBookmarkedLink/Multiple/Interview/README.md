@@ -84,7 +84,7 @@
 
 - [ ] [How to Ace Sys Design Interview](https://www.palantir.com/how-to-ace-a-systems-design-interview/)
 
-* [Interview Bit](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
+- [ ] [Interview Bit](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
 
 * [Gainloo Blogs](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 - [ ] [HighScalability List](http://highscalability.com/all-time-favorites/) :+1:
