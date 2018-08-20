@@ -4,7 +4,7 @@
 - [ ] [Version Control with Git - Udacity](https://www.udacity.com/course/version-control-with-git--ud123)
 
 # Book
-* [Pro Git Book 2nd Ed. - Online](https://git-scm.com/book/en/v2)
+- [ ] [Pro Git Book 2nd Ed. - Online](https://git-scm.com/book/en/v2)
 
 # Tutorial
 * [Best Git Tutorials](https://gist.github.com/jaseemabid/1321592)
