@@ -7,7 +7,7 @@
 - [ ] [Pro Git Book 2nd Ed. - Online](https://git-scm.com/book/en/v2)
 
 # Tutorial
-* [Best Git Tutorials](https://gist.github.com/jaseemabid/1321592)
+- [ ] [Best Git Tutorials](https://gist.github.com/jaseemabid/1321592)
 * [Git from Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 
 * [Learn Git with Bitbucket Cloud](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
