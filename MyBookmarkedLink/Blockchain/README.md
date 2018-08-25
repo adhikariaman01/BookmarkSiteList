@@ -3,7 +3,7 @@
 - [ ] What is [blockchain](https://blockgeeks.com/guides/what-is-blockchain-technology/) technology ?
 
 # Course : :mortar_board:
-* Blockchain at [Berekley](https://blockchain.berkeley.edu/)
+- [ ] Blockchain at [Berekley](https://blockchain.berkeley.edu/)
 * Bitcoin Engineering : [Stanford](http://bitcoin.stanford.edu/)
 
 * Blockchain Essentials : [Course](https://cognitiveclass.ai/courses/blockchain-course/)
