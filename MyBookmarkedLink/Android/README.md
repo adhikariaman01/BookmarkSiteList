@@ -40,7 +40,7 @@
     
 - [ ] [Vocabulary Glossary](https://developers.google.com/android/for-all/vocab-words/) :gem: :beginner:
 
-+ Tutorial :
+- [ ] Tutorial :
   - [ ] Android Dev tutorial using Android N - [Java2Blog](https://java2blog.com/android-development-tutorial-install-android-studio-sdk/)
   - [ ] Android Development Tutorial - [Vogella](http://www.vogella.com/tutorials/android.html)
 
