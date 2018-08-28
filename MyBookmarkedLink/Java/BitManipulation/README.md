@@ -1,5 +1,5 @@
 # Bit Manipulation :
-
+- [ ] [Low Level Bit Hacks You Absolutely Must Know](http://www.catonmat.net/blog/low-level-bit-hacks-you-absolutely-must-know/)
 - [ ] Undersatnding [Bitwise](https://code.tutsplus.com/articles/understanding-bitwise-operators--active-11301) Operator
 - [ ] Bit Manipulation : [HackerEarth](https://www.hackerearth.com/practice/notes/bit-manipulation/)
 - [ ] Bit Manipulation in [Java](http://vojtechruzicka.com/bit-manipulation-java-bitwise-bit-shift-operations/)
