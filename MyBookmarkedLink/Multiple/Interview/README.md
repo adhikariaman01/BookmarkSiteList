@@ -34,7 +34,7 @@
 - [ ]  [System Design - WhatsApp, Twitter, Parkinglot videos](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 - [ ] [Geek for Geek Videos](https://www.youtube.com/watch?v=il_t1WVLNxk&list=PLqM7alHXFySGqCvcwfqqMrteqWukz9ZoE):hearts: 
 - [ ] [Programming Interview videos](https://www.youtube.com/user/mycodeschool/videos)
-* [Coding Interview Questions](https://www.youtube.com/playlist?list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj)
+- [ ] [Coding Interview Questions](https://www.youtube.com/playlist?list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj)
 * [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)  :wave:
 
 
