@@ -9,6 +9,7 @@
 	- [ ] Robert C Martin (Uncle BOB)
 		- [ ] [Clean Coder](https://github.com/NileshGule/Ebooks/blob/master/The%20Clean%20Coder%20A%20Code%20of%20Conduct%20for%20Professional%20Programmers.pdf)
 		- [ ] [Clean Code](https://github.com/NileshGule/Ebooks/blob/master/Clean%20Code%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship.pdf)
+		- [ ] Clean Architecture
 	
 - [x] **Object Oriented Analysis and Design**
 	- [ ] **Introduction to OOAD - [Medium Series](https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-introduction-part-1-a93b0ca69d36)**
