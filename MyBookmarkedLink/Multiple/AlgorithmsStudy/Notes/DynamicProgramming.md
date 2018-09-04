@@ -1,6 +1,8 @@
+- [ ] [DP Tutorial : Refdash](http://blog.refdash.com/dynamic-programming-tutorial-example/)
 - [ ] [Intro to Dynamic Programming](http://20bits.com/article/introduction-to-dynamic-programming)
 - [ ] [Intro to DP : Quora blog](An introduction to dynamic programming)
-- [ ] [Interview Bit : Dynamic Programming]
+- [ ] [Interview Bit : Dynamic Programming](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
+- [ ] [DP Problems : Techdelight](http://www.techiedelight.com/Category/dynamic-programming/)
 
 - [ ] [Dynamic Programming Practice Problems](https://people.cs.clemson.edu/~bcdean/dp_practice/)
 
@@ -14,5 +16,15 @@
   - [ ] [HackerRank](https://www.hackerrank.com/domains/fp/recursion)
   - [ ] [TopCoder Statistics - Problem Archive](http://community.topcoder.com/tc?cat=Recursion&class=&div1l=&div2l=&er=&maxd1s=&maxd2s=&mind1s=&mind2s=&module=ProblemArchive&sc=&sd=&sr=&wr=)
   - [ ] [Questions Tagged With recursion](http://discuss.codechef.com/tags/recursion/)
-  - [ ] [Codeforces]()
+  - [ ] Codeforces
 
+- [ ] Text Links - 
+  - [ ] [Algorithm Tutorials - TopCoder](http://www.topcoder.com/tc?d1=tutorials&d2=dynProg&module=Static)
+  - [ ] [Tutorial for Dynamic Programming - CodeChef](http://www.codechef.com/wiki/tutorial-dynamic-programming)
+  - [ ] [Dynamic Programming Archives - GeeksforGeeks](http://www.geeksforgeeks.org/tag/dynamic-programming/)
+  
+
+- [ ] You can practice Dynamic Programming here - 
+- [ ] [HackerRank](https://www.hackerrank.com/domains/algorithms/dynamic-programming)
+- [ ] [TopCoder Statistics - Problem Archive](http://community.topcoder.com/tc?cat=Dynamic+Programming&module=ProblemArchive)
+- [ ] [A2 Online Judge](http://www.ahmed-aly.com/Category.jsp?ID=33)
