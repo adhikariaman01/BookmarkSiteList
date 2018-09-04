@@ -1,6 +1,5 @@
 - [ ] [DP Tutorial : Refdash](http://blog.refdash.com/dynamic-programming-tutorial-example/)
 - [ ] [Intro to Dynamic Programming](http://20bits.com/article/introduction-to-dynamic-programming)
-- [ ] [Intro to DP : Quora blog](An introduction to dynamic programming)
 - [ ] [Interview Bit : Dynamic Programming](https://www.interviewbit.com/courses/programming/topics/dynamic-programming/)
 - [ ] [DP Problems : Techdelight](http://www.techiedelight.com/Category/dynamic-programming/)
 
