@@ -16,7 +16,7 @@
 - [ ] CS156: [The Calculus of Computation](http://web.stanford.edu/class/cs156/)
 - [ ] CS157 : [Intro to Logic](http://logic.stanford.edu/classes/cs157/current/)
 
-- [ ] CS161: [Design and Analysis of Algorithms](https://web.stanford.edu/class/cs161/)
+- [ ] CS161: [Design and Analysis of Algorithms](https://web.stanford.edu/class/cs161/) - [Supplement](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/)
 
 - [ ] CS166: [Data Structure](https://web.stanford.edu/class/cs166/)
 - [ ] CS 193A : [Android](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/Android) App Development
