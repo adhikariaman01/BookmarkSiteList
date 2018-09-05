@@ -31,6 +31,7 @@
 - [ ] :round_pushpin: Competitive Programming in [Java](https://www.youtube.com/playlist?list=PLMCXHnjXnTnsWU7jYp9XCKPW8ayl6D8fb) :round_pushpin:
 
 ## Interview Questions :
+- [ ] [Awesome Interview Questions-  Java](https://github.com/MaximAbramchuck/awesome-interview-questions#java)
 - [ ] [Java Interview Questions](https://java-questions.com/)
 - [ ] Cracking Java Interview Questions - [blog](http://crackingjavainterviews.blogspot.com/)
 - [ ] Java Interview Question in [Udemy](https://blog.udemy.com/java-interview-questions/) blog
