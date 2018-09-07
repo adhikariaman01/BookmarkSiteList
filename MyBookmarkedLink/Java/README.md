@@ -55,7 +55,9 @@
 - [ ] OCP: Oracle Certified Professional Java SE 8 Programmer [**I**](https://bittlife.com/books/Jeanne%20Boyarsky,%20Scott%20Selikoff%20-%20Study%20Guide.pdf) & [**II** ](http://files.hii-tech.com/book/SCJP/OCP%20Oracle%20Certified%20Professional%20Java%20SE%208%20Programmer%20II%20Study%20Guide%20Exam%201Z0-809.pdf) Study Guide: Exam 1Z0-809 -  **Jeanne Boyarsky, Scott Selikoff**
 - [ ] PERFORMANCE [BOOKS](https://github.com/adhikariaman01/BookmarkSiteList/tree/master/MyBookmarkedLink/Java/Performance)
 - [ ] Java Generics : [pdf](https://pdfs.semanticscholar.org/2d4a/a0f63c26dee36310c6c1ce3fe1fe4b4551e9.pdf)
-- [ ] Head First [OOAD](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
+- [ ] Head First 
+  - [ ] [OOAD](https://github.com/MarkPThomas/HeadFirst-OOAD/blob/master/Head%20First%20Object-Oriented%20Analysis%20and%20Design.pdf)
+  - [ ] [Java](http://dslab.us/wp-content/uploads/book/pdf/java/HeadFisrt_JAVA.pdf)
 - [ ] Java Concurrency in Practice [PDF](http://www.periodicooficial.oaxaca.gob.mx/files/2011/05/EXT02-2011-05-19.pdf)
 - [ ] [Advance Java](http://enos.itcollege.ee/~jpoial/allalaadimised/reading/Advanced-java.pdf) - Java Code Geek Ebook
 - [ ] [OCA Java SE 8  Programmer I](http://aad.tpu.ru/1955/Java%20books/OCA%20Java%20SE%208%20Programmer%20I%20Certification%20Guide.pdf)
