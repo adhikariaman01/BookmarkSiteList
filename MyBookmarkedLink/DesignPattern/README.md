@@ -1,8 +1,8 @@
-+ Repo :octocat:
+- [ ] Repo :octocat:
 	- [ ] Java [Design Pattern](https://github.com/iluwatar/java-design-patterns) - List of entire Patterns with clear explanation. :hotsprings: :hotsprings: :chart_with_upwards_trend:
 	- [ ] Design Patterns for Human - [Examples](https://github.com/kamranahmedse/design-patterns-for-humans) in PHP
 
-+ Book :
+- [ ] Book :
 	- [ ] [Design Patterns Elements of Reusable Object-Oriented Software](http://www.javier8a.com/itc/bd1/articulo.pdf)
 	- [ ] Design Patterns [Examples](http://www.cs.uni.edu/~wallingf/teaching/062/sessions/support/pattern-examples.pdf)
 	- [ ] [Patterns of Enterprise Application Architecture](https://github.com/Donivr/Books/blob/master/Fowler%2C%20Martin/Patterns%20of%20Enterprise%20Application%20Architecture/Patterns%20of%20Enterprise%20Application%20Architecture%20-%20Martin%20Fowler.pdf) - Martin Fowler
