@@ -39,7 +39,7 @@
 - [ ] [Geek for Geek Videos](https://www.youtube.com/watch?v=il_t1WVLNxk&list=PLqM7alHXFySGqCvcwfqqMrteqWukz9ZoE):hearts: 
 - [ ] [Programming Interview videos](https://www.youtube.com/user/mycodeschool/videos)
 - [ ] [Coding Interview Questions](https://www.youtube.com/playlist?list=PLNmW52ef0uwsjnM06LweaYEZr-wjPKBnj)
-* [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)  :wave:
+- [ ] [Tushar Roy Videos - DSA](https://www.youtube.com/user/tusharroy2525)  :wave:
 
 
 * [Imtiaz Amhed](https://www.youtube.com/channel/UCu4mLxrAkMEcjK9N1yJOxyA/videos) Videos, [Algo Everyday](https://www.youtube.com/user/vivekanandkhyade/videos) Videos , [DSA 1](https://www.youtube.com/playlist?list=PLkGAai-LjzyO6ceCuzRP7uJUEFl5oDYrf) , [DSA 2](https://www.youtube.com/playlist?list=PLkGAai-LjzyNg7SsHWA7QzdRSYX1Kt39T) , [DS](https://www.youtube.com/playlist?list=PLVlQHNRLflP_OxF1QJoGBwH_TnZszHR_j) Tutorial
