@@ -70,6 +70,7 @@
 [Nice Site](http://n00tc0d3r.blogspot.com/) |
 [Code Forces](http://codeforces.com/) |
 [Fire Code](https://www.firecode.io/pages/home) |
+[ProgrammingPraxis](https://programmingpraxis.com/) |
 [Coderbyte](https://coderbyte.com/) |
 [Project Euler](https://projecteuler.net/) |
 [CodeChef](https://www.codechef.com/) |
