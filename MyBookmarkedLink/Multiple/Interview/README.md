@@ -117,7 +117,7 @@
 
 
 - [ ] Epic [Interview](http://katemats.com/interview-questions/) Question on multiple topics
-- [ ] [Designing data-intensive applications - Book]http://www.321cyb.com/Designing%20Data-Intensive%20Applications.pdf) :books::books:
+- [ ] [Designing data-intensive applications - Book](http://www.321cyb.com/Designing%20Data-Intensive%20Applications.pdf) :books::books:
 --- 
 
 ## Interview prep link on Various topics
