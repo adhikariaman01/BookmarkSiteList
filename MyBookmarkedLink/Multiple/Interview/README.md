@@ -25,7 +25,9 @@
 
 - [ ] 10 Algorithms for Coding Interview - [ProgramCreek](https://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 - [ ] Coding Interview Questions on various topics with soln - [byte-by-byte](https://www.byte-by-byte.com/coding-interview-questions/)
-- [ ] [Repositories of UVA Problems ](https://uva.onlinejudge.org/)  :hotsprings: :zap: :hotsprings:
+- [ ] UVA Online Judge :
+  - [ ] [Repositories of UVA Problems ](https://uva.onlinejudge.org/)  :hotsprings: :zap: :hotsprings:
+  - [ ] [UVA Judge Solution in C Programming](https://quickgrid.wordpress.com/category/online-judges/uva/)
 
 # VIDEOS :video_camera: :camera: :tv: 
 - [ ]  [Algorithm Design Manual - Steven Skiena](https://www.youtube.com/playlist?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b):bookmark: :book: 
