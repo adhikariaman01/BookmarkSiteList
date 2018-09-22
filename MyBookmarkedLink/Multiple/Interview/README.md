@@ -93,7 +93,7 @@
 
 - [ ] [Interview Bit](https://www.interviewbit.com/courses/system-design/topics/storage-scalability/)
 
-* [Gainloo Blogs](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
+- [ ] [Gainloo Blogs](http://blog.gainlo.co/index.php/category/system-design-interview-questions/)
 - [ ] [HighScalability List](http://highscalability.com/all-time-favorites/) :+1:
 
 - [ ] Leet Code Solutions :
