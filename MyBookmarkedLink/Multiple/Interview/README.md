@@ -104,7 +104,7 @@
 
 - [ ] [Sys Design for Big Data](http://n00tc0d3r.blogspot.com/2013/09/big-data-consistent-hashing.html)
 
-* [Gayle Laakmann McDowell Video](https://www.youtube.com/results?search_query=Gayle+Laakmann+McDowell)
+ - [ ] [Gayle Laakmann McDowell Video](https://www.youtube.com/results?search_query=Gayle+Laakmann+McDowell)
 
 - [ ] Google Codejam Pastpaper
   - [ ] [Contest](https://code.google.com/codejam/contests.html)
