@@ -32,6 +32,7 @@
 - [ ] :round_pushpin: Competitive Programming in [Java](https://www.youtube.com/playlist?list=PLMCXHnjXnTnsWU7jYp9XCKPW8ayl6D8fb) :round_pushpin:
 
 ## Interview Questions :
+- [ ] [130+ Java Interview Questions Answers for 2 to 7 Year Experienced Programmers](https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html)
 - [ ] [Awesome Interview Questions-  Java](https://github.com/MaximAbramchuck/awesome-interview-questions#java)
 - [ ] [Java Interview Questions](https://java-questions.com/)
 - [ ] Cracking Java Interview Questions - [blog](http://crackingjavainterviews.blogspot.com/)
