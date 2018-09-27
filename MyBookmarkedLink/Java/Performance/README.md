@@ -6,6 +6,7 @@
 
 # Videos :
 - [ ] [Understanding the Java Virtual Machine: Memory Management](https://www.pluralsight.com/courses/understanding-java-vm-memory-management?clickid=wy811OWFQ0iuVSKQIlygISZdUkgzVE0hxSph3M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2)
+- [ ] [Understanding and Solving Java Memory Problems](https://www.pluralsight.com/courses/java-understanding-solving-memory-problems?clickid=wy811OWFQ0iuVSKQIlygISZdUkgzVEVlxSph3M0&irgwc=1&mpid=1193463&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=1193463&aid=7010a000001xAKZAA2)
 
 # Book
 - [ ] Java Performance The Definitive Guide : [pdf](http://1.droppdf.com/files/iTkkV/oreilly-java-performance-the-definitive-guide-2014.pdf)
