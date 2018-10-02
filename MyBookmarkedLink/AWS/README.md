@@ -41,3 +41,27 @@
   - [ ] AWS [Webinars](https://www.youtube.com/user/AWSwebinars/playlists)
   - [ ] Devops related videos including [AWS](https://www.youtube.com/user/intellipaaat/playlists?shelf_id=0&sort=dd&view=1)
   - [ ] Edureka [AWS](https://www.youtube.com/playlist?list=PL9ooVrP1hQOFWxRJcGdCot7AgJu29SVV3) Playlist 
+  
+  - [ ] Pluralsight 
+    - [ ]  AWS Developer :- 
+      - [ ] [The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
+      - [ ] [Getting Started](https://www.pluralsight.com/courses/aws-developer-getting-started)
+      - [ ] [Designing and Developing](https://www.pluralsight.com/courses/aws-developer-designing-developing)
+      - [ ] [Deployment and Security](https://www.pluralsight.com/courses/aws-developer-deployment-security)
+     - [ ] [AWS Developer Fundamentals](https://www.pluralsight.com/courses/aws-course)
+     - [ ] [Architecting Highly Available Systems on AWS](https://www.pluralsight.com/courses/deploying-highly-available-distributed-systems-aws-part1)		
+     - [ ] [Optimizing and Managing Distributed Systems on AWS](https://www.pluralsight.com/courses/deploying-highly-available-distributed-systems-aws-part2)
+     - [ ] [Amazon Web Service Database in Depth](https://www.pluralsight.com/courses/amazon-web-services-databases-in-depth)
+
+     - [ ] [AWS Simple Systems Manager for EC2: Getting Started](https://www.pluralsight.com/courses/aws-ssm-ec2-getting-started)
+
+
+      - [ ] [AWS Developer - An Introduction to AWS Lambda](https://www.pluralsight.com/courses/aws-developer-introduction-aws-lambda)
+
+      - [ ] [AWS Certified Solutions Architect - Associate](https://www.pluralsight.com/courses/aws-certified-solutions-architect-associate)
+      - [ ] [AWS Certified Solutions Architect - Professional](https://www.pluralsight.com/courses/aws-certified-solutions-architect-professional)
+
+      - [ ] [AWS Certified SysOps Administrator - Associate](https://www.pluralsight.com/courses/aws-certified-sysops-admin-associate)
+      - [ ] [Amazon Web Services (AWS) Fundamentals for System Administrators](https://www.pluralsight.com/courses/aws-system-admin-fundamentals)
+
+      - [ ] [AWS Certified DEVOps Engineer : PATH](https://www.pluralsight.com/paths/aws-certified-devops-engineer) :fountain: :fountain:
