@@ -1,5 +1,4 @@
-# AWS
-
+# AWS [Developer Blog](https://aws.amazon.com/blogs/developer/)
   - [ ] [AWS Getting Started](https://aws.amazon.com/getting-started/tutorials/) :star: :star:
   - [ ] Free AWS Into [Training](https://www.aws.training/)
   - [ ] AWS [Whitepapers](https://aws.amazon.com/whitepapers/)
