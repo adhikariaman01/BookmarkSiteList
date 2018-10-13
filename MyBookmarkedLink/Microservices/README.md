@@ -21,3 +21,6 @@
 
 - [ ] Spring Cloud and [Microservices](https://www.youtube.com/playlist?list=PLfi5oI2EMygNs4ObCeRdZVIU9h67bJDmq) :movie_camera:
 - [ ] Spring Cloud [Series](http://tech.asimio.net/2016/12/09/Centralized-and-Versioned-Configuration-using-Spring-Cloud-Config-Server-and-Git.html) tutorial
+
+- [ ] Ebooks :
+    - [ ] [Microservices for Java developers](http://pepa.holla.cz/wp-content/uploads/2016/10/microservices-for-java-developers.pdf)
