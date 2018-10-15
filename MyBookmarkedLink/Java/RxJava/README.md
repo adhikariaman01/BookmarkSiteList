@@ -16,4 +16,4 @@
   - [ ] [Multithreading](https://praveer09.github.io/technology/2016/02/29/rxjava-part-3-multithreading/)
 
 ### Books :
-- [ ] [Reactive Programming in Java](https://ress.infoq.com/minibooks/emag-reactive-programming-java/en/pdf/The-InfoQ-eMag-Reactive-Programming-in-Java-final.pdf?Expires=1524234831&Signature=EiRocRJv55u5kPYJ9lfqVHPknwrnroVBSTaeqcW8-vpX6S~vTzrapLcyjG49yXLNg93EHcCwf50xGm4VAKm6~k1j5Pzrmt68P9nlojTO2EcufpDPMt1mhpyh5L559zyt7FwCiaZsISm7oSqKHTEYOPs-SkIs~QY8oZZlE9Ubev4_&Key-Pair-Id=APKAIMZVI7QH4C5YKH6Q)
+- [ ] [Reactive Programming in Java - InfoQ](https://ress.infoq.com/minibooks/emag-reactive-programming-java/en/pdf/The-InfoQ-eMag-Reactive-Programming-in-Java-final.pdf?Expires=1524234831&Signature=EiRocRJv55u5kPYJ9lfqVHPknwrnroVBSTaeqcW8-vpX6S~vTzrapLcyjG49yXLNg93EHcCwf50xGm4VAKm6~k1j5Pzrmt68P9nlojTO2EcufpDPMt1mhpyh5L559zyt7FwCiaZsISm7oSqKHTEYOPs-SkIs~QY8oZZlE9Ubev4_&Key-Pair-Id=APKAIMZVI7QH4C5YKH6Q)
