@@ -127,4 +127,4 @@
 - [ ] [StackOverflow Q/A : "Question every Java/EE dev must answer"](http://stackoverflow.com/questions/2114212/questions-every-good-java-java-ee-developer-should-be-able-to-answer)
 - [ ] [Codility Practice Questions](https://codility.com/programmers/lessons/1-iterations/)
 
-* [:angel: :sparkling_heart: Cracking Coding Interview Course- Hackerrank :two_hearts:  :purple_heart:](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
+- [ ] [:angel: :sparkling_heart: Cracking Coding Interview Course- Hackerrank :two_hearts:  :purple_heart:](https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview)
