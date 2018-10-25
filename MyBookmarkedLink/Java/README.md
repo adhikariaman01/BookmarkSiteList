@@ -5,9 +5,25 @@
 
 ## Sites to checkout Java and Problem Solving usig Java
 - [ ] [Java Practices](http://www.javapractices.com/home/HomeAction.do) :dart: :dart:
-- [ ] [Java Revisited](http://javarevisited.blogspot.in/)
-- [ ] [Java 67](http://www.java67.com/)
-
+- [ ] [Java Revisited](http://javarevisited.blogspot.in/) and [Java 67](http://www.java67.com/)
+  - [ ] [50 Programmer Phone Interview Questions](https://javarevisited.blogspot.com/2015/02/50-programmer-phone-interview-questions-answers.html)
+  - [ ] [Top Programming Interview Questions](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
+  - [ ] [Java IQA fresher](http://www.java67.com/2018/03/20-Java-Interview-Questions-Answers-freshers-1-2-3-YearsExperienced-Programmers.html)
+  - [ ] [Top Programming Interview Questions](https://javarevisited.blogspot.com/2011/06/top-programming-interview-questions.html)
+  - [ ] [10 Java coding interview Questions](http://www.java67.com/2012/08/10-java-coding-interview-questions-and.html)
+  - [ ] [Top 10 Tough Core Java Interview](http://www.java67.com/2012/09/top-10-tough-core-java-interview-questions-answers.html)
+  - [ ] [Top 20 Core Java Interview Quesitons](https://javarevisited.blogspot.com/2011/04/top-20-core-java-interview-questions.html)
+  - [ ] [133 Java Interview Questions](https://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html)
+  - [ ] [Top 30 OOP Concept Interview Questions Answers](http://www.java67.com/2015/12/top-30-oops-concept-interview-questions-answers-java.html)
+  - [ ] [Top 21 Java Inheritance Questions Answer](http://www.java67.com/2016/03/top-21-java-inheritance-interview-Questions-Answer-Programming.html)
+  - [ ] [Array COncept Interview Questions and Answers](http://www.java67.com/2015/07/array-concepts-interview-questions-answers-java.html)
+  - [ ] [15 Java Enum Interview Questions and Answers](http://www.java67.com/2013/07/15-java-enum-interview-questions-amswers-for-experienced-programmers.html)
+  - [ ] [20 Java ArrayList IQ](http://www.java67.com/2015/06/20-java-arraylist-interview-questions.html)
+  - [ ] [Top 10 Java Hasmap IQ](http://www.java67.com/2017/08/top-10-java-hashmap-interview-questions.html)
+  - [ ] [Top 10 Tricky Java Interview Questions](http://www.java67.com/2012/09/top-10-tricky-java-interview-questions-answers.html)
+  - [ ] [Java/JEE Support Engineer IQ](http://www.java67.com/2017/06/39-essential-java-jee-support-engineer-interview-questions-answers.html)
+  - [ ] [Coding Interview Questions](https://javarevisited.blogspot.com/search/label/Coding%20Interview%20Question?max-results=3)
+  - [ ] [5 thread IQ](http://www.java67.com/2012/08/5-thread-interview-questions-answers-in.html)
 - [ ] [How to do it in Java (Includes Java 8)](https://howtodoinjava.com/)
 - [ ] [Java2s](http://www.java2s.com/)
 - [ ] [Java In Use](http://www.javainuse.com/java)
@@ -39,7 +55,7 @@
 - [ ] Java Interview Question in [Udemy](https://blog.udemy.com/java-interview-questions/) blog
 - [ ] Codementor Java Interview [Questions](https://www.codementor.io/blog/java-interview-sample-questions-answers-du107xs23)
 - [ ] Interview Q/A [site](http://www.javainterview.in/p/core-java-interview-question-are.html), [Q/A](http://codepumpkin.com/category/interview-questions/core-java-interview-questions/) blog , [Q/A](https://gigster.com/java-interview-questions) blog2
-- [ ] [Baeldung Generic Interview Question](http://www.baeldung.com/java-generics-interview-questions)
+- [ ] [Baeldung Generic Interview Question](http://www.baeldung.com/java-generics-interview-questions) and [All other Interview Questions](https://www.baeldung.com/?s=interview)
 - [ ] [Java2Blog](https://java2blog.com/core-java-interview-questions-and-answers/) Interview Problems and [core java tutorial](https://java2blog.com/core-java-tutorial-for-beginners-experienced/) :+1:
 - [ ] [GlassDoor](https://www.glassdoor.com/Interview/java-interview-questions-SRCH_KT0,4_SDMC.htm)
 - [ ] Java [Interview](https://www.youtube.com/playlist?list=PLfi5oI2EMygPcKLx8d_8Jll9eauAhPj2B)
