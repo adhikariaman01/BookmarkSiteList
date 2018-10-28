@@ -15,7 +15,7 @@
 - [x] **Object Oriented Analysis and Design**
 	- [ ] **Introduction to OOAD - [Medium Series](https://medium.com/omarelgabrys-blog/object-oriented-analysis-and-design-introduction-part-1-a93b0ca69d36)**
 
-+ Tutorial Example 
+- [ ] Tutorial Example 
 	- [ ]  [Design Pattern Guru](https://refactoring.guru/design-patterns)
 	- [ ] Design Pattern Tutorial - [SourceMaking](https://sourcemaking.com/design_patterns)
 	- [ ] [JavaCodeGeek](https://www.javacodegeeks.com/2015/09/java-design-patterns.html) Design Pattern Tutorials - Also in [PDF](http://enos.itcollege.ee/~jpoial/java/naited/Java-Design-Patterns.pdf)
