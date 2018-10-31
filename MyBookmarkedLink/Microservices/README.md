@@ -10,7 +10,7 @@
 - [ ] Microservices with Spring Boot - [Dzone Blog by Samarpit (Example Based)](https://dzone.com/articles/spring-boot-microservices-building-microservices-a)
 
 
-+ SERIES
+- [ ] SERIES
     - [ ] Microservices in Spring Boot : [Series](http://www.springboottutorial.com/creating-microservices-with-spring-boot-part-1-getting-started)
     - [ ] Microservices with [Spring Boot](https://dzone.com/articles/microservices-with-spring-boot-part-1-getting-star)
     - [ ] Microservice using Spring Boot and Spring Cloud [here](https://dzone.com/articles/microservices-using-spring-boot-amp-spring-cloud-p)
