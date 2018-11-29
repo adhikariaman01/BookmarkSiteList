@@ -1,6 +1,7 @@
 # MICROSERVICES 
 
 - [ ] Getting started with [Microservices](https://www.infoq.com/articles/Microservices-SpringBoot) in Spring Boot
+- [ ] Blogs on [Microservice/Spring Cloud](https://piotrminkowski.wordpress.com/tag/microservices/) - piotrminkowski
 - [ ] [Microservices using Spring Cloud & Netflix OSS](http://callistaenterprise.se/blogg/teknik/2015/04/10/building-microservices-with-spring-cloud-and-netflix-oss-part-1/)
 - [ ] [Microservice with Spring Boot - by DineshOnJava](https://www.dineshonjava.com/microservices-with-spring-boot/) :statue_of_liberty:
 - [ ] Spring Cloud [QuickStart](https://medium.com/oril/spring-cloud-quick-start-227b766de4ee)
