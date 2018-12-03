@@ -1,7 +1,7 @@
 # Statistics 
 
 # Course :
-* [Into to Probability - Coursera](https://www.coursera.org/learn/introductiontoprobability)
+- [ ] [Into to Probability - Coursera](https://www.coursera.org/learn/introductiontoprobability)
 
 * [Statistics Specialization- Coursera](https://www.coursera.org/specializations/statistics)
 
