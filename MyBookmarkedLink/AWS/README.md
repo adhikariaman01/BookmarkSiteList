@@ -8,6 +8,7 @@
 
 # Course : :mortar_board::mortar_board:
   - [ ] Edex AWS specialization with 3 [courses](https://www.edx.org/school/aws) 
+  - [ ] AWS Fundamentals going cloud native - [Coursera](https://www.coursera.org/learn/aws-fundamentals-going-cloud-native)
 
 # Tutorials : 
   - [ ] [Awesome AWS Lambda](https://github.com/simplemerchant/awesome-aws-lambda)
