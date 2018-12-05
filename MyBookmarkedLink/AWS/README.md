@@ -31,7 +31,7 @@
   - [ ] Amazon [AWS](https://www.youtube.com/playlist?list=PL50mYnndduIHbzf1cU8RWLynotzSiUaLi)
   - [ ] AWS Solution Architect [Video](https://www.youtube.com/playlist?list=PL4ePDvEWFtXgD5QgImq1x23sImUL26OjN)
 
-  - [ ] Backspace Academy [AWS](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw/videos) videos
+  - [ ] **Backspace Academy** [AWS](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw/videos) videos
   - [ ] Cloude Academy AWS [Video Playlists](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/playlists)
   - [ ] AWS Tutorial Series [Playlist](https://www.youtube.com/user/awstutorialseries/playlists)
   - [ ] DevOps related video playlist including [AWS](https://www.youtube.com/channel/UCI18qgoLBgZlzhW8sbGg58g/playlists)
