@@ -1,5 +1,6 @@
 # Bookmarked Link for DevOps
-
+- [ ] Dev Ops Syllabus :
+ - [ ]  [DEVOPS COURSE CONTENT](https://kellytechno.com/hyderabad/DEVOPS.pdf)
 # Course : :mortar_board:
 - [ ] Intro to DevOps [Udacity](https://www.class-central.com/mooc/4013/udacity-intro-to-devops)
 
