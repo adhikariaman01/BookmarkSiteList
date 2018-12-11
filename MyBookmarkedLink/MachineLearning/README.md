@@ -31,8 +31,11 @@
 - [ ] [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps)
 - [ ] Edex :
   - [ ] [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-3)
-- [ ] [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-- [ ] [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
+- [ ] Udacity :
+  - [ ] Machine Learning Nanodegree [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/MLND+2-Term+Syllabus.pdf)
+  - [ ] AI Programming with Python Nanodegree [Syllabus](https://d20vrrgs8k4bvw.cloudfront.net/documents/en-US/Artificial+Intelligence+with+Python+Nanodegree+Syllabus+9-5.pdf)
+  - [ ] [Into to ML - udacity](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+  - [ ] [ML - udacity - Georgia Tech](https://www.udacity.com/course/machine-learning--ud262)
 
 # Videos   :movie_camera:
 - [ ] [Andrew Ng - Stanford - Youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)
