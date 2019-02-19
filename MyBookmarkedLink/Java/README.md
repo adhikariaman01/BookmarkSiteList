@@ -3,6 +3,14 @@
 
 - [ ] [blog](https://medium.com/@biratkirat/being-an-effective-java-developer-ab183f2b6c25) which can be learned parallel to Effective Java book
 
+
+
+
+- [ ] [ Advanced Java - GFG](https://www.javacodegeeks.com/2015/09/advanced-java.html)
+- [ ] [Tech Tutorial](https://netjs.blogspot.com/2015/05/java-advanced-topics.html)
+
+
+
 ## Sites to checkout Java and Problem Solving usig Java
 - [ ] [Java Practices](http://www.javapractices.com/home/HomeAction.do) :dart: :dart:
 - [ ] [Java Revisited](http://javarevisited.blogspot.in/) and [Java 67](http://www.java67.com/)
