@@ -23,6 +23,7 @@
 - [ ] [20 Lesson building ML system](https://www.kdnuggets.com/2015/12/xamat-20-lessons-building-machine-learning-systems.html)
 
 # Courses : :mortar_board: :mortar_board: 
+- [ ] [Introduction to Machine Learning for Coders (Top-Down approach)](http://course18.fast.ai/ml.html) Fast.ai  :+1: :gem: :gem:
 - [ ] Coursera :
   - [ ] [Mathematics for Machine Learning](https://www.coursera.org/specializations/mathematics-machine-learning)
   - [ ] [Machine Learning by Andrew Ng : Stanford](https://www.coursera.org/learn/machine-learning)  
