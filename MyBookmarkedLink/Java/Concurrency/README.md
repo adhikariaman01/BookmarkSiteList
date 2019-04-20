@@ -1,9 +1,7 @@
 # Concurrency
 - [ ] [Oracle](https://docs.oracle.com/javase/tutorial/essential/concurrency/) Concurrency Tutorial
 - [ ] Java Threads [Tutorial](http://www.java2s.com/Tutorials/Java/Java_Thread/index.htm): Java2s
-
 - [ ] Java Thread - [Ram N](https://ramj2ee.blogspot.in/2015/05/java-tutorial.html)
-
 - [ ] Java [Concurrency](https://www.ibm.com/developerworks/library/j-jvmc2/index.html) Basics
 - [ ] Java Concurrency Tutorial - [Vogella](http://www.vogella.com/tutorials/JavaConcurrency/article.html)
 - [ ] Java 8 [Concurrency](http://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/) Tutorial Series
@@ -12,12 +10,10 @@
 - [ ] Java2Blog Concurrency :  Ch5 - [MultiThreading](https://java2blog.com/java-thread-example/), 
 Ch6 - [Executor Framework](https://java2blog.com/java-threadpoolexecutor-example/), 
 Ch7 - [Concurrent Utils](https://java2blog.com/concurrenthashmap-in-java/) :+1::+1:
-
 - [ ] CS 891: Introduction to [Concurrent](http://www.dre.vanderbilt.edu/~schmidt/cs891f/) and Parallel Java Programming in Android
-
 - [ ] Java Concurrency DZone Ref Card on [Java Concurrency](https://dzone.com/storage/assets/7862400-dzone-rc061-corejavaconcurrency.pdf) PDF
 - [ ] [Java Fork-Join Example-  JavaCreed](http://www.javacreed.com/java-fork-join-example/)
-
+- [ ] [Concurrency/Multithreading : Java-Latte](http://java-latte.blogspot.com/p/concurrency.html):+1:
 # Topical :
 - [ ] Completable Future [Baeldung](http://www.baeldung.com/java-completablefuture)
 - [ ] Completable Future [Tutorial](https://www.callicoder.com/java-8-completablefuture-tutorial/)
