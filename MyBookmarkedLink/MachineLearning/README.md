@@ -29,7 +29,7 @@
   - [ ] [Machine Learning by Andrew Ng : Stanford](https://www.coursera.org/learn/machine-learning)  
   - [ ] [Machine Learning Specialization : UoW](https://www.coursera.org/specializations/machine-learning)
   - [ ] [Advanced Machine Learning Specialization](https://www.coursera.org/specializations/aml)
-- [ ] [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLYihddLF-CgYuWNL55Wg8ALkm6u8U7gps)
+- [ ] [IIT - Machine Learning](https://www.youtube.com/playlist?list=PLEJxKK7AcSEE6AFy0RmNHmV5EEM0lYkyT)
 - [ ] Edex :
   - [ ] [Machine Learning](https://www.edx.org/course/machine-learning-columbiax-csmm-102x-3)
 - [ ] Udacity :
