@@ -1,3 +1,5 @@
+# Book :
+ - [ ] Introduction to [Linear Algebra](http://www.math.nagoya-u.ac.jp/~richard/teaching/f2014/Lin_alg_Lang.pdf) 
 
 # :pushpin: Courses :mortar_board:
 - [ ] CS 503 [Matrix](http://cs.brown.edu/courses/cs053/current/index.htm) in Computer Science
